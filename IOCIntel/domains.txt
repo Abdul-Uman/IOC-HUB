@@ -6423,6 +6423,7 @@ api.solarflevoland.nl
 api.stockdata.tech
 api.stockinfo.io
 api.thaibit.io
+api.twmoc.info
 api.updatecall.live
 api.updatemycam.online
 api.updatewebcamnow.live
@@ -6502,6 +6503,7 @@ app-mews.life
 app-pink-joker-pl.online
 app-quantfury.online
 app-results.online
+app-site-association.cdn-apple.info
 app-software-development-training-11737.bond
 app-software-development-training-25630.bond
 app-software-development-training-28145.bond
@@ -7786,6 +7788,7 @@ azithromycinanc.online
 azmss.ws
 aznewsafrica.online
 azonixplay.xyz
+azure-app.store
 azure-defender.cloud
 azure-drive.com
 azure-escapes.online
@@ -10941,6 +10944,7 @@ bzicloud.com
 bzlqtzkgh.cn
 bzss.pt
 c-v-s-epernay.online
+c.mid.al
 c00bdcc2e4ca5834.com
 c0inwat3h.site
 c1024forum22.xyz
@@ -11637,6 +11641,7 @@ cdeskchain.top
 cdhconsultingservices.online
 cdl-lb-1356093980.us-east-1.elb.amazonaws.com
 cdmaaustralia.online
+cdn-apple.info
 cdn-webstats.com
 cdn.clubinfo.io
 cdn.clublogos.io
@@ -15491,6 +15496,7 @@ doc.filesaves.cloud
 doc.global-link.run.place
 doc.gsheetshare.org
 docaccesshub.top
+doccloude.info
 docdojshtensdmiaoe.site
 docelectronicos.site
 docentfx.com
@@ -23027,6 +23033,7 @@ jh-academy.org
 jhnayxlt.net
 jhrnmyxke.cn
 jhwmqsxpxhjlg.online
+ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion
 jiangshoppingmall.com
 jianqingtizhoong.site
 jiasen.cc
@@ -23574,6 +23581,7 @@ kbcwainwrightchallenge.org.uk
 kbealgldk.ws
 kbfizeskyyfkt.store
 kblqsvjd.cn
+kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion
 kbtalep64.xyz
 kbuzrhjsjksjc.store
 kckn.ir
@@ -29701,6 +29709,7 @@ onecrd.store
 onedigital.space
 onedocshare.com
 onedollarmillionaire.xyz
+onedrive.azure-app.store
 onedrive.azure-defender.cloud
 onedriveaccess.com
 oneflashelectrical.online
@@ -30070,6 +30079,7 @@ outletprime.site
 outletrunning.site
 outlets-pinko.top
 outlook-office.micsrosoftonline.com
+outlook.windows-app.store
 outlookspotlight.com
 outloook-mailer365.com
 outofmyhead.online
@@ -30129,6 +30139,7 @@ ozmarinetech.online
 ozora.shop
 ozqquhhl.cn
 ozsafetystore.online
+ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion
 oztransactions.online
 ozurrpaf.com
 ozyotmtw.cc
@@ -35703,6 +35714,7 @@ slepseetwork.online
 slfflu.ws
 slick-zaum.online
 slickmoney.online
+sliddeshare.online
 slimburndrop.site
 slimburndrops.online
 slimivex-no.site
@@ -40206,6 +40218,7 @@ twitpost.xyz
 twkancelaria.eu
 twkuyakimura.com
 twlekqnwl.naveicoipg.online
+twmoc.info
 twobet885.xyz
 twocrd.store
 twogroupers.site
@@ -42860,6 +42873,7 @@ wiilotalent.com
 wikahmart.com
 wikfupwap.cc
 wiki-tesla.online
+wikileaksv2.com
 wikiwaresmore.online
 wikiwhy.online
 wilbat.cn
@@ -42978,6 +42992,7 @@ window-replacement-us76093.site
 windowcleanadelaide.online
 windowdeals.online
 windowprostitution.online
+windows-app.store
 windows-download.net
 windows-replacement-deals-now.xyz
 windows-replacement-guide-today.xyz
@@ -43443,6 +43458,7 @@ www.theinnovators.or.kr
 www.toolfare.online
 www.top1miku.duckdns.org
 www.tubematedownload.org.37-49-227-160.cpanel.site
+www.twmoc.info
 www.video-connect.online
 www.vividsense.org
 www.wada.co.jp

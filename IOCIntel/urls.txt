@@ -18,6 +18,9 @@ http://5.199.133.149/jznkmustntblvmdvgcwbvqb
 http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
 http://77.90.153.136/ss/armv4l
+http://80.85.154.48:443
+http://80.85.157.117:443
+http://82.118.16.173:443
 http://88.119.170.124/ezedcjrfvjriftmldedu
 http://88.119.170.124/lcekcnkxkbllmwlpoklgof
 http://94.232.249.186/vodeo/vid_wg01ck01
@@ -31,6 +34,7 @@ http://alpinreisan1.com/HGR.exe
 http://alpinreisan1.com/HGX.exe
 http://alpinreisan1.com/UXO.exe
 http://anydeesk.ink/download/anydesk.html
+http://api.twmoc.info/ws
 http://bloomwpp.info/JRC89.xn--kut;-ib7a
 http://bloomwpp.info/KM9XFY.xn--kut;curl-fq3d
 http://bloomwpp.info/WTBXX46.xn--kut;$j=$env:tmp-0y9h
@@ -57,6 +61,8 @@ http://myanmar-org-mail.com/cbm/action.php
 http://nandayo.ru/srgssdfsf
 http://ntc-06gd0upz.b4a.run/login
 http://ntc-06gd0upz.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
+http://onedrive.azure-app.store/ws
+http://outlook.windows-app.store/ws
 http://posta-nhq43i6x.b4a.run/login
 http://posta-nhq43i6x.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://resources.avtechupdate.com/samlss/vm.ico.
@@ -81,6 +87,8 @@ http://xz.868id.com/EfsPotato_sign.exe
 https://abrargeospatial.ir/wp-includes/fonts/wp-icons/index.php
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://aefpceup.pt/mail/
+https://aesthetic-donut-1af43s2.netlify.app/file/rar
+https://aesthetic-donut-1af43s2.netlify.app/index/file/A_Introduction_Docs_v00546823.rar
 https://af-itsolutions.pt/mail/
 https://afpsat.pt/cbb/
 https://airprint.gr/kund/
@@ -93,6 +101,8 @@ https://alojagora.com/mail/
 https://alpyateknoloji.com/wp-backup/
 https://aojdy5ex.dreamwp.com/wp-admin/css/colors/HOooo.php
 https://api.solarflevoland.nl/system_web/verification.php
+https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://app-site-association.cdn-apple.info:443/updates.rss
 https://assurancemaladie-renouvellement.info
 https://ateci.pt/Backup/
 https://auth-billing-smp.grupositel.com/simply/mark.php
