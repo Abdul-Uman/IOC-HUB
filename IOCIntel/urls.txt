@@ -238,6 +238,7 @@ http://ownmbaego.com/index.php
 http://pbfenergy.cc/
 http://pbfenergy.cc/.
 http://phillips66shop.com/
+http://pool.uasecurity.org:9000
 http://posta-nhq43i6x.b4a.run/login
 http://posta-nhq43i6x.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://power.moon-river-coin.xyz/
@@ -508,6 +509,7 @@ https://iloveanimals.shop/user/login
 https://ilustremotivo.com/data/
 https://ilustremotivo.com/mail/
 https://imper1.clayhusas.sbs/login
+https://infosecteam.info/other.php?id=jdcz7vyqdoadr31gejeivo6g30cx7kgu
 https://investors.pbfenergy.com/
 https://ipdidi.clay.rest/login
 https://is.gd/s5xknuj2
@@ -547,6 +549,7 @@ https://metodorsame.sinistraperisraele.com/ppl-it/mark.php
 https://microsofstlive.fare.com.de/JmJfd
 https://mih.clayratnik.top/login
 https://mikro.pt/kund/
+https://mil-by.info/#/i?id=[REDACTED]
 https://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083
 https://mockbin.org/bin/7cc44695-0c31-4620-bed4-2e60adf0a4b6
 https://mockbin.org/bin/902ca47f-644d-4d44-88ec-060fdb7acaa4
@@ -648,6 +651,9 @@ https://sorvetenopote.com/api/itbi/Q77xivT4udoXayYELTwehMD666ovP6DZ
 https://sorvetenopote.com/api/v1/3d045ada0df942c983635e
 https://spaincaramoon.com/realestate/wp-content/plugins/gravityforms/forward.php
 https://spb.clayfenrirhuy.top/login
+https://srv480138.hstgr.cloud/report.php?query=$env:COMPUTERNAME'
+https://srv480138.hstgr.cloud/uploads/scan_3824.pdf'
+https://srv510786.hstgr.cloud/ordinary.php?id=9826fbb409f65dc6b068b085551bf4f3
 https://storycentral.net
 https://stradomi.com/res/presentjudge
 https://superluckbet.com/bonus/
