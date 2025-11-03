@@ -9,6 +9,7 @@ http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
 http://156.244.28.153/17ABE7F017ABE7F0
 http://164.68.120.30:550/99/Skype.ps1
+http://166.88.11.10/upload/check.asp
 http://172.245.81.135:10196/Geq5P3aFpaSrK3PZtErNgUsVCfqQ9kZ9/
 http://172.86.88.188/api/service/makelog
 http://172.86.88.188/api/service/process/c841b6c4ac4d2e83f16cf7a8bfbec3d7
@@ -23,6 +24,7 @@ http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://23.227.202.244:1224/brow/14/144
 http://23.227.202.244:1224/client/14/144
 http://23.227.202.244:1224/payload/14/144
+http://23.27.140.49/Onenote/index.asp
 http://404.008php.com/
 http://404.008php.com/zz/u.php
 http://404.300bt.com/index.php
@@ -210,6 +212,7 @@ http://lalindustries.com/wp-content/upgrade/editor.php
 http://lammysecurity.com/4/verify.sh
 http://lapkimeow.icu/check
 http://listofexoticplaces.com
+http://load.auraria.org/index.php
 http://lumichain.pro/
 http://mail.cbm.gov.mm/
 http://marshmellowflowerscar.info
@@ -280,6 +283,7 @@ http://technologysupport.help/1pac.php
 http://technologysupport.help/renderer.php
 http://technologysupport.help/renderer.php.
 http://tofukai.cfd/2/verify.sh
+http://tronracing.com/upload/check.asp
 http://tumbl.design-x.xyz/glass.mp3
 http://twsww.xin/download.html
 http://twswzz.xin/index.html
