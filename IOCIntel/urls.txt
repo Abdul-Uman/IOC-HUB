@@ -54,6 +54,9 @@ http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
 http://5.tcp.ngrok.io:22934
 http://7.tcp.ngrok.io:22426
+http://74.194.191.52/rondo.[arch].sh
+http://74.194.191.52/rondo.[arch].sh]
+http://74.194.191.52/rondo.[variant].sh
 http://74.194.191.52/rondo.arc700
 http://74.194.191.52/rondo.armeb
 http://74.194.191.52/rondo.armebhf
@@ -74,9 +77,12 @@ http://74.194.191.52/rondo.mips
 http://74.194.191.52/rondo.mipsel
 http://74.194.191.52/rondo.powerpc
 http://74.194.191.52/rondo.powerpc-440fp
+http://74.194.191.52/rondo.qre.sh||busybox
 http://74.194.191.52/rondo.sh4
 http://74.194.191.52/rondo.sparc
 http://74.194.191.52/rondo.x86_64
+http://74.194.191.52/rondo.xcw.sh||busybox
+http://74.194.191.52/rondo.xqe.sh|sh&echo
 http://77.83.207.106:56001
 http://77.90.153.136/ss/armv4l
 http://80.85.154.48:443
@@ -221,6 +227,7 @@ http://first.longlastfor.online:8080/client
 http://firstfromsep.online/client
 http://galusa.ac.mz/pdf
 http://gobr.868id.com/tz.php
+http://goolgepalay.com
 http://grasmertal.com/live/
 http://guest03442-booking.com/17149438
 http://gwadarport.ddns.net:9090
@@ -314,6 +321,7 @@ http://techbulldigital.com/List/com2/9O29EO3IRSBB
 http://technologysupport.help/1pac.php
 http://technologysupport.help/renderer.php
 http://technologysupport.help/renderer.php.
+http://tiktokgplya.sbs
 http://tofukai.cfd/2/verify.sh
 http://topsportracing.com/az10
 http://topsportracing.com/wp-25
@@ -435,6 +443,8 @@ https://betwiner.org/
 https://bibshe.com/
 https://bigassporntrends.com
 https://bimb.claybaster.top/login
+https://birancearea.com/adminv2
+https://bjsffsj.sbs
 https://blackcargo.pt/Backup/
 https://block-digital.online/drivers/cam_driver
 https://bloomwpp.info/DubjW967VGHD3ykdnhkdhn/dsdcrjhdeenidufoft.py
@@ -537,6 +547,8 @@ https://espressonisten.de/
 https://evgen.claybaster.top
 https://f12--bet.com
 https://faberkit.pt/Backup/
+https://fantasy-hub.online
+https://fantasy-hub.ru
 https://fatnaoacnsoxzssa.web.app/nyrsjhrgsdvxzzx/themes/435d220bee10a57b635805e70b50fd90nbr1657558944.js
 https://fatnaoacnsoxzssa.web.app/nyrsjhrgsdvxzzx/themes/708d225d43415316016978101b90d070.js
 https://fatnaoacnsoxzssa.web.app/nyrsjhrgsdvxzzx/themes/css/2a4e8eea72f5947287e793a9b9355d9fnbr1657558944.css
@@ -571,6 +583,7 @@ https://grupo-sk.com/mail/
 https://guvenisi.com/js/cform/
 https://hapich.clayfenrirhuy.top/login
 https://headedforspace.com/
+https://hiremployee.com
 https://holik.claydc.top/login
 https://holojo.clayrat.top/login
 https://hotm.art/HUDL28128
@@ -777,11 +790,15 @@ https://synthient.com/blog/ghostsocks-from-initial-access-to-residential-proxy
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamidcrz/
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamsid.php
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamzid.php
+https://telegramunlock.ru
 https://telephony.nexttradeitaly.com/SSSuWBTmYwu/
 https://test.clayrat.top/login
 https://themasterscraft.com/
 https://thetripschool.com/
 https://thewondersmx.com/mail/
+https://tikitok-goolges.sbs
+https://tikpremplaymarktuzb.sbs
+https://tiktoki-goolge.sbs
 https://tiresdoc.com/
 https://today-88.com
 https://torvi.pt/Backup/
@@ -793,6 +810,7 @@ https://tulicrp.engajroker.cyou/Bin/support.Client.exe
 https://tvbet-88.com
 https://tyler.clayratnik.top/login
 https://unica.md/
+https://unlockk.play-google-store.ru
 https://urgent-update.cloud/uploadfiles
 https://urlocalartist.pt/mit/
 https://urls.fr/rUbDjo
@@ -820,6 +838,7 @@ https://wetwap.info
 https://wfporn.com/
 https://wheelmedia.hu/wheelmediahu/
 https://whiskymuseum.at/
+https://wildberries.play-market-com.online
 https://winbet-bet.com/
 https://word1.clayfenrirhuy.top/login
 https://workspacin.cloud/live/
@@ -855,6 +874,7 @@ https://www.smithcoinc.biz/
 https://www.stassa.pt/wp-mail/
 https://www.supremesovietoflove.com/wp/
 https://www.teleseryeone.com/
+https://www.tikitok-playgoolge.sbs
 https://www.us.registration.fcaministers.com/
 https://www.wagenbaugrabs.ch/
 https://www.worldwealthbuilders.com/
