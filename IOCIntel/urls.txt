@@ -114,6 +114,8 @@ http://83.252.42.112/rondo.powerpc-440fp
 http://83.252.42.112/rondo.sh4
 http://83.252.42.112/rondo.sparc
 http://83.252.42.112/rondo.x86_64
+http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip
+http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip'
 http://85.208.84.94:56001
 http://88.119.170.124/ezedcjrfvjriftmldedu
 http://88.119.170.124/lcekcnkxkbllmwlpoklgof
