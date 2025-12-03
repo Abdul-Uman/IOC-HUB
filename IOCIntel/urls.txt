@@ -191,6 +191,7 @@ http://api.npoint.io/cb0f9d0d03f50a5e1ebe
 http://api.npoint.io/e6a6bfb97a294115677d
 http://api.npoint.io/f4be0f7713a6fcdaac8b
 http://api.npoint.io/f6dd89c1dd59234873cb
+http://api.package.coreservice.io:10443
 http://api.twmoc.info/ws
 http://app.bytevista.cloud/wfree
 http://app.compassidea.org/vcamv8/drvMac-an5r.patch
@@ -372,6 +373,7 @@ http://posta-nhq43i6x.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://power.moon-river-coin.xyz/
 http://privatunis.cfd/1/verify.sh
 http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
+http://proxy.hideiqxshlgvjk.com:5050
 http://q.startimes.me/
 http://recaptcha-manual.shop/kangarooing.m4a
 http://recaptcha-verify-4h.pro/kangarooing.m4a
@@ -776,6 +778,7 @@ https://marketplace24ei.ru/790628.php
 https://maybach.clayratnik.top/login
 https://mcaluminios.pt/refresh/
 https://mconnectsz.nsocumentzs.com/Bin/ZOOM.ClientSetup.exe?e=Access&y=Guest
+https://mechiraz.com/cart/checkout/files/update_info.aspx
 https://medicit-y.ch/
 https://mediostresbarbas.com.ar/php_scrip/banahosting/index.php
 https://meet.ell-safe.online/invitation-fgh-rewk-evg
