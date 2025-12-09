@@ -23,6 +23,8 @@ http://185.218.87.28
 http://188.127.251.146:8080/sbchost.rar
 http://188.127.251.146:8080/sxbchost.exe
 http://192.153.57.9/private/svchost.exe
+http://193.34.213.150/nuts/bolts
+http://193.34.213.150/nuts/x86
 http://195.2.79.245/firefox.exe
 http://195.2.79.245/service.exe
 http://195.2.79.245/winload.exe
@@ -210,6 +212,12 @@ http://alpinreisan1.com/UXO.exe
 http://amormc.com/index.php?3xmvgr
 http://amormc.com/index.php?ndv5f1
 http://anydeesk.ink/download/anydesk.html
+http://anywherehost.site/xb/runner.zip
+http://anywherehost.site/xb/systemd-devd.$
+http://anywherehost.site/xms/k1.sh?grep
+http://anywherehost.site/xms/kill2.sh
+http://anywherehost.site/xms/su
+http://anywherehost.site/xms/t1.ps1
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
 http://api.npoint.io/03f98fa639fa37675526
@@ -240,6 +248,7 @@ http://aquacomplect.ru/complex.hta
 http://ardt.info/tmp/
 http://aspeimoveis342235.online/
 http://auth.wizvera.o-r.kr/index.php
+http://ax29g9q123.anondns.net
 http://belaysolutions.link/pdf/hiring_assistant.pdf.rar
 http://bendavo.su/asdsa
 http://betiv.fun/7456f63a46cc318334a70159aa3c4291.txt
@@ -366,10 +375,15 @@ http://icherryls.com/
 http://icherryls.com/exec.exe
 http://icherryls.com/msa.exe
 http://icherryls.com/taskid.exe
+http://inerna1.site/xb/runner.zip
+http://inerna1.site/xb/systemd-devd.x86_64
+http://inerna1.site/xms/k1.sh
+http://inerna1.site/xms/t1.ps1
 http://inewsmvo.com/
 http://inewsmvo.com/X76kw.exe
 http://inewsmvo.com/set.exe
 http://inewsmvo.com/taskhs.exe
+http://ip.inovanet.pt/systemprofile.zip
 http://items.kycc-camera.shop/
 http://j5h4f9b6.com/
 http://j5h4f9b6.com/taskid.exe
@@ -396,6 +410,9 @@ http://k0j8h7f6d5s4.com/tasks.exe
 http://kaiwachis.ug/
 http://kaiwachis.ug/NShnObEA4XwtlDCC/login.php
 http://kaiwachis.ug/nshnobea4xwtldcc/gate.php
+http://keep.camdvr.org:8000/BREAKABLE_PARABLE10
+http://keep.camdvr.org:8000/BREAKABLE_PARABLE5
+http://keep.camdvr.org:8000/d5.sh
 http://kimbeech.cfd/cap/verify.sh
 http://kololjrdtgted.click/zip.php.
 http://krona77.ru/edr.hta
@@ -499,6 +516,7 @@ http://squeaue.su/qwe
 http://stars.medbury.com:18810
 http://start.cleaning-room-device.shop/sha589.m4a
 http://stat.bluetroniq.vip/
+http://superminecraft.net.br:3000/sex.sh
 http://techbulldigital.com/Apply/readme/VJICARU60DC?_WHBEXNIA=HNMIIIANEMPMLIDFEOPKLBDOEMPI
 http://techbulldigital.com/List/com2/9O29EO3IRSBB
 http://technologysupport.help/1pac.php
