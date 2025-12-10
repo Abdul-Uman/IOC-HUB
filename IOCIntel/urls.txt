@@ -1,5 +1,6 @@
 http://1.tcp.sa.ngrok.io:20262
 http://1.tcp.us-cal-1.ngrok.io:24521
+http://103.135.101.15/wocaosinm.sh
 http://103.231.75.101:8888
 http://135.181.123.177/api/service/makelog
 http://137.184.126.86:8080/vmwaretools
@@ -20,6 +21,7 @@ http://185.118.164.195/c
 http://185.158.113.114:5000/affiliate/builder.
 http://185.183.97.25/protocol/function.php
 http://185.218.87.28
+http://185.247.224.41:8443
 http://188.127.251.146:8080/sbchost.rar
 http://188.127.251.146:8080/sxbchost.exe
 http://192.153.57.9/private/svchost.exe
@@ -37,6 +39,8 @@ http://1stpubs.com/set.exe
 http://1stpubs.com/taskhs.exe
 http://1stpubs.com/tasks.exe
 http://200.107.207.15/37:
+http://207.148.79.178:6608/sys.sh
+http://216.158.232.43:12000/sex.sh
 http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://23.227.202.244:1224/brow/14/144
@@ -51,8 +55,12 @@ http://2ndpub.com/taskid.exe
 http://2ndpub.com/taskidd.exe
 http://2ndpub.com/taskis.exe
 http://2ndpub.com/taskmg.exe
+http://31.56.27.97/scripts/4thepool_miner.sh
 http://35.246.189.253/gate/log.php
+http://38.165.44.205/1
+http://38.165.44.205/k
 http://38.180.83.166/6CDF0FC26CDF0FC2
+http://39.97.229.220:8006/httd
 http://3eueu.com/
 http://3eueu.com/set.exe
 http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion
@@ -83,8 +91,11 @@ http://45.159.248.110
 http://45.159.248.110/brow/xyz2
 http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
+http://45.32.158.54/5e51aff54626ef7f/x86_64
+http://45.76.155.14/vim
 http://45.89.53.54
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
+http://49.51.230.175:9898
 http://5.199.133.149/jznkmustntblvmdvgcwbvqb
 http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
@@ -467,6 +478,7 @@ http://power.moon-river-coin.xyz/
 http://privatunis.cfd/1/verify.sh
 http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
 http://proxy.hideiqxshlgvjk.com:5050
+http://putuartana.com/cleangpt
 http://q.startimes.me/
 http://qposhgames.com/
 http://qposhgames.com/set1.exe
@@ -548,6 +560,7 @@ http://vlasta-s.ru/logista.hta
 http://vlasta-s.ru/logista.rtf
 http://vn404.008php.com/index.php
 http://vn404.008php.com/zz/u.php
+http://vps-zap812595-1.zap-srv.com:3000/sex.sh
 http://web.commoncome.online:8080/client
 http://web071zoom.us/fix/audio-fv/7217417464
 http://web071zoom.us/fix/audio-tr/7217417464
@@ -664,6 +677,9 @@ https://api.clearit.sbs/uploadfiles
 https://api.flashstore.sbs/test
 https://api.flashstore.sbs/uploadfiles
 https://api.jz-aws.info/public/images/
+https://api.qtss.cc:443/en/about?source=redhat&id=v1.0
+https://api.qtss.cc:443/en/about?source=redhat&id=v1.1
+https://api.qtss.cc:443/en/about?source=redhat&id=v1.2
 https://api.solarflevoland.nl/system_web/verification.php
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
 https://app-site-association.cdn-apple.info:443/updates.rss
