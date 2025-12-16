@@ -27,11 +27,17 @@ http://188.127.251.146:8080/sxbchost.exe
 http://192.153.57.9/private/svchost.exe
 http://193.34.213.150/nuts/bolts
 http://193.34.213.150/nuts/x86
+http://194.69.203.32:81/hiddenbink/colonna.arc
+http://194.69.203.32:81/hiddenbink/colonna.i686
+http://194.69.203.32:81/hiddenbink/react.sh
 http://195.2.79.245/firefox.exe
 http://195.2.79.245/service.exe
 http://195.2.79.245/winload.exe
 http://195.2.79.245/winload.rar
 http://195.2.79.245/winupdate.exe
+http://196.251.100.191/no_killer/Exodus.arm4
+http://196.251.100.191/no_killer/Exodus.x86
+http://196.251.100.191/no_killer/Exodus.x86_64
 http://1downloadss0ftware.xyz/gogo/gotb/
 http://1stpubs.com/
 http://1stpubs.com/cgi-sys/suspendedpage.cgi
@@ -254,6 +260,7 @@ http://amormc.com/index.php?ndv5f1
 http://anydeesk.ink/download/anydesk.html
 http://anywherehost.site/xb/runner.zip
 http://anywherehost.site/xb/systemd-devd.$
+http://anywherehost.site/xms/k1.sh
 http://anywherehost.site/xms/k1.sh?grep
 http://anywherehost.site/xms/kill2.sh
 http://anywherehost.site/xms/su
@@ -367,6 +374,7 @@ http://discover-travel-agency.pro/walking.mp3
 http://dns-verify-me.pro/xfiles/train.mp4
 http://doc-ye9wbezc.b4a.run/
 http://document-file.ru/files/documents/zakupki/MicrosoftWord.exe
+http://donaldjtrmp.anondns.net:1488/labubu
 http://dosingpumps.ru/nciki.hta
 http://download.playthecheckers.com/d/Checkers.exe
 http://download.playthechess.com/d/MasterChess_oc.exe
@@ -458,10 +466,12 @@ http://keep.camdvr.org:8000/BREAKABLE_PARABLE5
 http://keep.camdvr.org:8000/d5.sh
 http://kimbeech.cfd/cap/verify.sh
 http://kololjrdtgted.click/zip.php.
+http://krebsec.anondns.net:2316/dong
 http://krona77.ru/edr.hta
 http://kupaoquan.com
 http://kupaoquan.com/files/update-web-kupaoquan.com.ps1.
 http://kvejo991.ddns.net:1604
+http://labubu.anondns.net:1488/dong
 http://lalindustries.com/wp-content/upgrade/editor.php
 http://lammysecurity.com/4/verify.sh
 http://lapkimeow.icu/check
@@ -637,6 +647,7 @@ http://www.massnetworks.org
 http://x404.008php.com/index.php
 http://x404.008php.com/zz/u.php
 http://xn--e1ajbcejcefx.xn--p1ai/sflopytrgjklhfaseri
+http://xpertclient.net:3000/sex.sh
 http://xxx.retweet.shop/
 http://xz.868id.com/EfsPotato_sign.exe
 http://yasbet.com.co/
@@ -948,6 +959,7 @@ https://getallmanuals.com/GetAllManuals.exe
 https://getmanualviewer.com/getmanualviewer.exe
 https://gfc-angola.com/mail/
 https://ggbet-88.com
+https://ghostbin.axel.org/paste/evwgo/raw
 https://gitelman.clayratnik.top/login
 https://github.com/7codewizard
 https://github.com/ghost
@@ -1085,6 +1097,7 @@ https://openai-pidor-with-ai.com:6343/gateway/pqnrojhl.adc7k
 https://oslik.clayhusas.sbs:4793/
 https://ostmarketing.com/
 https://outprint.pt/dk/
+https://overcome-pmc-conferencing-books.trycloudflare.com/p.png
 https://ownmbaego.com/index.php
 https://packwa.claydc.top/login
 https://packwa.claysrat.top/login
