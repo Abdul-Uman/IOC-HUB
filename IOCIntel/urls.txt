@@ -2,6 +2,7 @@ http://1.tcp.sa.ngrok.io:20262
 http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.135.101.15/wocaosinm.sh
 http://103.231.75.101:8888
+http://110.172.104.95:8000/api/download/windows-tools/amd64
 http://135.181.123.177/api/service/makelog
 http://137.184.126.86:8080/vmwaretools
 http://139.84.156.79/dst-x86.bin
@@ -1286,6 +1287,7 @@ https://wtqz3bn75j7ha49f82k.dewakartu.top/
 https://www.aeoj.org/mail/
 https://www.afpsat.pt/cbb/
 https://www.afpsat.pt/cbb/index.php
+https://www.akjys.top/
 https://www.anvil.org.ph/list/images/index.php
 https://www.autentifuturo.pt/mail/
 https://www.azcorts.com/
@@ -1348,3 +1350,4 @@ https://yuhz.confeciona.com/
 https://yunvxi.com/
 https://zam.claydc.top
 https://zamok.claysrat.top/
+https://zkcall.net/download
