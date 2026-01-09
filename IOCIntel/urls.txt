@@ -56,6 +56,7 @@ http://23.227.202.244:1224/payload/14/144
 http://23.254.164.156/introduction-video
 http://23.254.164.156/introduction-video.
 http://23.27.140.49/Onenote/index.asp
+http://2fa-bns.com/win/ajsb.exe
 http://2ndpub.com/
 http://2ndpub.com/set.exe
 http://2ndpub.com/taskid.exe
@@ -682,6 +683,7 @@ https://1xbete.org/
 https://1xbetgiris.cam
 https://212.22.70.4/api/v12
 https://2betboro.com/
+https://2fa-bns.com/
 https://2ndpub.com/
 https://31.214.240.203/api/v150
 https://31.214.240.203/api/v152
