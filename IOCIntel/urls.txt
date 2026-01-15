@@ -231,6 +231,8 @@ http://91.202.233.215/config.txt
 http://91.202.233.215/t/qpwoe32.txt
 http://91.202.233.215/t/qpwoe64.txt
 http://91.202.233.215/win64.vbs
+http://94.159.113.32/service
+http://94.159.113.32:80/service
 http://94.232.249.186/vodeo/vid_wg01ck01
 http://94.232.249.186/vodeo/wg01ck01
 http://94.232.40.49/vodeo/wg01ck01
@@ -678,6 +680,7 @@ https://164.132.76.76/api/v12
 https://164.68.107.165/api/v10
 https://164.68.107.165/api/v12
 https://178.16.53.236:6343/gateway/pqnrojhl.adc7k
+https://185.126.255.132/requestor.php
 https://185.99.2.196/api/v12
 https://194.5.249.156/api/v10
 https://195.123.241.175/api/v153
@@ -767,6 +770,7 @@ https://apple-online.shop/MicrosoftEdgeSetup.exe
 https://apprater.net/
 https://aptabase.fud2026.xyz:8443/api/v0/event
 https://aradax.ir/
+https://arianeconseil.online/wp-includes/sitemaps/html/
 https://assurancemaladie-renouvellement.info
 https://ataev.claybaster.top/login
 https://ataev2.claydc.top
@@ -914,6 +918,7 @@ https://download.gocookmate.com/d/gocookmate.exe
 https://download.justaskjacky.com/d/justaskjacky.exe
 https://download.manualreaderpro.com/d/manualreaderpro.exe
 https://download.openmymanual.com/OpenMyManual.exe
+https://download.originalapk.com/wp-content/plugins/loginizer/styles/
 https://download.playclassicfallingblocks.com/d/FallingCubes.exe
 https://download.playclassicminesweeper.com/ClassicMinesweeper.exe
 https://download.playclassicsnake.com/d/SnakeAxxack.exe
@@ -1169,6 +1174,7 @@ https://plus-condos-thy-redeem.trycloudflare.com/ow/new.bin
 https://porngun.mobi
 https://pornorado.mobi
 https://portal.msprogresssharefile.cloud/
+https://portal.northernfruit.com/wp-content/plugins/file-away/core/
 https://povporntrends.com
 https://pub-motorola-viking-charger.trycloudflare.com/12341234
 https://r34porn.net/
