@@ -9,6 +9,7 @@ http://139.84.156.79/dst-x86.bin
 http://14.103.145.202/rondo.
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
+http://154.58.204.15
 http://156.244.28.153/17ABE7F017ABE7F0
 http://164.68.120.30:550/99/Skype.ps1
 http://166.88.11.10/upload/check.asp
