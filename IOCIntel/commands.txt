@@ -40,10 +40,14 @@
 930c3c5d76ccc48610e1d8ec624020d54c22c469
 a2dba02f720dd51affc00e51339c9c9dfe093530
 aa9c4f42ed88442645625bd15b7ba898c3f882f4
+aman.jaiswal@web3paymentsolutions.io
+andrew@koinos.us
+andrew_watson@koinos.us
 b22b203c47de1c87e53dac4e5e6b1562edfe4a52
 b5068f523f56b33b5665f3ae177c985502dc237c
 b96145f83a8f391c40cf260a4dd45d661fd91e83
 bang2012@tutanota.de
+bulat@parity.io
 c214d975f142d7ca7011f342f2a1fe009b9bffab
 c25bdd4009cd83f5a97dbc803aa91609dc263bae
 c5cc144cba6bb4597630e7d0fe9efef9f33a63a7
@@ -62,6 +66,8 @@ feleko2722@replyloop.com
 host_sdji21cxvmj12@dropjar.com
 jacksonkidd216@gmail.com
 kamaunjoroge296@gmail.com
+kblucky0219@proton.me
+leandro@kasta.io
 lux_47_jkscnxkjasd@fviainboxes.com
 lux_49_kcsdfer321@fviainboxes.com
 lux_bl_20_ilskdfgnoi_reg@fviainboxes.com
@@ -72,6 +78,7 @@ mimikatz@anti.pm
 mimikatzlogs@anti.pm
 mobile.mailer1@proton.me
 no-reply.doc333@ksmus.virtoshare.com
+philip@cryptoasis.com
 pq-black234333123@clowmail.com
 pq_bl_6_safs_sssw@fviainboxes.com
 procure@bmuxitq.shop
