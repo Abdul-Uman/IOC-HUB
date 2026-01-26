@@ -297,6 +297,7 @@ http://api.npoint.io/cb0f9d0d03f50a5e1ebe
 http://api.npoint.io/e6a6bfb97a294115677d
 http://api.npoint.io/f4be0f7713a6fcdaac8b
 http://api.npoint.io/f6dd89c1dd59234873cb
+http://api.office123456.com/vcx/
 http://api.package.coreservice.io:10443
 http://api.twmoc.info/ws
 http://app.bytevista.cloud/wfree
@@ -361,6 +362,7 @@ http://cloudcenter.top/macos_update_arm
 http://cloudcenter.top/macos_update_x64
 http://cloudcenter.top/sys/update
 http://cobyrose.com/tmp/
+http://codon.vn/ext/xmshield.json
 http://confirmation8324-booking.com/17149438
 http://confirmation887-booking.com/17149438
 http://conocophillips.live/
@@ -482,6 +484,7 @@ http://k0j8h7f6d5s4.com/set.exe
 http://k0j8h7f6d5s4.com/taskid.exe
 http://k0j8h7f6d5s4.com/taskis.exe
 http://k0j8h7f6d5s4.com/tasks.exe
+http://k8n1z40.live/k8n1z40.json
 http://kaiwachis.ug/
 http://kaiwachis.ug/NShnObEA4XwtlDCC/login.php
 http://kaiwachis.ug/nshnobea4xwtldcc/gate.php
@@ -569,6 +572,7 @@ http://saborizerefeicoes34.site/
 http://salorttactical.top/2/verify.sh
 http://sandbox.silver-map-generator.shop/
 http://sandbox.yunqof.shop/macan.mp3
+http://searchingpart.com
 http://second.systemupdate.cloud/client
 http://secure-ntc.net/Advisory/NTC/2025/05/hit.gov.pk/
 http://security-2k7q-check.com/1/verify.sh
@@ -629,6 +633,8 @@ http://topsportracing.com/az10
 http://topsportracing.com/wp-25
 http://topsportracing.com/wp-az
 http://track.trust-text.com/index.php/campaigns/xo229otmwcfc8/track-url/ce474wg53d927/c029686d838a3ad3d65826c7e7bddcf3b6e32062There
+http://trk.entiretrack.com/
+http://trk.entiretrack.com/trackerwcfsrv/tracker.svc/trackUpdate/?q=
 http://tronracing.com/upload/check.asp
 http://tumbl.design-x.xyz/glass.mp3
 http://twsww.xin/download.html
@@ -665,6 +671,8 @@ http://wehelpgood.xyz/derive/n/nzoqjd9mme
 http://www.christmasscheercash.com/?id=5FfbxodhySi_D1TNJ-PpNRzZGFRGN7K_peJxXJjmuIA.&subId=ce474wg53d927Hxxps://go.thepersonalfinanceguide.com/https://webr-db.global.ssl.fastly.net/qi/exc.htmlSender
 http://www.donate.melissarelieffundtojamaicans.online/
 http://www.donate.melissarelieffundtojamaicans.online/donate10000.html.
+http://www.dpswebsafe.com/rd/
+http://www.dpswebsafe.com/rd/?q=
 http://www.icherryls.com/
 http://www.icherryls.com/1.exe
 http://www.iytest.com:5679
@@ -886,6 +894,7 @@ https://clientlogin.blitzcapital.net/
 https://cloud-server.store/update
 https://cloudmeri.com/comm.php
 https://cloudy.pk/
+https://codon.vn/ext/xmshield.json
 https://commbank.detailsconfirm.in/
 https://con.wolonman.com/Bin/ScreenConnect.ClientSetup.exe
 https://confirmation8324-booking.com/17149438
