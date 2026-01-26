@@ -283,6 +283,7 @@ http://anywherehost.site/xms/su
 http://anywherehost.site/xms/t1.ps1
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
+http://api.notely.fun/api
 http://api.npoint.io/03f98fa639fa37675526
 http://api.npoint.io/148984729e1384cbe212
 http://api.npoint.io/2169940221e8b67d2312
@@ -370,6 +371,7 @@ http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/
 http://conxmsw.su/vcsf
 http://cookcountyjudges.org/
 http://corezea.com/ebc
+http://cotlesgengeral.com/
 http://cquopymaiqna.com/bomla
 http://cs.pyhycy.com/index.php
 http://cs.pyhycy.com/zz/u.php
@@ -436,6 +438,7 @@ http://grasmertal.com/live/
 http://guest03442-booking.com/17149438
 http://gwadarport.ddns.net:9090
 http://hareandhosta.com/95xh
+http://hci-outdoors.com/salt-engine.html
 http://headkickscountry.com/lz1y
 http://homelycareinc.com/po7r
 http://human-verify-4r.pro/xfiles/human.cpp
@@ -521,6 +524,7 @@ http://netml.shop/get?q=ivanti
 http://newforsomething.rest:8080/ws
 http://nextgen1.net/carrier.broker.agreement.html.
 http://note1.nz7bn.pro/nnp.mp4
+http://notely.fun/login
 http://ntc-06gd0upz.b4a.run/login
 http://ntc-06gd0upz.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://nyash.team/
@@ -575,6 +579,7 @@ http://security-9y5v-scan.com/7/verify.sh
 http://security-a2k8-go.com/6/verify.sh
 http://security-check-l2j4.com/verify.sh
 http://security-check-u8a6.com/2/verify.sh
+http://securityfenceandwelding.com/curl/79fbe2e4cccedda99204eeeeab1f4cb93ff81c1d08f2f28dfb1db80c187e1d43
 http://seeconnectionalive.website:8080/login
 http://seeconnectionalive.website:8080/ws
 http://seedsuccesspath.com/6m8a
