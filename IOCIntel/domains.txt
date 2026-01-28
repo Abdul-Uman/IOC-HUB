@@ -5336,6 +5336,7 @@
 2f3c1k4k0g2.shop
 2f5ci6b40d.cyou
 2f6h8j0l2n5.shop
+2f7ac6.ceye.io
 2f7h3j5l8n0.shop
 2f7q3x2h8o7.shop
 2f8f6r6o3w6.shop
@@ -9402,6 +9403,7 @@
 5a15hjgh0.top
 5ae39a1b39d45d08f947bdf0ee0452ae.serveo.net
 5amshuttle.online
+5axzi7.dnslog.cn
 5b0be150b94e89db.com
 5b1cy6768d.world
 5b3pw87uu1.top
@@ -65355,6 +65357,7 @@ ns.bointl.org
 ns.dropfile.online
 ns1.325web.com.br
 ns1.ajwebdevelopment.com
+ns1.bafairforce.army
 ns1.big-typl.online
 ns1.boulevards.com
 ns1.coponde.com
@@ -65373,6 +65376,7 @@ ns1.salessgroupss.live
 ns1.serialrusskie.online
 ns1.serverbuilt.com
 ns1.traformat.world
+ns1.ubunutpackages.store
 ns1.uixstudios.com
 ns1d.com
 ns2.agorab2b.com
@@ -80733,6 +80737,7 @@ testimonyojo.online
 testing-around.online
 testing-ererer-34343.online
 testing-server-3.xyz
+testing.caai.in
 testing.diogoflix.com
 testingaisolutionswebsites.online
 testingcgentlenexus.click
