@@ -77,6 +77,8 @@ http://35.246.189.253/gate/log.php
 http://38.165.44.205/1
 http://38.165.44.205/k
 http://38.180.83.166/6CDF0FC26CDF0FC2
+http://38.255.43.60:8081////clients/payloads/kxe.py'
+http://38.255.43.60:8081////clients/stagers/kxe.py'
 http://39.97.229.220:8006/httd
 http://3eueu.com/
 http://3eueu.com/set.exe
@@ -98,6 +100,7 @@ http://404.hao563.com/index.php
 http://404.hao563.com/zz/u.php
 http://404.hzyzn.com/index.php
 http://404.hzyzn.com/zz/u.php
+http://404.imxzq.com/tdks.php?domain=%s\u0026path=%s
 http://404.pyhycy.com/index.php
 http://404.pyhycy.com/zz/u.php
 http://404.yyphw.com/index.php
@@ -441,6 +444,7 @@ http://gemme-cotti.ru/cotti.docx
 http://gemme-cotti.ru/mida.hta
 http://gemme-cotti.ru/zibaba.hta
 http://gfxnick.emerald.usbx.me/bot
+http://go1.kmm5tn.ceye.io
 http://gobr.868id.com/tz.php
 http://goolgepalay.com
 http://grasmertal.com/live/
@@ -613,6 +617,11 @@ http://stars.medbury.com:18810
 http://start.cleaning-room-device.shop/sha589.m4a
 http://stat.bluetroniq.vip/
 http://superminecraft.net.br:3000/sex.sh
+http://tdk.hunanduodao.com/jump/fql.js
+http://tdk.hunanduodao.com/jump/ov.js
+http://tdk.hunanduodao.com/tdk.php?domain=%s\u0026path=%s
+http://tdkfsdfa.cnmseo.com/jump/fql.js
+http://tdkfsdfa.cnmseo.com/jump/ll.js
 http://teams.baoyingkeji.com
 http://teams.chetanagarbatti.com
 http://teams.cpeakem.com
@@ -646,6 +655,14 @@ http://tronracing.com/upload/check.asp
 http://tumbl.design-x.xyz/glass.mp3
 http://twsww.xin/download.html
 http://twswzz.xin/index.html
+http://tz.jmfwy.com/jump/json.js
+http://tz.jmfwy.com/jump/mage.js
+http://tz.jmfwy.com/jump/tiger.js
+http://tz.ohtcm.com/jump/fql.js
+http://tz.ohtcm.com/jump/json.js
+http://tz.ohtcm.com/jump/ll.js
+http://tz.ohtcm.com/jump/ov.js
+http://tz.suucx.com/jump/ov.js
 http://udlg.nl/tmp/
 http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
 http://valdia.quatiappcn.pw/62015040e66111503f639b54.js
@@ -729,6 +746,8 @@ https://2ndpub.com/
 https://31.214.240.203/api/v150
 https://31.214.240.203/api/v152
 https://35.164.230.208/link/s
+https://404.imxzq.com/tdks.php?domain=%s\u0026path=%s
+https://404.jmfwy.com/tdks.php?domain=%s\u0026path=%s
 https://45.148.10.190/api/v150
 https://45.148.10.190/api/v152
 https://45.74.16.71/aAold/Skype.ps1
@@ -740,7 +759,10 @@ https://5.252.155.99/gateway/r2sh55wm.a56d3
 https://54.89.230.95/rest/t
 https://580-bet.com
 https://68.183.214.30/api/v12
+https://7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la/test/zcgo/go.exe
+https://7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la/test/zcgo/zcgo1.vbs
 https://7755-bet.com
+https://799.cors5.vip/1018.php?domain=%s\u0026path=%s
 https://82.146.37.128/api/v150
 https://82.146.37.128/api/v152
 https://82.146.37.128/api/v153
@@ -879,6 +901,9 @@ https://bubl6g.com:443/api/v204
 https://buildacampervan.com/
 https://buildthenations.info/PKCERT/pkcert.html
 https://buka.clayrat.top/login
+https://bxphp.westooo.com/58z.js
+https://bxphp.westooo.com/?xhost=%s\u0026url=%s\u0026ua=Googlespider\u0026f=bd
+https://bxphp.westooo.com/u.php
 https://byliljedahl.com/8anf
 https://bzss.pt/cbb/
 https://bzss.pt/mail/
@@ -1030,6 +1055,7 @@ https://fixus.co.ao/mail/
 https://flashserve.store/update
 https://forest-offensive-height-letters.trycloudflare.com/12341234
 https://fotbalovavidea.cz/
+https://fql.jmfwy.com/tdks.php?domain=%s\u0026path=%s
 https://funtik.clayfenrirhuy.top/login
 https://fuwin-88.com
 https://fuxee.mobi
@@ -1348,6 +1374,7 @@ https://swaga.claybaster.top/login
 https://swg.clayratnik.top/login
 https://synthient.com/blog/ghostsocks-from-initial-access-to-residential-proxy
 https://t.me/peregrine423f
+https://tdk.jmfwy.com/tdk.php?domain=%s\u0026path=%s
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamidcrz/
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamsid.php
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamzid.php
@@ -1360,9 +1387,11 @@ https://telegramunlock.ru
 https://telephony.nexttradeitaly.com/SSSuWBTmYwu/
 https://test.clayrat.top/login
 https://tg-media.guardedcloud.net/?access_hash=ceFFc8F817&cuid=nghdRm&code=A824c7d9D3&tuid=SuCmHG
+https://th.gtwql.com/1018.php?domain=%s\u0026path=%s
 https://themasterscraft.com/
 https://thetripschool.com/
 https://thewondersmx.com/mail/
+https://thov.hunanduodao.com/tdks.php?domain=%s\u0026path=%s
 https://tikitok-goolges.sbs
 https://tikpremplaymarktuzb.sbs
 https://tiktoki-goolge.sbs
