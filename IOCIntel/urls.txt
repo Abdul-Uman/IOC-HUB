@@ -6,6 +6,11 @@ http://110.172.104.95:8000/api/download/windows-tools/amd64
 http://135.181.123.177/api/service/makelog
 http://137.184.126.86:8080/vmwaretools
 http://139.84.156.79/dst-x86.bin
+http://139.99.17.175/test_exe/AdobeReader.exe
+http://139.99.17.175/test_exe/msimg32.dll
+http://139.99.17.175/test_exe/oledlg.dll
+http://139.99.17.175/test_exe/sv_chost.exe
+http://139.99.17.175/test_exe/version.dll
 http://14.103.145.202/rondo.
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
@@ -872,6 +877,7 @@ https://bsprofi.ru/profit.hta
 https://bubl6g.com:443/api/v202
 https://bubl6g.com:443/api/v204
 https://buildacampervan.com/
+https://buildthenations.info/PKCERT/pkcert.html
 https://buka.clayrat.top/login
 https://byliljedahl.com/8anf
 https://bzss.pt/cbb/
@@ -939,6 +945,7 @@ https://devwrapi.washrocks.com/home/verification.php
 https://dewa-ae.mandegroupeinternational.org/gov/verification.php
 https://diff-beats-belize-chapter.trycloudflare.com/12341234
 https://directorio-porno.com/
+https://dmca-wipo.com/nauh
 https://doc-sign.docsfinder.org/Bin/IRScasedocs5Nhd8fMGaUr0Ts1o6qlE.Client.exe?h=wise.access.ly&p=8041&k=ENCODE&s=7b6d96a8-dcac-4f65-aaec-6e3d4b1ed22f&i=Untitled%20Session&e=Support&y=Guest&r=
 https://doce-88.com
 https://docfileaccess.top/Bin/ScreenConnect.Client.application?e=Support&y=Guest
@@ -1037,6 +1044,10 @@ https://getmanualviewer.com/getmanualviewer.exe
 https://gfc-angola.com/mail/
 https://ggbet-88.com
 https://ghostbin.axel.org/paste/evwgo/raw
+https://ginten555333.com/Libraries/PythonCode
+https://ginten555333.com/Libraries/UnZipV2
+https://ginten555333.com/Libraries/VahGG.html
+https://ginten555333.com/LibraryInstalling/PyCharm
 https://gitelman.clayratnik.top/login
 https://github.com/7codewizard
 https://github.com/ghost
@@ -1066,6 +1077,9 @@ https://hareandhosta.com/95xh
 https://headedforspace.com/
 https://headkickscountry.com/lz1y
 https://hiremployee.com
+https://hitpak.org/notepad2.dll
+https://hitpak.org/notepad2.dll'
+https://hitpak.org/page.php?tynor=
 https://holik.claydc.top/login
 https://holojo.clayrat.top/login
 https://homelycareinc.com/po7r
