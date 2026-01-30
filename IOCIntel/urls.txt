@@ -12,6 +12,7 @@ http://139.99.17.175/test_exe/oledlg.dll
 http://139.99.17.175/test_exe/sv_chost.exe
 http://139.99.17.175/test_exe/version.dll
 http://14.103.145.202/rondo.
+http://141.98.11.175/fakeurl.htm
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
 http://154.58.204.15
@@ -202,6 +203,7 @@ http://83.217.208.130/xfiles/VIDA.mp3
 http://83.217.208.130/xfiles/VIDA.mp4
 http://83.217.208.130/xfiles/trip.mp4
 http://83.217.208.130/xfiles/trip.psd
+http://83.222.190.174:443/fakeurl.html
 http://83.252.42.112/rondo.arc700
 http://83.252.42.112/rondo.armv4l
 http://83.252.42.112/rondo.armv5l
@@ -225,6 +227,7 @@ http://83.252.42.112/rondo.sparc
 http://83.252.42.112/rondo.x86_64
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip'
+http://85.208.84.35:443/fakeurl.htm
 http://85.208.84.94:56001
 http://85.209.128.171:8000/AkelPad.rar
 http://87.120.219.26/P9m4H7S2FqDTof
@@ -439,6 +442,7 @@ http://filomeruginfor.com/christian/house/cwk01
 http://filomeruginfor.com/deolefor/wg01ck01m
 http://first.longlastfor.online:8080/client
 http://firstfromsep.online/client
+http://fnotusykakimao.com:443
 http://fyvw2oiv.top/1.php?s=63e95be1-92e0-45c1-a928-65d63b17cd1c
 http://galusa.ac.mz/pdf
 http://gemme-cotti.ru/cotti.docx
@@ -503,6 +507,7 @@ http://kaiwachis.ug/nshnobea4xwtldcc/gate.php
 http://keep.camdvr.org:8000/BREAKABLE_PARABLE10
 http://keep.camdvr.org:8000/BREAKABLE_PARABLE5
 http://keep.camdvr.org:8000/d5.sh
+http://keu.edu.kz/images/stories/NBRK/article_1109081029.doc
 http://kimbeech.cfd/cap/verify.sh
 http://kololjrdtgted.click/zip.php.
 http://krebsec.anondns.net:2316/dong
@@ -563,6 +568,7 @@ http://power.moon-river-coin.xyz/
 http://privatunis.cfd/1/verify.sh
 http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
 http://proxy.hideiqxshlgvjk.com:5050
+http://pusykakimao.com:443
 http://putuartana.com/cleangpt
 http://q.startimes.me/
 http://qposhgames.com/
@@ -584,6 +590,7 @@ http://saborizerefeicoes34.site/
 http://salorttactical.top/2/verify.sh
 http://sandbox.silver-map-generator.shop/
 http://sandbox.yunqof.shop/macan.mp3
+http://scottvmorton.com/tytuy.json'
 http://searchingpart.com
 http://second.systemupdate.cloud/client
 http://secure-ntc.net/Advisory/NTC/2025/05/hit.gov.pk/
@@ -824,6 +831,7 @@ https://api.clearit.sbs/test
 https://api.clearit.sbs/uploadfiles
 https://api.flashstore.sbs/test
 https://api.flashstore.sbs/uploadfiles
+https://api.githubcopilot.com
 https://api.hellknight.xyz/js
 https://api.jz-aws.info/public/images/
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.0
@@ -854,6 +862,7 @@ https://avrasyaproje.com.tr/backup/
 https://awladlktoccyat.ortomanalessia.com/ppl-it/mark.php
 https://bahelp.top/Bin/ZoomWorkspace.ClientSetup.exe?e=Access&y=Guest
 https://baquskreen.top/Bin/ANTI%20VIRUS%20UPDATE.ClientSetup.exe
+https://bestieslos.com/over.js
 https://bet-4-br.com
 https://bet-7-br.com
 https://bet-7k.com
@@ -874,6 +883,7 @@ https://bkngssercise.com/bomla
 https://bknqsercise.com/bomla
 https://black-fridaydeals.com
 https://blackcargo.pt/Backup/
+https://blackice.sol-domain.org
 https://block-digital.online/drivers/cam_driver
 https://bloomwpp.info/DubjW967VGHD3ykdnhkdhn/dsdcrjhdeenidufoft.py
 https://bloomwpp.info/hjdfyebvghu.pyc
@@ -886,6 +896,7 @@ https://blutrecheshetrubler.highbourg.my.id/win/index.php
 https://bonoud.com/get3/install.sh
 https://bonoud.com/get6/update
 https://booketube.mobi
+https://booksbypatriciaschultz.com/liner.php
 https://bots.autoupdate.online:8080/test
 https://bqknsieasrs.com/loggqibkng
 https://brownsugarcheesecakebar.com/ajm4
@@ -943,6 +954,7 @@ https://clientlogin.blitzcapital.net/
 https://cloud-server.store/update
 https://cloudmeri.com/comm.php
 https://cloudy.pk/
+https://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
 https://codon.vn/ext/xmshield.json
 https://commbank.detailsconfirm.in/
 https://con.wolonman.com/Bin/ScreenConnect.ClientSetup.exe
@@ -958,6 +970,7 @@ https://crazybubble.pt/mail/
 https://creativetrendwatcher.be/mail/
 https://crediadvisor.pt/inicio/
 https://criamoda.com/mail/
+https://csc.biologii.net/sooc
 https://ctrlcapaserc.com/bomla
 https://ctrlcapaserc.com/loggqibkng
 https://curie77.fr/?download=1&kccpid=2339&kcccount=https://kkvl.legends.com.de/be2N0
@@ -1154,6 +1167,10 @@ https://karmah.clayfenrirhuy.top/login
 https://kazitradebd.com/wp-content/themes/hello-elementor/includes/customizer/customizer-hand.php
 https://kollabmi.se/
 https://kololjrdtgted.click/zip.php
+https://ksdkgsdkgkgmgm.pro/ofofo.js
+https://ksfldfklskdmbxcvb.com/-
+https://ksfldfklskdmbxcvb.com/admin/
+https://ksfldfklskdmbxcvb.com/gigi?ts=1765169670
 https://kyverr.clayfenrirhuy.top/login
 https://latimp.eu/
 https://lcd-add-palace-switching.trycloudflare.com/12341234
@@ -1237,6 +1254,7 @@ https://onsk.dk/
 https://openai-pidor-with-ai.com:6343/gateway/pqnrojhl.adc7k
 https://oslik.clayhusas.sbs:4793/
 https://ostmarketing.com/
+https://ototaikfffkf.com/fffa.js
 https://outprint.pt/dk/
 https://overcome-pmc-conferencing-books.trycloudflare.com/p.png
 https://ownmbaego.com/index.php
@@ -1435,6 +1453,7 @@ https://varegjopeaks.com/altor/teste_obscado.vbs
 https://venom.clayfenrirhuy.top/login
 https://verifycard45625-expedia.com/67764524
 https://verifyguest02667-booking.com/17149438
+https://vhs.delrosal.net/i
 https://viliam.alpha-met.online/?invitation-ter-nsbs-oeht
 https://viliam.superlite.online/?invitation-ter-nsbs-oer
 https://villasaze.ir/
