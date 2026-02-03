@@ -3,6 +3,10 @@ http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.135.101.15/wocaosinm.sh
 http://103.231.75.101:8888
 http://110.172.104.95:8000/api/download/windows-tools/amd64
+http://124.222.137.114:9999/3yZR31VK
+http://124.222.137.114:9999/api/Info/submit
+http://124.222.137.114:9999/api/updateStatus/v1
+http://134.0.0.0
 http://135.181.123.177/api/service/makelog
 http://137.184.126.86:8080/vmwaretools
 http://139.84.156.79/dst-x86.bin
@@ -147,6 +151,9 @@ http://5.tcp.ngrok.io:22934
 http://51.81.104.115/nuts/bolts
 http://51.81.104.115/nuts/x86
 http://51.91.77.94:13339/termite/51.91.77.94:13337
+http://59.110.7.32:8880/api/Metadata/submit
+http://59.110.7.32:8880/api/getBasicInfo/v1
+http://59.110.7.32:8880/uffhxpSy
 http://59.7.217.245:7070/app2
 http://59.7.217.245:7070/c.sh
 http://62.113.115.89/homepage/infile.php
@@ -257,6 +264,7 @@ http://94.232.249.186/vodeo/vid_wg01ck01
 http://94.232.249.186/vodeo/wg01ck01
 http://94.232.40.49/vodeo/wg01ck01
 http://95.164.53.100/private/yarsap_80541.php
+http://95.179.213.0
 http://95.181.161.81/i100dfknzphd5k
 http://95.181.161.81/mm57aayn230
 http://95.181.161.81:443/main.exe
@@ -313,6 +321,9 @@ http://api.npoint.io/f6dd89c1dd59234873cb
 http://api.office123456.com/vcx/
 http://api.package.coreservice.io:10443
 http://api.twmoc.info/ws
+http://api.wiresguard.com/api/FileUpload/submit
+http://api.wiresguard.com/update/v1
+http://api.wiresguard.com/users/admin
 http://app.bytevista.cloud/wfree
 http://app.compassidea.org/vcamv8/drvMac-an5r.patch
 http://app.evaluino.com/v86/drvMac-an5r.patch
@@ -377,6 +388,7 @@ http://cloudcenter.top/sys/update
 http://cobyrose.com/tmp/
 http://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
 http://codon.vn/ext/xmshield.json
+http://concursal.macquet.de/uid_page=244739642061129
 http://confirmation8324-booking.com/17149438
 http://confirmation887-booking.com/17149438
 http://conocophillips.live/
@@ -822,6 +834,7 @@ https://alkodieshop.gr/up/
 https://alkodieshop.gr/up//
 https://allan.claybaster.top/login
 https://allan.clayrat.top/login
+https://allecos.de/Documentación_del_expediente_de_derechos_de_autor_del_socio.zip
 https://allreleases.ru/
 https://alojagora.com/mail/
 https://alphadogprinting.com/index.php?8jl9lz
@@ -840,8 +853,12 @@ https://api.jz-aws.info/public/images/
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.0
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.1
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.2
+https://api.skycloudcenter.com/a/chat/s/70521ddf-a2ef-4adf-9cf0-6d8e24aaa821
 https://api.solarflevoland.nl/system_web/verification.php
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://api.wiresguard.com/api/Info/submit
+https://api.wiresguard.com/api/getInfo/v1
+https://api.wiresguard.com/users/system
 https://app-site-association.cdn-apple.info:443/updates.rss
 https://app.zynoracreative.com/updrv8/drv-Arm64.patch
 https://app.zynoracreative.com/updrv8/drv-Intel.patch
@@ -863,6 +880,7 @@ https://authlobby.site/auth1/css.php?na=fmp
 https://authlobby.site/auth1/demo.php?ccs=cin
 https://avrasyaproje.com.tr/backup/
 https://awladlktoccyat.ortomanalessia.com/ppl-it/mark.php
+https://bagumedios.cloud/assets/media/others/ADN/pure
 https://bahelp.top/Bin/ZoomWorkspace.ClientSetup.exe?e=Access&y=Guest
 https://baquskreen.top/Bin/ANTI%20VIRUS%20UPDATE.ClientSetup.exe
 https://bestieslos.com/over.js
@@ -1046,6 +1064,7 @@ https://ekademies.com/wp-mail/
 https://ekostroy33.ru/jquery-3.3.2.min.js
 https://eliskavaea.cz/
 https://enzedi.com/
+https://erik22jomk77.card.co
 https://eroebony.info
 https://error.clayhusas.sbs/login
 https://eset.ydns.eu/post.php
@@ -1074,6 +1093,9 @@ https://flashserve.store/update
 https://forest-offensive-height-letters.trycloudflare.com/12341234
 https://fotbalovavidea.cz/
 https://fql.jmfwy.com/tdks.php?domain=%s\u0026path=%s
+https://freefoodaid.com/documents/2_2.d
+https://freefoodaid.com/documents/2_2.lNk
+https://freefoodaid.com/tables/tables.d
 https://funtik.clayfenrirhuy.top/login
 https://fuwin-88.com
 https://fuxee.mobi
@@ -1416,6 +1438,7 @@ https://themasterscraft.com/
 https://thetripschool.com/
 https://thewondersmx.com/mail/
 https://thov.hunanduodao.com/tdks.php?domain=%s\u0026path=%s
+https://tickets.pfoten-prinz.de/uid_page=118759991475831
 https://tikitok-goolges.sbs
 https://tikpremplaymarktuzb.sbs
 https://tiktoki-goolge.sbs
