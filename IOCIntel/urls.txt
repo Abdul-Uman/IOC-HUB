@@ -139,8 +139,13 @@ http://45.159.248.110
 http://45.159.248.110/brow/xyz2
 http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
+http://45.32.144.255/update/update.exe
+http://45.32.144.255/update/update.exe.
 http://45.32.158.54/5e51aff54626ef7f/x86_64
 http://45.76.155.14/vim
+http://45.76.155.202/update/update.exe
+http://45.76.155.202/update/update.exe.
+http://45.77.31.210/users/admin
 http://45.89.53.54
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
 http://49.51.230.175:9898
@@ -265,6 +270,11 @@ http://94.232.249.186/vodeo/wg01ck01
 http://94.232.40.49/vodeo/wg01ck01
 http://95.164.53.100/private/yarsap_80541.php
 http://95.179.213.0
+http://95.179.213.0/update/AutoUpdater.exe
+http://95.179.213.0/update/AutoUpdater.exe.
+http://95.179.213.0/update/install.exe
+http://95.179.213.0/update/update.exe
+http://95.179.213.0/update/update.exe.
 http://95.181.161.81/i100dfknzphd5k
 http://95.181.161.81/mm57aayn230
 http://95.181.161.81:443/main.exe
@@ -774,6 +784,10 @@ https://404.jmfwy.com/tdks.php?domain=%s\u0026path=%s
 https://45.148.10.190/api/v150
 https://45.148.10.190/api/v152
 https://45.74.16.71/aAold/Skype.ps1
+https://45.77.31.210/api/FileUpload/submit
+https://45.77.31.210/api/FileUpload/submit.
+https://45.77.31.210/api/update/v1
+https://45.77.31.210/users/admin
 https://4shart.com/
 https://5.182.210.145/api/v10
 https://5.182.210.145/api/v12
@@ -856,8 +870,10 @@ https://api.qtss.cc:443/en/about?source=redhat&id=v1.2
 https://api.skycloudcenter.com/a/chat/s/70521ddf-a2ef-4adf-9cf0-6d8e24aaa821
 https://api.solarflevoland.nl/system_web/verification.php
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://api.wiresguard.com/api/FileUpload/submit
 https://api.wiresguard.com/api/Info/submit
 https://api.wiresguard.com/api/getInfo/v1
+https://api.wiresguard.com/update/v1
 https://api.wiresguard.com/users/system
 https://app-site-association.cdn-apple.info:443/updates.rss
 https://app.zynoracreative.com/updrv8/drv-Arm64.patch
