@@ -3,6 +3,7 @@ http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.135.101.15/wocaosinm.sh
 http://103.231.75.101:8888
 http://110.172.104.95:8000/api/download/windows-tools/amd64
+http://117.175.185.81:8003/
 http://124.222.137.114:9999/3yZR31VK
 http://124.222.137.114:9999/api/Info/submit
 http://124.222.137.114:9999/api/updateStatus/v1
@@ -61,6 +62,7 @@ http://1stpubs.com/tasks.exe
 http://200.107.207.15/37:
 http://207.148.79.178:6608/sys.sh
 http://216.158.232.43:12000/sex.sh
+http://217.156.50.228:8181/nujbOqrNYyLXXLmOhPpY/PNcWncSY.exe'
 http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://23.227.202.244:1224/brow/14/144
@@ -132,6 +134,7 @@ http://41.231.37.153/rondo.sh4
 http://41.231.37.153/rondo.sparc
 http://41.231.37.153/rondo.x86_64
 http://41.231.37.153/rondo.xxx.sh
+http://43.132.205.118:81/app/minibrowser11_rpl.zip
 http://45.129.199.214/vodeo/wg01ck01
 http://45.129.199.214/vodeo/wg01ck01.
 http://45.144.165.65/BUIEFuiHFUEIuioKLWENFUoi878UIESf/MUEWGHui897hjkhsjdkHfjegfdh/67jksaebyut8seuhfjgfdgdfhet4SEDGF/Tools/getlogindataedge.exe
@@ -148,6 +151,8 @@ http://45.76.155.202/update/update.exe.
 http://45.77.31.210/users/admin
 http://45.89.53.54
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
+http://47.93.54.134:8005
+http://47.93.54.134:8005/
 http://49.51.230.175:9898
 http://5.199.133.149/jznkmustntblvmdvgcwbvqb
 http://5.199.133.149/oeajgyxyxclqmfqayv
@@ -495,6 +500,14 @@ http://gwadarport.ddns.net:9090
 http://hareandhosta.com/95xh
 http://hci-outdoors.com/salt-engine.html
 http://headkickscountry.com/lz1y
+http://hgame33.com/00101010101001/debug
+http://hgame33.com/00101010101001/morte.arc
+http://hgame33.com/00101010101001/morte.arm
+http://hgame33.com/00101010101001/morte.arm5
+http://hgame33.com/00101010101001/morte.arm6
+http://hgame33.com/00101010101001/morte.i686
+http://hgame33.com/00101010101001/morte.mips
+http://hgame33.com:443
 http://homelycareinc.com/po7r
 http://human-verify-4r.pro/xfiles/human.cpp
 http://human-verify-4r.pro/xfiles/verify.mp4
@@ -616,6 +629,7 @@ http://qposhgames.com/set1.exe
 http://qposhgames.com/taskis.exe
 http://qposhgames.com/tasks.exe
 http://qzjfxy.fun
+http://ravinads.com:443
 http://recaptcha-manual.shop/kangarooing.m4a
 http://recaptcha-verify-4h.pro/kangarooing.m4a
 http://recaptcha-verify-4h.pro/xfiles/kangarooing.vsdx
@@ -756,6 +770,14 @@ http://www.donate.melissarelieffundtojamaicans.online/
 http://www.donate.melissarelieffundtojamaicans.online/donate10000.html.
 http://www.dpswebsafe.com/rd/
 http://www.dpswebsafe.com/rd/?q=
+http://www.hgame33.com/00101010101001/morte.arm7
+http://www.hgame33.com/00101010101001/morte.m68k
+http://www.hgame33.com/00101010101001/morte.mpsl
+http://www.hgame33.com/00101010101001/morte.ppc
+http://www.hgame33.com/00101010101001/morte.sh4
+http://www.hgame33.com/00101010101001/morte.spc
+http://www.hgame33.com/00101010101001/morte.x86
+http://www.hgame33.com/00101010101001/morte.x86_64
 http://www.icherryls.com/
 http://www.icherryls.com/1.exe
 http://www.iytest.com:5679
@@ -814,6 +836,7 @@ https://45.77.31.210/api/FileUpload/submit
 https://45.77.31.210/api/FileUpload/submit.
 https://45.77.31.210/api/update/v1
 https://45.77.31.210/users/admin
+https://47.93.54.134:8003
 https://4shart.com/
 https://5.182.210.145/api/v10
 https://5.182.210.145/api/v12
@@ -1312,8 +1335,10 @@ https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/
 https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/drdxcsv34.php
 https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/drxbds23.php
 https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/drxcvg45.php
+https://my-xb.com/api/v2/documents/financial/Q4-2025/audited/consolidated/with-notes/financials/reports/annual/2025/tashkent/statistical-statements/
 https://my.toruftuiov.com/9397b37a-50c4-48c0-899d-f5e87a24088d
 https://myanimals.com/
+https://mysoliq-uz.com/api/v2/documents/financial/Q4-2025/audited/consolidated/with-notes/financials/reports/annual/2025/tashkent/statistical-statements/
 https://naprakeszingatlan.hu/wp-mail/
 https://nasubutrachat.highbourg.my.id/win/index.php
 https://nexsnield.com/install?uuid=550e8400-e29b-41d4-a716-446655440000&version=2025.1116.1842
