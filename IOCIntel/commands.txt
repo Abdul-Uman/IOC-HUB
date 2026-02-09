@@ -46,6 +46,7 @@ aman.jaiswal@web3paymentsolutions.io
 andrew@koinos.us
 andrew_watson@koinos.us
 b22b203c47de1c87e53dac4e5e6b1562edfe4a52
+b4472e515f1e09ea20e8dd3a61304fdb1cc515a6
 b5068f523f56b33b5665f3ae177c985502dc237c
 b96145f83a8f391c40cf260a4dd45d661fd91e83
 bang2012@tutanota.de
