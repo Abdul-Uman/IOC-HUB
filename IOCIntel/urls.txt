@@ -9,6 +9,7 @@ http://117.175.185.81:8003/
 http://124.222.137.114:9999/3yZR31VK
 http://124.222.137.114:9999/api/Info/submit
 http://124.222.137.114:9999/api/updateStatus/v1
+http://130.94.6.228/update.tar.gz
 http://134.0.0.0
 http://135.181.123.177/api/service/makelog
 http://135947.lachinadragon.com/
