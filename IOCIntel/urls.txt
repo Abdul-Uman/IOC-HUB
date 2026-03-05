@@ -29,6 +29,7 @@ http://152.32.173.138/U26d86f1899513347.5b5b0c1b
 http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
 http://154.58.204.15
 http://156.244.28.153/17ABE7F017ABE7F0
+http://157.20.182.49:10443/success
 http://164.68.120.30:550/99/Skype.ps1
 http://166.88.11.10/upload/check.asp
 http://172.245.81.135:10196/Geq5P3aFpaSrK3PZtErNgUsVCfqQ9kZ9/
@@ -51,6 +52,7 @@ http://192.227.211.41:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 http://193.34.213.150/nuts/bolts
 http://193.34.213.150/nuts/x86
 http://193.34.213.150/nuts/x86http://89.144.31.18/nuts/x86
+http://194.11.246.101:1338
 http://194.69.203.32:81/hiddenbink/colonna.arc
 http://194.69.203.32:81/hiddenbink/colonna.i686
 http://194.69.203.32:81/hiddenbink/react.sh
