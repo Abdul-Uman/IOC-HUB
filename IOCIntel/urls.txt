@@ -449,6 +449,7 @@ http://cloudcenter.top/macosUpdate.plist
 http://cloudcenter.top/macos_update_arm
 http://cloudcenter.top/macos_update_x64
 http://cloudcenter.top/sys/update
+http://cloudflare.report/forever/e/
 http://cobyrose.com/tmp/
 http://code.jquecy.com/jquery.min-3.6.8.js
 http://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
@@ -1217,6 +1218,7 @@ https://cld.pt/dl/download/0f58f6f3-e3bb-4cbd-a4fb-d9ddfd4e56bf/sapotransfer-640
 https://cld.pt/dl/download/ac23c304-aa9d-4d27-a845-272ec4de533d/sapotransfer-640a60194938b1/tadeu.ps1?download=true
 https://clientlogin.blitzcapital.net/
 https://cloud-server.store/update
+https://cloudflare.report/forever/e/
 https://cloudmeri.com/comm.php
 https://cloudy.pk/
 https://cn.gotz001.com/lunlian/index.php
@@ -1253,6 +1255,8 @@ https://dbgopaxl.com/static/goindex/tuiliu/group.html
 https://dc-broader-green-norwegian.trycloudflare.com/12341234
 https://dd9l7e6ghme8pbk.xyz/group.html
 https://dealwatchdogs.net/
+https://deepdive.hypernas.com/hypernas/api/page.php?uid=
+https://defenceprodindia.site/server.php?file=Reader_en_install
 https://desisexy.org/
 https://devwrapi.washrocks.com/auth/en/verification.php
 https://devwrapi.washrocks.com/home/verification.php
@@ -1345,6 +1349,18 @@ https://fb88s.icu/uu/tt.js
 https://fedor.clayratnik.top/login
 https://fhauifhyileydhfl.com/
 https://file-server.store/update
+https://filebulldogs.com/uploads/82WX5GP8CI/a.zip
+https://filebulldogs.com/uploads/82WX5GP8CI/document.pdf
+https://filebulldogs.com/uploads/82WX5GP8CI/f.js
+https://filebulldogs.com/uploads/AVQB61TVOX/a.zip
+https://filebulldogs.com/uploads/AVQB61TVOX/document.pdf
+https://filebulldogs.com/uploads/AVQB61TVOX/f.js
+https://filebulldogs.com/uploads/F1OQY9GU84/a.zip
+https://filebulldogs.com/uploads/F1OQY9GU84/document.pdf
+https://filebulldogs.com/uploads/F1OQY9GU84/f.js
+https://filebulldogs.com/uploads/OKW5RN48ZJ/a.zip
+https://filebulldogs.com/uploads/OKW5RN48ZJ/document.pdf
+https://filebulldogs.com/uploads/OKW5RN48ZJ/f.js
 https://filedrive.online/uploadfiles
 https://filmcrewnepal.com/
 https://fixus.co.ao/mail/
@@ -1458,6 +1474,8 @@ https://iplis.ru/lovers.jpeg
 https://iplis.ru/penises.jpg
 https://iplis.ru/tramp.jpg
 https://iplogger.cn/forensicsas.png
+https://iran.dashboard.1drvms.store/errors/sessionerrors/expire?client=
+https://iran.dashboard.1drvms.store/errors/sessionerrors/expire?client=[redacted]
 https://is.gd/s5xknuj2
 https://is3.cloudhost.id/bdmailweb/
 https://is3.cloudhost.id/s3-storage/
@@ -1506,6 +1524,7 @@ https://luiscarmocx.com/Back/
 https://macmafia.top/
 https://magic.claybaster.top/login
 https://mahbet.cam/
+https://mail.iwsmailserver.com/owa/auth/logon.aspx?uid=
 https://mainnet.helius-rpc.com/?api-key=
 https://mainnet.helius-rpc.com/?api-key=3b5315ac-170e-4e0e-a60e-4ff5b444fbcf
 https://mainnet.helius-rpc.com/?api-key=44b7171f-7de7-4e68-9d08-eff1ef7529bd
@@ -1813,6 +1832,7 @@ https://twtaxgo.cn/uploads/20260129/taxIs_RX3001.7z
 https://twtaxgo.cn/uploads/20260129/taxIs_RX3001.7z.
 https://tyler.clayratnik.top/login
 https://unica.md/
+https://unityprogressall.org/imagecontent/getimgcontent.php?id=
 https://unlockk.play-google-store.ru
 https://update.ecols.ru:8443/jquery-3.3.1.slim.min.js
 https://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf
