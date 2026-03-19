@@ -76,6 +76,7 @@ http://216.158.232.43:12000/sex.sh
 http://217.156.50.228:8181/nujbOqrNYyLXXLmOhPpY/PNcWncSY.exe'
 http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
+http://222.222.254.165:8090/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://23.227.202.244:1224/brow/14/144
 http://23.227.202.244:1224/client/14/144
 http://23.227.202.244:1224/payload/14/144
@@ -190,6 +191,7 @@ http://59.110.7.32:8880/api/getBasicInfo/v1
 http://59.110.7.32:8880/uffhxpSy
 http://59.7.217.245:7070/app2
 http://59.7.217.245:7070/c.sh
+http://60.30.147.18:8091/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://62.113.115.89/homepage/infile.php
 http://64.7.198.66/resosk443.exe
 http://64.7.199.177:18899/93.187.56.19
@@ -672,6 +674,7 @@ http://icherryls.com/
 http://icherryls.com/exec.exe
 http://icherryls.com/msa.exe
 http://icherryls.com/taskid.exe
+http://imansport.ir/download_invitee.php
 http://img.spoolsv.cc/seed.php
 http://img.spoolsv.cc/snn50.txt
 http://img.spoolsv.net/seed.php
@@ -901,6 +904,7 @@ http://so5083.tubeluck.com
 http://so5083.tubeluck.com/static/goindex/group.html
 http://softwares.dailydownloads.net/products/microsoft/office/product-key/DB2F.activation.key
 http://solanges.info/tmp/
+http://solpru.com/process/docusign.html
 http://spin7.icu
 http://spin7.icu/group.html
 http://squatje.su/asdasd
@@ -1339,6 +1343,7 @@ https://bucket.service.generate.110.nz/udev.sh
 https://buildacampervan.com/
 https://buildthenations.info/PKCERT/pkcert.html
 https://buka.clayrat.top/login
+https://bumptobabeco.top/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest'
 https://bxphp.westooo.com/58z.js
 https://bxphp.westooo.com/?xhost=%s\u0026url=%s\u0026ua=Googlespider\u0026f=bd
 https://bxphp.westooo.com/u.php
