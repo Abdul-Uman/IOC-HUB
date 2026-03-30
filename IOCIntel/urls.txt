@@ -256,6 +256,8 @@ http://82.115.223.78/private/spoolsvc.exe
 http://82.115.223.78/private/svchost.exe
 http://82.115.223.78/private/sysmgmt.exe
 http://82.118.16.173:443
+http://83.142.209.203:8080/hangup.wav
+http://83.142.209.203:8080/ringtone.wav
 http://83.217.208.130/xfiles/Ohio.mp4
 http://83.217.208.130/xfiles/VIDA.mp3
 http://83.217.208.130/xfiles/VIDA.mp4
@@ -2176,6 +2178,7 @@ https://www.stassa.pt/wp-mail/
 https://www.supremesovietoflove.com/wp/
 https://www.teleseryeone.com/
 https://www.tikitok-playgoolge.sbs
+https://www.upsystems.one/Alex.exe
 https://www.us.registration.fcaministers.com/
 https://www.wagenbaugrabs.ch/
 https://www.worldwealthbuilders.com/
