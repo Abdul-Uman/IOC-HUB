@@ -1168,6 +1168,9 @@ https://49.89.41.187:8002/
 https://49.89.41.187:8002/protocol/application
 https://49.89.41.187:8002/protocol/tcp-data
 https://49.89.41.187:8002/protocol/virtual-id
+https://4a-m.al/ConvertedFile.txt
+https://4a-m.al/ConvertedFile.txt.
+https://4a-m.al/ConvertedFile.txtStage
 https://4kgame.us/group.html
 https://4shart.com/
 https://4u.game/group.html
@@ -1846,6 +1849,8 @@ https://onevdg.com/link/s
 https://onjabet.net/
 https://onsk.dk/
 https://openai-pidor-with-ai.com:6343/gateway/pqnrojhl.adc7k
+https://orcanmedikal.com.tr/tool.hta
+https://orcanmedikal.com.tr/tool.htaStage
 https://ose.668ddf.cc/tuiliu/group.html
 https://osec2.668ddf.cc/tuiliu/group.html
 https://oslik.clayhusas.sbs:4793/
