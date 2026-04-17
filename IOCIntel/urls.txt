@@ -523,6 +523,7 @@ http://catalogs.dailydownloads.net/archives/microsoft/office/
 http://catalogs.dailydownloads.net/archives/microsoft/office/@MrPresident_001_bot.rar
 http://cclresources.com/
 http://cdn-cookie.com/recorder.js
+http://cdn.erpsaz.com/admin.php
 http://cdn.jsdelivr.vip/jquery.min-3.7.0.js
 http://cdn.uacounter.com
 http://cdn.uacounter.com/stat.html
@@ -1058,6 +1059,10 @@ http://techcross-wne.com/include/plugin/snoopy/board/register.php
 http://technologysupport.help/1pac.php
 http://technologysupport.help/renderer.php
 http://technologysupport.help/renderer.php.
+http://technologytorg.com/api/auth
+http://technologytorg.com/api/upload/chunk
+http://technologytorg.com/api/upload/complete
+http://technologytorg.com/api/upload/start
 http://telegram.me/dikkh0k
 http://telegram.me/pr55ii
 http://test1.amanur.com
