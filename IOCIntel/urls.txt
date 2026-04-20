@@ -1067,6 +1067,7 @@ http://telegram.me/dikkh0k
 http://telegram.me/pr55ii
 http://test1.amanur.com
 http://texakgi.cloud:3849
+http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion/
 http://tg.cloudapi.stream/count_sessions.php
 http://tg.cloudapi.stream/delete_session.php
 http://tg.cloudapi.stream/get_session.php
