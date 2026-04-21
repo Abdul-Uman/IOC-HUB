@@ -44,6 +44,7 @@ http://172.111.200.133:8090/login
 http://172.245.81.135:10196/Geq5P3aFpaSrK3PZtErNgUsVCfqQ9kZ9/
 http://172.86.88.188/api/service/makelog
 http://172.86.88.188/api/service/process/c841b6c4ac4d2e83f16cf7a8bfbec3d7
+http://172.94.9.250/d/xxx10108
 http://176.65.139.119:555/aA/Skype.ps1
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/gcvvPu2KXdqEbDpJQ33/
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/rrvvPu2KXdqEbDpJQ33/
@@ -378,6 +379,7 @@ http://abramge.com.br/drive/itpresented//
 http://actedsda.cfd/assets/ACTED
 http://activatecapagm.com/j8r3
 http://adobe-acrobat.in/ninevmc987.php?file=bncoeeav34564cvv94adfavc3354334dfsf
+http://adobe.safest.org/
 http://ads.green-pickle-jo.shop/1.m4a
 http://advanceorthocenter.com/wp-includes/editor.php
 http://adveryx.biz:6573
@@ -847,6 +849,7 @@ http://mnjk-jk.bsdfg-zmp-q-n.shop/1.mp4
 http://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083/
 http://mofagovnp-bm46fjwo.b4a.run/
 http://monicasue.app.n8n.cloud/webhook/download-file-92684bb4-ee1d-4806-a264-50bfeb750dab
+http://moonscan.live/7w2NU3Z-.php
 http://mos3.biz/?webcal=me2tanrymi5gi3bpgu4tmna&u=230c9837-23ee-4208-8df0-1fa854490c90&l=24&t=1620652575&g=3&al=ar&sub1=&sub2=&sub3=&sub4=b0690ftho9zwh124
 http://motopartshonda.shop/
 http://motopartshonda.site/
@@ -910,6 +913,7 @@ http://poopy.aarkhipov.ru:8080/jquery-3.3.1.slim.min.js
 http://posta-nhq43i6x.b4a.run/login
 http://posta-nhq43i6x.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://power.moon-river-coin.xyz/
+http://ppsrq.org/so/3dPniokM8/c
 http://prickaz.biz:2039
 http://privatunis.cfd/1/verify.sh
 http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
@@ -957,6 +961,7 @@ http://sandbox.silver-map-generator.shop/
 http://sandbox.yunqof.shop/macan.mp3
 http://saramoftah.com/curl/958ca005af6a71be22cfcd5de82ebf5c8b809b7ee28999b6ed38bfe5d19420
 http://sbet.ac
+http://scanclaw.live/KjYQnKB-.php
 http://scottvmorton.com/tytuy.json'
 http://se.gotz001.com/lunlian/index.php
 http://searchingpart.com
@@ -1492,6 +1497,7 @@ https://bucket.service.generate.110.nz/udev.sh
 https://buildacampervan.com/
 https://buildthenations.info/PKCERT/pkcert.html
 https://buka.clayrat.top/login
+https://bull-run.fun/
 https://bumptobabeco.top/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest'
 https://bxphp.westooo.com/58z.js
 https://bxphp.westooo.com/?xhost=%s\u0026url=%s\u0026ua=Googlespider\u0026f=bd
@@ -2157,6 +2163,7 @@ https://spin7.icu/group.html
 https://spinalpaca.com/dropboxdocument/Windows/invite.php
 https://spirits-station.fr/
 https://sploitus.com/exploit?id=3B6E5425-973F-56B4-AC0A-FA3EDC02389C
+https://spot-wave.fun/
 https://srv480138.hstgr.cloud/report.php?query=$env:COMPUTERNAME'
 https://srv480138.hstgr.cloud/uploads/scan_3824.pdf'
 https://srv510786.hstgr.cloud/ordinary.php?id=9826fbb409f65dc6b068b085551bf4f3
