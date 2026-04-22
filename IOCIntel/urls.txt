@@ -42,6 +42,7 @@ http://172.111.200.133:8080/admin/
 http://172.111.200.133:8090
 http://172.111.200.133:8090/login
 http://172.245.81.135:10196/Geq5P3aFpaSrK3PZtErNgUsVCfqQ9kZ9/
+http://172.86.113.102/localencode
 http://172.86.88.188/api/service/makelog
 http://172.86.88.188/api/service/process/c841b6c4ac4d2e83f16cf7a8bfbec3d7
 http://172.94.9.250/d/xxx10108
@@ -821,6 +822,7 @@ http://lddx3z2d72aa8i6.xyz/group.html
 http://linetoslice.com/scripts
 http://listofexoticplaces.com
 http://live.easyboxsync.com/resources/gup/notepad
+http://livemicrosft.com/meet/89035563931?p=9jXK14VFM8fObdKxfkake8tD7rPhzs.1
 http://lk4x6x2ejxaw2br.xyz
 http://load.auraria.org/index.php
 http://lsnngjyu9x6vcg0.xyz
@@ -1108,6 +1110,7 @@ http://tz.suucx.com/jump/ov.js
 http://uawwydy3qas6ykv.xyz
 http://udlg.nl/tmp/
 http://union.macoms.la/jquery.min-4.0.2.js
+http://update-teams.live/teams
 http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
 http://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf
 http://uswebzoomus.com/zoom
