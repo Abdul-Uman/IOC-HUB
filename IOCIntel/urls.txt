@@ -574,6 +574,7 @@ http://conxmsw.su/vcsf
 http://cookcountyjudges.org/
 http://coox.live:28313
 http://corezea.com/ebc
+http://corsproxy.io/?hXXps://api.mainnet-beta.solana.com
 http://cotlesgengeral.com/
 http://cquopymaiqna.com/bomla
 http://cryptocurrencyworld.top
@@ -832,6 +833,7 @@ http://load.auraria.org/index.php
 http://lsnngjyu9x6vcg0.xyz
 http://lumichain.pro/
 http://mail.cbm.gov.mm/
+http://mainnet.helius-rpc.com/
 http://majormetalcsorp.com/Openfolder
 http://managew.biz:5902
 http://mansfieldpediatrics.com/curl/
@@ -957,6 +959,7 @@ http://rlau616jc7a7f7i.xyz
 http://ropea.top:28313
 http://roy2tlop2u.xyz
 http://rpc.adspect.net/v2/
+http://rpc.flashbots.net/fast
 http://run.fox-chair-dust.xyz/
 http://run.mocky.io/v3/027fab50-2478-4dd2-962f-bb525b36810d
 http://saborizerefeicoes34.online/
@@ -988,6 +991,7 @@ http://securityfenceandwelding.com/curl/79fbe2e4cccedda99204eeeeab1f4cb93ff81c1d
 http://seeconnectionalive.website:8080/login
 http://seeconnectionalive.website:8080/ws
 http://seedsuccesspath.com/6m8a
+http://serialmenot.com/mv2/
 http://serverseistemasatu.com/data.php?recebe
 http://setseta.com/
 http://setseta.com//set.exe
