@@ -105,6 +105,11 @@ http://2ndpub.com/taskidd.exe
 http://2ndpub.com/taskis.exe
 http://2ndpub.com/taskmg.exe
 http://2s3b3rknfqtwwpo.xyz
+http://31.172.71.5:44445/TCP
+http://31.172.71.5:50443
+http://31.172.71.5:50443/TCP
+http://31.172.71.5:8008
+http://31.172.71.5:8008/TCP
 http://31.56.27.76/n2/x86
 http://31.56.27.97/scripts/4thepool_miner.sh
 http://35.246.189.253/gate/log.php
