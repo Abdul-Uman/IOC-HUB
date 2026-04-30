@@ -1420,6 +1420,7 @@ https://api.wiresguard.com/api/getInfo/v1
 https://api.wiresguard.com/update/v1
 https://api.wiresguard.com/users/system
 https://app-site-association.cdn-apple.info:443/updates.rss
+https://app.kuse.ai/sharednote/
 https://app.zynoracreative.com/updrv8/drv-Arm64.patch
 https://app.zynoracreative.com/updrv8/drv-Intel.patch
 https://apple-online.shop/ChromeSetup.exe
@@ -2034,6 +2035,7 @@ https://odm0.siyangoil.com/TYTmtV8t/JG6T5nvM1AYqAcN
 https://oldlinewoodwork.com/wp-content/themes/zubin/inc/index.php
 https://onevdg.com/link/s
 https://onjabet.net/
+https://onlineapp.ooraikaoo.info/?auth2=8rf22euu-2nxkebabDjjILlzldhQq2Pz
 https://onsk.dk/
 https://openai-pidor-with-ai.com:6343/gateway/pqnrojhl.adc7k
 https://orcanmedikal.com.tr/tool.hta
