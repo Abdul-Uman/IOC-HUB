@@ -34,6 +34,10 @@ http://149.248.11.71/rest/apisession
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
 http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
 http://154.58.204.15
+http://154.82.81.205/YD20251001143052.zip
+http://154.82.81.205/YD20251001143052.zip'
+http://154.82.81.205/YN20250923193706.zip.
+http://154.91.90.0
 http://156.244.28.153/17ABE7F017ABE7F0
 http://157.20.182.49:10443/success
 http://164.68.120.30:550/99/Skype.ps1
@@ -113,6 +117,7 @@ http://31.172.71.5:8008/TCP
 http://31.56.27.76/n2/x86
 http://31.56.27.97/scripts/4thepool_miner.sh
 http://35.246.189.253/gate/log.php
+http://38.162.114.0
 http://38.165.44.205/1
 http://38.165.44.205/k
 http://38.180.83.166/6CDF0FC26CDF0FC2
@@ -169,7 +174,12 @@ http://41.231.37.153/rondo.sparc
 http://41.231.37.153/rondo.x86_64
 http://41.231.37.153/rondo.xxx.sh
 http://43.132.205.118:81/app/minibrowser11_rpl.zip
+http://43.133.0.0
+http://43.134.0.0
+http://43.153.0.0
 http://43.155.62.54:81/app/minibrowser11_rpl.zip
+http://43.160.192.0
+http://43.162.0.0
 http://45.129.199.214/vodeo/wg01ck01
 http://45.129.199.214/vodeo/wg01ck01.
 http://45.144.165.65/BUIEFuiHFUEIuioKLWENFUoi878UIESf/MUEWGHui897hjkhsjdkHfjegfdh/67jksaebyut8seuhfjgfdgdfhet4SEDGF/Tools/getlogindataedge.exe
@@ -177,6 +187,7 @@ http://45.159.248.110
 http://45.159.248.110/brow/xyz2
 http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
+http://45.203.220.0
 http://45.32.144.255/update/update.exe
 http://45.32.144.255/update/update.exe.
 http://45.32.158.54/5e51aff54626ef7f/x86_64
@@ -190,6 +201,7 @@ http://45.77.31.210/users/admin
 http://45.89.53.54
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
 http://47.238.107.83:81/app/minibrowser11_rpl.zip
+http://47.80.0.0
 http://47.93.54.134:8005
 http://47.93.54.134:8005/
 http://49.51.230.175:9898
@@ -441,6 +453,8 @@ http://api.npoint.io/f4be0f7713a6fcdaac8b
 http://api.npoint.io/f6dd89c1dd59234873cb
 http://api.office123456.com/vcx/
 http://api.package.coreservice.io:10443
+http://api.reverserecruiting.io/
+http://api.reverserecruiting.io/v1/profile/sync
 http://api.twmoc.info/ws
 http://api.wiresguard.com/api/FileUpload/submit
 http://api.wiresguard.com/update/v1
@@ -482,6 +496,7 @@ http://b38w09ecdejfqsf.xyz
 http://b3d0.com/1/
 http://backbou.biz:5902
 http://bacteria-spent-endless-grammar.trycloudflare.com/okl
+http://banana.summarizer.one/quota
 http://baxe.pics:48261
 http://bd.gotz001.com/lunlian/index.php
 http://belaysolutions.link/pdf/hiring_assistant.pdf.rar
@@ -695,6 +710,7 @@ http://gemwin.ac
 http://get.storagesync.biz/resources/newspaper/2018/forecast2018
 http://gettranslate.ir:18443/baner?sig=ded8deb7ff580788cc58cbbf5508f3bf&BanerId=347333
 http://gfxnick.emerald.usbx.me/bot
+http://giovettiadv.com:688
 http://glot.io/snippets/hfdxv8uyaf
 http://gluckcreek.online:48261
 http://go1.kmm5tn.ceye.io
@@ -858,6 +874,7 @@ http://mewo.oceanic-node.su:3443
 http://mines.cloudapi.stream/auth_google
 http://mines.cloudapi.stream/slot_test/
 http://mines.cloudapi.stream/user_info
+http://mioisiskwowiwjowuwjwolab.club/login
 http://miportuarios.com/sisti/api.ps1
 http://mkkku.com
 http://mkkku.com/static/analytics.html
@@ -880,6 +897,7 @@ http://narroxp.su/rewd
 http://navelum.biz:3201
 http://nbhg-v.iuksdfb-f.shop/ajax.mp3
 http://netml.shop/get?q=ivanti
+http://newextensioninstallweb.com/2025
 http://newforsomething.rest:8080/ws
 http://news.dostpagasa.com/llehs/jdkasdnkaf.enc
 http://news4me.xyz/coupon/
@@ -929,6 +947,7 @@ http://pool-proxy.fud2026.com:9000
 http://pool.fud2026.com:9000
 http://pool.uasecurity.org:9000
 http://poopy.aarkhipov.ru:8080/jquery-3.3.1.slim.min.js
+http://poronto.com:688
 http://posta-nhq43i6x.b4a.run/login
 http://posta-nhq43i6x.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://power.moon-river-coin.xyz/
@@ -1348,6 +1367,11 @@ https://9googllemeett.live/
 https://9ooggleactivemeett.live/in/invite.php
 https://a.web.oauth2-signal.com
 https://a.web.oauth2-signal.com/gm-oauth2-callback
+https://abc.fetish-friends.com/setup/install
+https://abc.fetish-friends.com/setup/install?channel=dianhua-0903
+https://abc.fetish-friends.com/setup/install?channel=whatsapp_0826
+https://abc.fetish-friends.com/setup?channel=jiqi_0819
+https://abc.fetish-friends.com/uploads/appclient.zip
 https://abrargeospatial.ir/wp-includes/fonts/wp-icons/index.php
 https://accessor.fud2026.com/libmine-
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
@@ -1510,12 +1534,14 @@ https://booksbypatriciaschultz.com/liner.php
 https://bots.autoupdate.online:8080/test
 https://bqknsieasrs.com/loggqibkng
 https://br.jbtz001.com/lunlian/index.php
+https://brionter.com/4ba0af68-0037-5f6e-afd1-64f89fc0f554/net40.bin
 https://brownsugarcheesecakebar.com/ajm4
 https://brownthomas.onlineoa.shop
 https://browser-storage.com/update
 https://brproxy.868id.com/index_base64.php
 https://brproxy.868id.com/tz_base64.php
 https://brproxy.868id.com/url/index_base64.php
+https://bruceketta.space/posts/nova-script-251110/
 https://brwin-88.com
 https://bsn.halsoftsoftsite.com
 https://bsprofi.ru/min.hta
@@ -1635,6 +1661,7 @@ https://dd3.filedwnl.top
 https://dd4.filedwnl.top
 https://dd9l7e6ghme8pbk.xyz/group.html
 https://dealwatchdogs.net/
+https://decodecybercrime.com/mapping-defhost-an-investigation-into-femo-it-solutions-limited-as214351/
 https://deepdive.hypernas.com/hypernas/api/page.php?uid=
 https://defenceprodindia.site/server.php?file=Reader_en_install
 https://desisexy.org/
@@ -1951,6 +1978,7 @@ https://marketexpresso.site/admin/
 https://marketplace24ei.ru//
 https://marketplace24ei.ru/790628.php
 https://maybach.clayratnik.top/login
+https://mcagov.cc/download.php?type=exe.
 https://mcaluminios.pt/refresh/
 https://mcnn.ru:8443/jquery-3.3.1.slim.min.js
 https://mconnectsz.nsocumentzs.com/Bin/ZOOM.ClientSetup.exe?e=Access&y=Guest
@@ -2036,6 +2064,7 @@ https://ntm0mdkzymy3n.oukwww.com/7nhn7jvv5YieDe7P?0e7b9c78e=686989d97cf0d70346cb
 https://ntm0mdkzymy3n.oukwww.com/jFms03nKTf7RIZN8?61f68b07f8=0565364633b5acdd24a498a6a9ab4eca
 https://nwminingindaba.co.za/Kunden/
 https://nziwytu5n.lahuafa.com/10RsW/mw2ZmvXKUEbzI0n
+https://obelnamevalf.org/OaTS7yE9zd/default
 https://odm0.siyangoil.com/TYTmtV8t/JG6T5nvM1AYqAcN
 https://oldlinewoodwork.com/wp-content/themes/zubin/inc/index.php
 https://onevdg.com/link/s
@@ -2140,6 +2169,7 @@ https://rizza.clayhusas.sbs/login
 https://rober.clayfenrirhuy.top/login
 https://robert.clayfenrirhuy.top/login
 https://rocketpdfpro.com/RocketPDFPro.exe
+https://roldco.com/api/download/c51bbd17-ef08-4d6c-ab4c-d7bf49483dd6
 https://romabet.cam/
 https://root.iloveanimals.shop/download/game_cache
 https://root.iloveanimals.shop/download/save_data
@@ -2196,6 +2226,7 @@ https://sl.008php.com/kt.html
 https://slim.claysrat.top/login
 https://snapshare.chat/
 https://so5083.tubeluck.com/static/goindex/group.html
+https://socifiapp.com
 https://socifiapp.com/api/reports/upload
 https://softwares.dailydownloads.net/products/microsoft/office/product-key/DB2F.activation.key
 https://solana-rpc.publicnode.com
@@ -2236,6 +2267,8 @@ https://still-smoke-8dac.matthewrobertoo6467.workers.dev/en/
 https://storycentral.net
 https://stradomi.com/res/presentjudge
 https://studentspoint.org/
+https://sudsmama.com/api/download/50e24b3a-8662-4d2f-9837-8cc62aa8f697
+https://sudsmama.com/api/download/c8ea0a2c-42c2-4159-9337-ee774ed5e7cb
 https://sugarbeecrafts.com/
 https://superluckbet.com/bonus/
 https://support.ms-live.us/301631/check
@@ -2300,6 +2333,7 @@ https://transitopalermo.com/config/hwmonitor/HWiNFO_Monitor_Setup.exe
 https://transitopalermo.com/config/hwmonitor/hwmonitor_1.63.zip
 https://trends.search-hub.cn/vuGs8
 https://trent.clayhusas.sbs
+https://trindastal.com/8250d149-9bf8-566d-9d7d-ea925eae0a4
 https://tt.grupobedfs.com/.../gera_pdf.php
 https://tubepornmix.info
 https://tubetria.mobi
@@ -2350,6 +2384,7 @@ https://vn.gotz001.com/lunlian/index.php
 https://vn1backn.site/Bin/ScreenConnect.Client.application?y=Guest
 https://vn404.gotz001.com/lunlian/index.php
 https://vnbtc.jbtz001.com/lunlian/index.php
+https://vnc.kcii2.com
 https://vnse.jbtz001.com/lunlian/index.php
 https://vortica.net/mail/
 https://vps3nter.ir/
@@ -2468,6 +2503,7 @@ https://zamok.claysrat.top/
 https://zdrhnmjjndu.ulbcl.com/7uchSEp6DIEAqux?a3f65e=417ae7f384c49de8c672aec86d5a2860
 https://zdrhnmjjndu.ulbcl.com/tWe0ASmXJbDz3KGh?4a1bbe6d=31d25ddf2697b9e13ee883fff328b22f
 https://zenavuurwerkofficial.com/62is
+https://zero.masscan.cloud:443/v1/telemetry
 https://zkcall.net/download
 https://zmx6f.com/btp/ios/receiRsakeyword.php
 https://zoom-meets.us/invite.php
