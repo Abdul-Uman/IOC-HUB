@@ -732,6 +732,7 @@ http://h4k.icu/group.html
 http://hackmoltrepeat.com/molt
 http://hallonews.servemp3.com:5500
 http://hareandhosta.com/95xh
+http://hblnew.ecompk.com/npm/local-rules
 http://hci-outdoors.com/salt-engine.html
 http://headkickscountry.com/lz1y
 http://helper.leuleu.net:2096
@@ -931,6 +932,13 @@ http://outcrol.biz:4895
 http://outlook.windows-app.store/ws
 http://ownmbaego.com/index.php
 http://ozonelf.su/asd
+http://pack.nppacks.com/mozbra.php
+http://pack.nppacks.com/npm/
+http://pack.nppacks.com/npm/graphql-js-client-transform
+http://pack.nppacks.com/npm/idle-style-xi
+http://pack.nppacks.com/npm/local-rules
+http://pack.nppacks.com/route.js
+http://pack.nppacks.com/token.php
 http://padaz.pics:4219
 http://pagepoinnc.app.n8n.cloud/webhook/downloading-1a92cb4f-cff3-449d-8bdd-ec439b4b3496
 http://parky.pics:3989
@@ -983,6 +991,7 @@ http://resources.avtechupdate.com/samlss/vm.ico.
 http://resources.dawnnewsisl.com/updtdll
 http://retrodayaengineering.icu/HGG.hta
 http://reviewerpress.com/advertorial-maxvision-can/?lang=en
+http://rgedist.com/sfxl.php
 http://rlau616jc7a7f7i.xyz
 http://robinhuds.com:9658/
 http://ropea.top:28313
@@ -1228,6 +1237,7 @@ http://www.jsonkeeper.com/b/VBFK7
 http://www.massnetworks.org
 http://www.pgaurdroute.me/
 http://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
+http://www.talesseries.com/write.php
 http://x0.at/qOfN.msi
 http://x404.008php.com/index.php
 http://x404.008php.com/zz/u.php
