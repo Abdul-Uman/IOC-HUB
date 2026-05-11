@@ -1,6 +1,7 @@
 http://1.tcp.sa.ngrok.io:20262
 http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.135.101.15/wocaosinm.sh
+http://103.177.110.202/bot_x64.exe
 http://103.231.75.101:8888
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
 http://110.172.104.95:8000/api/download/windows-tools/amd64
@@ -348,6 +349,7 @@ http://91.202.233.215/config.txt
 http://91.202.233.215/t/qpwoe32.txt
 http://91.202.233.215/t/qpwoe64.txt
 http://91.202.233.215/win64.vbs
+http://91.215.85.103/pay_or_leak/instructure_affected_schools_list.txt
 http://91.92.240.190/fbfde0da45a9450b.php
 http://91.92.242.30/1v07y9e1m6v7thl6
 http://91.92.242.30/6wioz8285kcbax6v
