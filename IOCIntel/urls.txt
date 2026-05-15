@@ -297,6 +297,7 @@ http://83.217.208.130/xfiles/VIDA.mp4
 http://83.217.208.130/xfiles/trip.mp4
 http://83.217.208.130/xfiles/trip.psd
 http://83.222.190.174:443/fakeurl.html
+http://83.229.126.195:8081/config.json
 http://83.252.42.112/rondo.arc700
 http://83.252.42.112/rondo.armv4l
 http://83.252.42.112/rondo.armv5l
@@ -1300,6 +1301,7 @@ https://185.99.2.196/api/v12
 https://194.5.249.156/api/v10
 https://195.123.241.175/api/v153
 https://195.123.241.194/api/v153
+https://1a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev/download
 https://1betcart.com/
 https://1kickbet1.com/
 https://1win-giris.com.co/
