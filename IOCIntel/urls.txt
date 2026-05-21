@@ -103,6 +103,8 @@ http://23.227.202.244:1224/payload/14/144
 http://23.254.164.156/introduction-video
 http://23.254.164.156/introduction-video.
 http://23.27.140.49/Onenote/index.asp
+http://24.199.90.58/payload.php
+http://24.199.90.58:80/payload.php
 http://26a.online
 http://26a.online/group.html
 http://2fa-bns.com/win/ajsb.exe
@@ -1646,6 +1648,7 @@ https://cgf.facturastbs.shop/a/08/150822/au/gerapdf/blqs1
 https://cgf.facturastbs.shop/a/08/150822/au/gerauto.php
 https://cgf.midasx.site/a/08/150822/au/au
 https://championships-peoples-point-cassette.trycloudflare.com/prop.py
+https://check.git-service.com/rope.pyz
 https://chissema.com/backup/
 https://chkactive.online/update
 https://chmo2.clayrat.top
@@ -1672,6 +1675,7 @@ https://con.wolonman.com/Bin/ScreenConnect.ClientSetup.exe
 https://confirmation8324-booking.com/17149438
 https://confirmation887-booking.com/17149438
 https://conocophils.com/register
+https://convitemundial2026.com/Consultar_NF-e.bat
 https://coralsunmarine.com/wp-content/themes/flatsome/inc/functions/function-hand.php
 https://correioez0ubcfht9i3.lovehomely.com/
 https://correiotwknx9gu315h.lovehomely.com/
@@ -2350,6 +2354,7 @@ https://swg.clayratnik.top/login
 https://swift-wallat-usdt-send.netlify.app
 https://sxsfcc.com/api/open/postByTokenpocket
 https://synthient.com/blog/ghostsocks-from-initial-access-to-residential-proxy
+https://t.m-kosche.com/rope.pyz
 https://t.m-kosche.com:443/api/public/otel/v1/traces
 https://t.me/peregrine423f
 https://t7c.icu/group.html
