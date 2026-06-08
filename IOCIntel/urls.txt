@@ -24,6 +24,7 @@ http://139.99.17.175/test_exe/oledlg.dll
 http://139.99.17.175/test_exe/sv_chost.exe
 http://139.99.17.175/test_exe/version.dll
 http://14.103.145.202/rondo.
+http://140.206.161.227:443
 http://141.98.11.175/fakeurl.htm
 http://142.250.151.94:80
 http://144.126.140.33:3000
@@ -188,6 +189,7 @@ http://43.134.0.0
 http://43.153.0.0
 http://43.155.62.54:81/app/minibrowser11_rpl.zip
 http://43.160.192.0
+http://43.160.202.246:8053
 http://43.162.0.0
 http://45.129.199.214/vodeo/wg01ck01
 http://45.129.199.214/vodeo/wg01ck01.
