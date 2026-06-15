@@ -409,6 +409,8 @@ http://Maper.info/XGu48
 http://Qposhgames.com/set.exe
 http://Setseta.com/set.exe
 http://a.insgly.net/api/trk?id=emailclick&i=660735&eid=156538024&url=hXXps://abramge.com.br/drive/itpresented
+http://a.opmnstr.com/app/js/api.min.js
+http://a.trstplse.com/app/js/api.min.js
 http://aab.sportsontheweb.net/x.php
 http://abramge.com.br/drive/itpresented//
 http://actedsda.cfd/assets/ACTED
@@ -498,6 +500,7 @@ http://audit.checkmarx.cx:443
 http://auth.qgtxtebl.workers.dev
 http://auth.wizvera.o-r.kr/index.php
 http://ax29g9q123.anondns.net
+http://azurenetfiles.net:443/agent.ashx
 http://b27.icu
 http://b27.icu/055c5ab6028f7c0a3f8970975c332fe4417b054c.js
 http://b27.icu/25bb1b38371a67e977ed534d251d95b6f07aff90.js
@@ -522,6 +525,7 @@ http://baxe.pics:48261
 http://bd.gotz001.com/lunlian/index.php
 http://belaysolutions.link/pdf/hiring_assistant.pdf.rar
 http://bendavo.su/asdsa
+http://beninmaritime.org/ship-registry
 http://berlin101.com:6000
 http://bestcryptocurrency.top
 http://bestcryptocurrency.top/details/group.html
@@ -842,6 +846,7 @@ http://interxo.biz:7481
 http://ios.teegrom.top
 http://ios.teegrom.top/tuiliu/group.html
 http://ip.inovanet.pt/systemprofile.zip
+http://ipelc.gob.bo/boots_store/
 http://iphonex.mjdqw.cn
 http://iphonex.mjdqw.cn/tuiliu/group.html
 http://items.kycc-camera.shop/
@@ -924,6 +929,7 @@ http://listofexoticplaces.com
 http://live.easyboxsync.com/resources/gup/notepad
 http://livemicrosft.com/meet/89035563931?p=9jXK14VFM8fObdKxfkake8tD7rPhzs.1
 http://lk4x6x2ejxaw2br.xyz
+http://lnstagram.com/wlsperrrrr/
 http://load.auraria.org/index.php
 http://load.erasecloud.n-e.kr/login.php
 http://load.serverpit.com/fwrite.php
@@ -1105,6 +1111,7 @@ http://scanclaw.live/KjYQnKB-.php
 http://scottvmorton.com/tytuy.json'
 http://se.gotz001.com/lunlian/index.php
 http://searchingpart.com
+http://searchtoggler.com/ext/search
 http://second.systemupdate.cloud/client
 http://secure-ntc.net/Advisory/NTC/2025/05/hit.gov.pk/
 http://securepass.info/
@@ -1167,6 +1174,7 @@ http://stars.medbury.com:18810
 http://start.cleaning-room-device.shop/sha589.m4a
 http://stat.bluetroniq.vip/
 http://static.bytedauce.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css
+http://static.eigbox.ne
 http://steamcommunity.com/profiles/76561198735736086
 http://steamcommunity.com/profiles/76561198742377525
 http://stewise.top/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
@@ -1227,6 +1235,14 @@ http://tg.cloudapi.stream/get_session.php
 http://tg.cloudapi.stream/get_sessions.php
 http://tg.cloudapi.stream/save_session.php
 http://tg.cloudapi.stream/save_title.php
+http://tidio.cc/cdn-cgi/
+http://tidio.cc/cdn-cgi/*
+http://tidio.cc/cdn-cgi/b
+http://tidio.cc/cdn-cgi/l
+http://tidio.cc/cdn-cgi/p
+http://tidio.cc/cdn-cgi/pe-b
+http://tidio.cc/cdn-cgi/pe-l
+http://tidio.cc/cdn-cgi/pe-p
 http://tiktokgplya.sbs
 http://tofukai.cfd/2/verify.sh
 http://token.llm7.io/?subscription=show
@@ -1353,6 +1369,7 @@ http://www.jsonkeeper.com/b/RZATI
 http://www.jsonkeeper.com/b/T7Q4V
 http://www.jsonkeeper.com/b/VBFK7
 http://www.massnetworks.org
+http://www.novel21.co.kr/data/editor/2110/index.php
 http://www.pgaurdroute.me/
 http://www.realdecorralejo.com/cgi-admin/signer.html
 http://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
@@ -1370,6 +1387,7 @@ http://xn--e1ajbcejcefx.xn--p1ai/sflopytrgjklhfaseri
 http://xpertclient.net:3000/sex.sh
 http://xpie348.online/instalador/get_token.ps1
 http://xpie348.online/instalador/update.xml
+http://xupqrnn.one/us?__theme_site_ticket=
 http://xxx.retweet.shop/
 http://xz.868id.com/EfsPotato_sign.exe
 http://y4w.icu
@@ -1515,6 +1533,8 @@ https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://activatecapagm.com/j8r3
 https://activatesoftinc.icu/zinfoz.dat
 https://adm-govuz.com/rev.rar
+https://admin-zone.tbpay.uk
+https://admin-zone.tbpay.uk/users/tenant`
 https://admin.inboxsession.info/teal/ru.rar
 https://admiral.clayfenrirhuy.top/login
 https://adobe-acrobat.in
@@ -1597,7 +1617,9 @@ https://app.zynoracreative.com/updrv8/drv-Arm64.patch
 https://app.zynoracreative.com/updrv8/drv-Intel.patch
 https://apple-online.shop/ChromeSetup.exe
 https://apple-online.shop/MSTeamsSetup.exe
+https://apple-online.shop/MSTeamsSetup.exe\
 https://apple-online.shop/MicrosoftEdgeSetup.exe
+https://apple-online.shop/MicrosoftEdgeSetup.exe\
 https://apple.driver-store.com/mac/arm/driver/coreaudiod
 https://apple.driver-store.com/mac/intel/driver/coreaudiod
 https://apple.driver-update.io/troubleshoot/mac/audio-issue-fix.sh
@@ -1644,6 +1666,8 @@ https://bagumedios.cloud/assets/media/others/ADN/pure
 https://bahelp.top/Bin/ZoomWorkspace.ClientSetup.exe?e=Access&y=Guest
 https://baquskreen.top/Bin/ANTI%20VIRUS%20UPDATE.ClientSetup.exe
 https://beboss34.ru/crpx0/notify.php
+https://bestfreemaps.com/search-direction.php?q=
+https://bestfreemaps.com/search-earth-de.php?q=
 https://bestieslos.com/over.js
 https://bet-4-br.com
 https://bet-7-br.com
@@ -1894,6 +1918,8 @@ https://dryvecar.com/cleaner3/update
 https://dryvecar.com/curl/04566d1d3f9717b2e7e6b643775d9ca72cef942f6df9ce075cf8c73a1bd2565a
 https://dukublavuprotutuv.highbourg.my.id/win/index.php
 https://dynpyads.com/backup/
+https://earth3d.net/admin/public/link?q=
+https://earthapp.net/admin/public/link?q=
 https://ebox.amltrust.cash/?code=
 https://ebox.csam-trust.xyz/?code=
 https://ebox.dlogin.info
@@ -1977,6 +2003,7 @@ https://france-deguisement.fr/wp-content/samba.exe
 https://freefoodaid.com/documents/2_2.d
 https://freefoodaid.com/documents/2_2.lNk
 https://freefoodaid.com/tables/tables.d
+https://freshfruittab.com/search?q=
 https://fud2026.com/libmine-
 https://funtik.clayfenrirhuy.top/login
 https://fuwin-88.com
@@ -2033,6 +2060,7 @@ https://govt-filesharing.site/taskmgr.rar
 https://govt-filesharing.site/tmp.rar
 https://graficateke.com.br/mail/
 https://gravityforms.ir/
+https://greatstartapp.com/serp.php?v=1.0.1&id=mccmkaicbneobeclkbloeoopcfeipmio&q=
 https://greenporn.mobi
 https://greenwayauto.sale/
 https://greenxeonsr.info/Jsdfwejhrg.rko
@@ -2052,6 +2080,7 @@ https://hareandhosta.com/95xh
 https://headedforspace.com/
 https://headkickscountry.com/lz1y
 https://helllo2025.com/api/open/postByTokenpocket
+https://hire-household-squad-postcard.trycloudflare.com/MSTeamsSetup.exe
 https://hiremployee.com
 https://hitpak.org/notepad2.dll
 https://hitpak.org/notepad2.dll'
@@ -2094,6 +2123,7 @@ https://investors.pbfenergy.com/
 https://ios.teegrom.top/tuiliu/group.html
 https://iosfc.com/ledger/ios/Rsakeycatch.php
 https://ipdidi.clay.rest/login
+https://ipelc.gob.bo/boots_store/
 https://ipgrabber.ru/penis.gif
 https://iphonex.mjdqw.cn/tuiliu/group.html
 https://iplis.ru/camorra.gif
@@ -2151,6 +2181,7 @@ https://laughing-space-capybara-x5g6rjxq7jwvfp6q6-443.app.github.dev/sllkjdsss_u
 https://lcd-add-palace-switching.trycloudflare.com/12341234
 https://lddx3z2d72aa8i6.xyz/group.html
 https://leadoo.com/
+https://leadslaw.com/MSTeamsSetup.exe
 https://leao-88.com
 https://learn.bitget-meeting.com/en-us/troubleshoot/microsoftteams/teams-on-mac/teams-audio-issue-mac
 https://leha.clay.rest/login
@@ -2163,6 +2194,7 @@ https://lite.trustnik.sbs/login
 https://litter.catbox.moe/zqqxb3.txt
 https://load.erasecloud.n-e.kr/login.php
 https://load.serverpit.com/fwrite.php
+https://loginonlineapp.com/admin/public/link?q=
 https://lp.washrocks.com/static/auth/en/verification.php
 https://luck-2.com
 https://luis.com.ve/mail/
@@ -2209,6 +2241,7 @@ https://mgi1y.siyangoil.com/vmzLvi4Dh/1Dd0m4BmAuhVVCbzF
 https://michaelcheney.com/
 https://microsofstlive.fare.com.de/JmJfd
 https://microsoft-msteams.com/additional-check.html
+https://microsoft-teams.icu/files/MSteamsV7.80.exe
 https://microstteams.com/additional-check.html
 https://mih.clayratnik.top/login
 https://mikro.pt/kund/
@@ -2247,18 +2280,23 @@ https://my.toruftuiov.com/9397b37a-50c4-48c0-899d-f5e87a24088d
 https://my5353.com/nWyTf
 https://myanimals.com/
 https://mydigitalrevival.com/get.php
+https://myfocalfind.com/search?q=
+https://myperfecttab.com/search/?q=
 https://mysoliq-uz.com/api/v2/documents/financial/Q4-2025/audited/consolidated/with-notes/financials/reports/annual/2025/tashkent/statistical-statements/
 https://mysql.vecedoo.online/JB5ow79@fKst02/#EMAIL_ADDRESS
+https://myvideolibrary.info/search.php?q=
 https://mziyytm5ytk.ahroar.com/kAN2pIEaariFb8Yc
 https://n49.top/group.html
 https://nama-belakang.nebao.icu/statistics/discover.txt
 https://naprakeszingatlan.hu/wp-mail/
 https://naryncity.kg/minjust.gov.kg/kgnotary.rar
 https://nasubutrachat.highbourg.my.id/win/index.php
+https://nautilus-notes.com/search?q=
 https://nb-download.com/installer/setup.exe
 https://nbdownload.space/setup.exe
 https://news4me.xyz/protector/johnremcos.txt
 https://news4me.xyz/uac.png
+https://newtab.club/search?q=
 https://nexsnield.com/install?uuid=550e8400-e29b-41d4-a716-446655440000&version=2025.1116.1842
 https://nexsnield.com/update?uuid=550e8400-e29b-41d4-a716-446655440000&version=2025.1116.1842&previous=2025.1115.1000
 https://ngy2yjq0otlj.ahroar.com/17pIWJfr9DBiXYrSb
@@ -2279,6 +2317,7 @@ https://ntm0mdkzymy3n.oukwww.com/jFms03nKTf7RIZN8?61f68b07f8=0565364633b5acdd24a
 https://nwminingindaba.co.za/Kunden/
 https://nwphotoblog.com
 https://nziwytu5n.lahuafa.com/10RsW/mw2ZmvXKUEbzI0n
+https://oasrchrdr.com?dgd=RD1005461&PCSF=true&q=
 https://obelnamevalf.org/OaTS7yE9zd/default
 https://odm0.siyangoil.com/TYTmtV8t/JG6T5nvM1AYqAcN
 https://official-teams-storage.com/files_dws_arch/MTSetup_v15.3.71194.msi
@@ -2372,6 +2411,7 @@ https://q9y3.efwzxgd.es/MEaap8nZG5A@c8T/*EMAIL_ADDRESS
 https://qjywvkbl.degassing-mould.digital
 https://qonnfp.wnrathttb.ru/Fe2yiyoKvg3YTfV!/$EMAIL_ADDRESS
 https://qto12q.top/pdf.ps1
+https://query.quicksearchtool.com/s?query=
 https://quickdocshare.com/DQ
 https://quickdocshare.com/DQ/key
 https://quitethepastry.ru
@@ -2414,6 +2454,7 @@ https://rti.cargomanbd.com
 https://rto.dc7.live
 https://rushi.claysrat.top
 https://rzt.clayfenrirhuy.top/login
+https://s.fusebase-search.com/search?q=
 https://s.wwwhotsalebooks.ru/
 https://s.xn--90ahaa0atead2a.xn--p1ai/
 https://saaadnesss.shop/check'
@@ -2432,15 +2473,22 @@ https://sctapi.ftqq.com
 https://sctapi.ftqq.com:443/SCT269149TJZWARwQ76bEWeM6Vjrgih583.send?title=Gmail&desp=3D[TARGET
 https://sctapi.ftqq.com:443/SCT96188ToxRyYX7UWYhASIGRXfL7AAzv.send?title=Gmail&desp=Mozilla%2F5.0%20
 https://scvidros.com.br/mail/
+https://sdf-26fifa.top/en/tournaments/mens/worldcup/canadamexicousa2026`
 https://sdfw2026024.tos-cn-shanghai.volces.com/E-Invoice.rar
 https://sdfw2026024.tos-cn-shanghai.volces.com/E-Invoice.rar.
+https://search.freshysearch-api.net/search/
+https://search.getbettersearch-api.com/search/
+https://searchanything.co/search.html?q=
+https://searchtoggler.com/ext/search?src=default&q=
 https://seasonal-estimation-heating-necessarily.trycloudflare.com
 https://seedsuccesspath.com/6m8a
+https://seek.searchthatweb.com?PCSF=true&q=
 https://send-usdt-09-admin.netlify.app
 https://sentinelonepro.com:443
 https://sercicio.paypl.studiolegaleflm.it/ppl-it/mark.php
 https://serverseistemasatu.com/data.php?recebe
 https://service-interbancaire.page.dev
+https://services.templatesearch-svc.org/search/
 https://setseta.com/
 https://setseta.com//set.exe
 https://setseta.com//taskis.exe
@@ -2598,6 +2646,7 @@ https://urls.fr/rUbDjo
 https://us.bold.pro/my/jaron-gaston-241007104612
 https://us05meeting.ws/G/MEET/googlemeet-invite.php
 https://usma.ru/
+https://usps.xupqnqz.one/uqjmw
 https://valdia.quatiappcn.pw/619bbbfdfebf846b78059584.jsrnURLrn
 https://valdia.quatiappcn.pw/61cb4263a360594772059587.js
 https://valdia.quatiappcn.pw/6215169ae66111503f639b90.js
@@ -2619,6 +2668,7 @@ https://venom.clayfenrirhuy.top/login
 https://verifycard45625-expedia.com/67764524
 https://verifyguest02667-booking.com/17149438
 https://vhs.delrosal.net/i
+https://viewmenuprices.com/auto-suggest/search.php?q=
 https://viewmyparty.com/Windows/invite.php
 https://viliam.alpha-met.online/?invitation-ter-nsbs-oeht
 https://viliam.superlite.online/?invitation-ter-nsbs-oer
@@ -2634,6 +2684,7 @@ https://vortica.net/mail/
 https://vps3nter.ir/
 https://w2a315.tubeluck.com/static/goindex/tuiliu/group.html
 https://walt-messaging-affairs-occurring.trycloudflare.com
+https://wanderlustar.com/k?source=7023.139&kw=
 https://weaving.pt/data/
 https://web.florarevival.com:443/download/a6d6u9ff13?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=6
 https://web04zoom.im.web04zoomp.us/Windows/invite.php
@@ -2729,6 +2780,7 @@ https://www.upsystems.one/Alex.exe
 https://www.us.registration.fcaministers.com/
 https://www.wagenbaugrabs.ch/
 https://www.worldwealthbuilders.com/
+https://www.ww-fifa.com/cart`
 https://www.yesexyporn.com/
 https://www.yespp.co.kr/common/include/code/out.php
 https://www.younghentai.net/
