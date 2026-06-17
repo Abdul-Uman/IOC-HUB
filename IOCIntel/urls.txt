@@ -465,6 +465,7 @@ http://api.cloudapi.stream:8443/Register
 http://api.cloudapi.stream:8443/Translation
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
+http://api.keensie.com:5198/
 http://api.mywalletsss.store/api/validate/system-info
 http://api.notely.fun/api
 http://api.npoint.io/03f98fa639fa37675526
