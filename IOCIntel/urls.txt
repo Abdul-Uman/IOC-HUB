@@ -241,6 +241,7 @@ http://60.30.147.18:8091/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://62.113.115.89/homepage/infile.php
 http://64.7.198.66/resosk443.exe
 http://64.7.199.177:18899/93.187.56.19
+http://64.95.13.238/payload.php'
 http://65.109.25.6:6000/api/polymarket-copytrading-bot-api-key/validate
 http://65sse.668ddf.cc
 http://65sse.668ddf.cc/tuiliu/group.html
@@ -716,6 +717,7 @@ http://ecols.ru/gogo.rtf
 http://ef0h.com/1/
 http://effortlesspdf.com/EffortlessPDF.exe
 http://eg2bjo5x5r8yjb5.xyz
+http://eixfi.ajb8.com
 http://elementsplugin.duckdns.org:49152
 http://elementsplugin.duckdns.org:49153
 http://emec.su/bg.rtf
@@ -817,6 +819,8 @@ http://hgame33.com/00101010101001/morte.arm6
 http://hgame33.com/00101010101001/morte.i686
 http://hgame33.com/00101010101001/morte.mips
 http://hgame33.com:443
+http://hgodpcx.ajb8.com
+http://hgodpcx.ajb8.com/prod/RTL819X/
 http://homelycareinc.com/po7r
 http://hostalaskapatagonia.com/tt/become.txt
 http://hostalaskapatagonia.com/tt/tedfd.te
@@ -1023,6 +1027,7 @@ http://ombut.com:443
 http://onedrive.azure-app.store/ws
 http://onedrivedownload.zoholandingpage.com/my-workspace/DownloadedOneDrive
 http://openai-pidor-with-ai.com:6343
+http://opi7.com
 http://order.edrennikov.ru/jquery-3.3.1.min.js
 http://ose.668ddf.cc
 http://ose.668ddf.cc/tuiliu/group.html
@@ -1397,6 +1402,8 @@ http://xjslbdt9jdijn15.xyz
 http://xmmfrkq9oat1daq.xyz
 http://xmr-sg.kryptex.network:8029
 http://xn--e1ajbcejcefx.xn--p1ai/sflopytrgjklhfaseri
+http://xonice.ahb8.com
+http://xook.ajb8.com
 http://xpertclient.net:3000/sex.sh
 http://xpie348.online/instalador/get_token.ps1
 http://xpie348.online/instalador/update.xml
@@ -1941,6 +1948,7 @@ https://driverservices.store/visiodrive/nvidiaReleasenew.zip
 https://dryvecar.com/cleaner3/update
 https://dryvecar.com/curl/04566d1d3f9717b2e7e6b643775d9ca72cef942f6df9ce075cf8c73a1bd2565a
 https://dukublavuprotutuv.highbourg.my.id/win/index.php
+https://dybic.ajb8.com
 https://dynpyads.com/backup/
 https://earth3d.net/admin/public/link?q=
 https://earthapp.net/admin/public/link?q=
@@ -2104,6 +2112,10 @@ https://hareandhosta.com/95xh
 https://headedforspace.com/
 https://headkickscountry.com/lz1y
 https://helllo2025.com/api/open/postByTokenpocket
+https://hgodpcx.ajb8.com/n
+https://hgodpcx.ajb8.com/prod/RTL819X/
+https://hgodpcx.ajb8.com/prod/standard/
+https://hgodpcx.auq8.com/t
 https://hire-household-squad-postcard.trycloudflare.com/MSTeamsSetup.exe
 https://hiremployee.com
 https://hitpak.org/notepad2.dll
@@ -2502,6 +2514,8 @@ https://scvidros.com.br/mail/
 https://sdf-26fifa.top/en/tournaments/mens/worldcup/canadamexicousa2026`
 https://sdfw2026024.tos-cn-shanghai.volces.com/E-Invoice.rar
 https://sdfw2026024.tos-cn-shanghai.volces.com/E-Invoice.rar.
+https://sdkv1.dataexplore.cc
+https://sdkv1.dataexplore.co
 https://search.freshysearch-api.net/search/
 https://search.getbettersearch-api.com/search/
 https://searchanything.co/search.html?q=
