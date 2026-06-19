@@ -494,6 +494,8 @@ http://app.bytevista.cloud/wfree
 http://app.compassidea.org/vcamv8/drvMac-an5r.patch
 http://app.evaluino.com/v86/drvMac-an5r.patch
 http://app.evaluza.com/hbrev1023/drvMac-tk5i.patch
+http://app.miloyannopoulos.com/download
+http://app.miloyannopoulos.com/download?subid1=download
 http://app.proficiencycert.com/toolCamV8/drvMac-cb5h.patch
 http://app.zynoracreative.com/updrv8/drv-Arm64.patch
 http://app.zynoracreative.com/updrv8/drv-Intel.patch
@@ -795,6 +797,7 @@ http://grinvan.com/vims/browser/
 http://gsbauwu1hsa.legalaro.com/nmasn/
 http://guest03442-booking.com/17149438
 http://gunbet.ac
+http://gw.netnut.net:9595
 http://gwadarport.ddns.net:9090
 http://h.com:8000/test1.html
 http://h4k.icu
@@ -936,6 +939,8 @@ http://lazzo.bet:3989
 http://lddx3z2d72aa8i6.xyz
 http://lddx3z2d72aa8i6.xyz/group.html
 http://linetoslice.com/scripts
+http://link.storjshare.io/raw/jux4e4ky5mruo4jkxsssp42sau4q/ruslan/BATPackageBuilderSetup.bat
+http://link.storjshare.io/raw/jwwvr4oskkkjsgevt774ta62ehya/ruslan/aBsvwbdas.exe
 http://linked-hr.com/leyts.php
 http://linked-on.com/leyts.php
 http://linked-people.com/leyts.php
@@ -1673,6 +1678,10 @@ https://astro.thorousha.ru/vojd4e50fw4o!g/$ENCODED
 https://ataev.claybaster.top/login
 https://ataev2.claydc.top
 https://ateci.pt/Backup/
+https://atsheisdomestic.org/api/podcasts
+https://atsheisdomestic.org/api/subscribe
+https://atsheisdomestic.org/api/update-delay
+https://atsheisdomestic.org/update-thanks.html
 https://audit.checkmarx.cx/v1/telemetry
 https://aufal.filevexcasv.buzz/on7/index15.php
 https://aufal.filevexcasv.buzz/on7all/index15.php
@@ -1984,6 +1993,12 @@ https://error.clayhusas.sbs/login
 https://eset.ydns.eu/post.php
 https://eset.ydns.eu/scrss.ps1
 https://espressonisten.de/
+https://etoftheappyrince.org
+https://etoftheappyrince.org/...
+https://etoftheappyrince.org/api/pdfs
+https://etoftheappyrince.org/api/update-delay
+https://etoftheappyrince.org/summarize-text
+https://etoftheappyrince.org/update-thanks.html
 https://everycarebd.com/imagelkjh0987.png
 https://evgen.claybaster.top
 https://evs.grupotuis.buzz/0capcha17/
@@ -2120,6 +2135,11 @@ https://hapich.clayfenrirhuy.top/login
 https://hareandhosta.com/95xh
 https://headedforspace.com/
 https://headkickscountry.com/lz1y
+https://healightejustb.org/api/central-config
+https://healightejustb.org/checkForNewVersion
+https://healightejustb.org/summarize-text
+https://healightejustb.org/welcome_page.html
+https://healightejustb.org/welcome_page.js
 https://helllo2025.com/api/open/postByTokenpocket
 https://hgodpcx.ajb8.com/n
 https://hgodpcx.ajb8.com/prod/RTL819X/
@@ -2233,6 +2253,8 @@ https://leha.clay.rest/login
 https://lenwillfilenetwork.com/downloads/Network%20Solutions%20Agreement.msi
 https://lepolice.com/
 https://likeporn.mobi
+https://link.storjshare.io/raw/jv5uebuqwzfpmtahj34q753ptykq/node/BATPackageBulderSetup.bat
+https://link.storjshare.io/raw/jvsmdybqmvwep2oawbobp6ub7aza/node/node-v24.15.0-x64-86.exe
 https://link.trustwallet.com/open_url?coin_id=60&url=https://swift-wallat-usdt-send.netlify.app
 https://listsoft-update.site/
 https://lite.trustnik.sbs/login
