@@ -64,6 +64,8 @@ http://172.86.88.188/api/service/process/c841b6c4ac4d2e83f16cf7a8bfbec3d7
 http://172.94.9.250/d/xxx10108
 http://173.231.188.244:14641
 http://176.65.139.119:555/aA/Skype.ps1
+http://178.236.252.133/html/continue.php
+http://178.236.252.161/html/continue.php
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/gcvvPu2KXdqEbDpJQ33/
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/rrvvPu2KXdqEbDpJQ33/
 http://181.231.253.69:4444
@@ -299,6 +301,8 @@ http://77.110.122.58:23205/lQhEQui9a4lZ.exe'
 http://77.110.122.58:44479/bjxxUmG8K3uy.ps1
 http://77.83.207.106:56001
 http://77.90.153.136/ss/armv4l
+http://77.91.123.187/html/continue.php
+http://77.91.123.187/html/continue.php.
 http://78.153.155.131/service/download/p2.tar
 http://7ff.online
 http://7ff.online/group.html
@@ -1087,6 +1091,9 @@ http://pengajian.muliastudy.com/images/edu/u.php
 http://pepeairdrop01.com
 http://pepeairdrop01.com/static/analytics.html
 http://perfectlinestarter.com/scripts
+http://perplexity-ai.online/
+http://perplexity-ai.online/*
+http://perplexity-ai.online/search/
 http://phillips66shop.com/
 http://pipeline.embeddedonline.org/check.php?x-csrf-token=gateless
 http://pipeline.embeddedonline.org/download3.php?sessid=54126&user-token=gateless
@@ -1430,6 +1437,7 @@ http://www.pgaurdroute.me/
 http://www.realdecorralejo.com/cgi-admin/signer.html
 http://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
 http://www.talesseries.com/write.php
+http://www.zohoapis.com/workdrive/api/v1/files
 http://wylderhotels.sparkaxis.org/personaljflannigan/
 http://x0.at/qOfN.msi
 http://x404.008php.com/index.php
@@ -2481,6 +2489,9 @@ https://pdj.gruposhac.lat/g1/gerador.php
 https://pdj.gruposhac.lat/g1/ld1/
 https://pengajian.muliastudy.com/images/edu/u.php
 https://pepeairdrop01.com/static/analytics.html
+https://perplexity-ai.online/favicon.ico
+https://perplexity-ai.online/search/
+https://perplexity-ai.online/search?output=firefox&q=
 https://persistancejs.store/jsplug/plugin.php
 https://persistancejs.store/work/original.js
 https://petricgreen.info/BWN9ZAP.xn--rko;-ib7a
@@ -2732,6 +2743,9 @@ https://timetrakr.cloud/sp.ps1'
 https://tiresdoc.com/
 https://tnvs.de/e4gUVc
 https://today-88.com
+https://tonapi.io/v2/blockchain/accounts/
+https://tonapi.io/v2/blockchain/accounts/0:c66119f0e5635c4380441d7a79baf0c02a0ab7ea6cd78de06507fc5dc2c1a5d9/methods/get_domain
+https://tonapi.io/v2/blockchain/accounts/0:c66119f0e5635c4380441d7a79baf0c02a0ab7ea6cd78de06507fc5dc2c1a5d9/transactions
 https://torvi.pt/Backup/
 https://trackpipe.dev
 https://training-vibe.forum/bat/index.zip
