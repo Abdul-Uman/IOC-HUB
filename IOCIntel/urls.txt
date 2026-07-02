@@ -88,6 +88,7 @@ http://193.34.213.150/nuts/x86
 http://193.34.213.150/nuts/x86http://89.144.31.18/nuts/x86
 http://194.11.246.101:1338
 http://194.150.220.218/4SLEYpfAk57hGubo/fo0suc2ki2.rtf
+http://194.156.79.122:55615
 http://194.69.203.32:81/hiddenbink/colonna.arc
 http://194.69.203.32:81/hiddenbink/colonna.i686
 http://194.69.203.32:81/hiddenbink/react.sh
@@ -115,6 +116,7 @@ http://217.156.50.228:8181/nujbOqrNYyLXXLmOhPpY/PNcWncSY.exe'
 http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://222.222.254.165:8090/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
+http://23.164.48.21:55615
 http://23.227.202.244:1224/brow/14/144
 http://23.227.202.244:1224/client/14/144
 http://23.227.202.244:1224/payload/14/144
@@ -355,6 +357,7 @@ http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip'
 http://84.54.33.192:8040/Bin/ScreenConnect.ClientSetup.msi
 http://85.11.161.198:6600/qffww8ph/2DTYOKUEN.msi
+http://85.17.40.98:55615
 http://85.208.84.35:443/fakeurl.htm
 http://85.208.84.94:56001
 http://85.209.128.171:8000/AkelPad.rar
