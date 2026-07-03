@@ -487,6 +487,8 @@ http://api.cloudapi.stream:8443/Translation
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
 http://api.keensie.com:5198/
+http://api.live-updates.online/v1
+http://api.live-updates.online/v2
 http://api.mywalletsss.store/api/validate/system-info
 http://api.notely.fun/api
 http://api.npoint.io/03f98fa639fa37675526
@@ -506,6 +508,8 @@ http://api.office123456.com/vcx/
 http://api.package.coreservice.io:10443
 http://api.reverserecruiting.io/
 http://api.reverserecruiting.io/v1/profile/sync
+http://api.sync-master.online/v1
+http://api.sync-master.online/v3
 http://api.twmoc.info/ws
 http://api.wiresguard.com/api/FileUpload/submit
 http://api.wiresguard.com/update/v1
@@ -526,10 +530,12 @@ http://appview.imagetemplate.com/gateless_icon
 http://aquacomplect.ru/aqua.docx
 http://aquacomplect.ru/complex.hta
 http://ardt.info/tmp/
+http://as.al/file/KBn1RC.
 http://aspeimoveis342235.online/
 http://audit.checkmarx.cx:443
 http://auth.qgtxtebl.workers.dev
 http://auth.wizvera.o-r.kr/index.php
+http://avenger-sync.live/api/sync
 http://ax29g9q123.anondns.net
 http://azurenetfiles.net:443/agent.ashx
 http://b27.icu
@@ -763,6 +769,7 @@ http://fanonlyatn.xyz/files/
 http://fastdownloads.live/dl/putty.exe
 http://featherstorage.com/1637.exe
 http://female-disorder-beta-metropolitan.trycloudflare.com/index.php
+http://ffgfgjjddsgtrddhtjyfdsessxdssdfdfdfghfhg.duckdns.org:14647
 http://fifa-tickets.vip/authorize.html
 http://fifa-tickets.vip/pay/FWC20260418A3230F12AC
 http://fifa-tickets.vip/tickets_shop
@@ -1672,6 +1679,8 @@ https://api.flashstore.sbs/uploadfiles
 https://api.githubcopilot.com
 https://api.hellknight.xyz/js
 https://api.jz-aws.info/public/images/
+https://api.live-updates.online/v1
+https://api.live-updates.online/v2
 https://api.mywalletsss.store/api/validate/files
 https://api.mywalletsss.store/api/validate/project-env
 https://api.mywalletsss.store/api/validate/system-info
@@ -1690,6 +1699,8 @@ https://api.sheetbest.com/sheets/fe9f1e2d-16c9-4d92-9bdf-8425921ac073
 https://api.skycloudcenter.com/a/chat/s/70521ddf-a2ef-4adf-9cf0-6d8e24aaa821
 https://api.solarflevoland.nl/system_web/verification.php
 https://api.svix.com/ingest/api/v1/source/src_3387PLMB2uhXOBe3Q8sHu/in/3j2jokvbaF4WWdngv8zBbk
+https://api.sync-master.online/v1
+https://api.sync-master.online/v3
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
 https://api.wigetticks.com/logout/private-response.php?8D1V4th3
 https://api.wiresguard.com/api/FileUpload/submit
@@ -1742,6 +1753,7 @@ https://auth.allcloudindex.com/147/sokcs.exe
 https://authlobby.site/auth1/css.php?na=fmb
 https://authlobby.site/auth1/css.php?na=fmp
 https://authlobby.site/auth1/demo.php?ccs=cin
+https://avenger-sync.live/api/sync
 https://avipstudios.com/contact
 https://avrasyaproje.com.tr/backup/
 https://awladlktoccyat.ortomanalessia.com/ppl-it/mark.php
@@ -1760,6 +1772,7 @@ https://baquskreen.top/Bin/ANTI%20VIRUS%20UPDATE.ClientSetup.exe
 https://bartsen284.online/39d9612df78e45b5a4bb.php
 https://basecon.com.ua/calculator.rar
 https://beboss34.ru/crpx0/notify.php
+https://bentleyvazquezpvey.github.io/.github/
 https://beralisvc.info
 https://bestfreemaps.com/search-direction.php?q=
 https://bestfreemaps.com/search-earth-de.php?q=
@@ -2155,7 +2168,10 @@ https://git-tanstack.com/transformers.pyz
 https://gitelman.clayratnik.top/login
 https://github.cloudplatform-single-spa.io/platform/svp-baas.git
 https://github.com/7codewizard
+https://github.com/Arctic-Wolf-Security
+https://github.com/antivirus-free-bitdefender
 https://github.com/ghost
+https://github.com/malwarebytes-protection
 https://github.com/neymafullstack
 https://github.com/swiftcode1121
 https://global-weekends.net/res/helprecord
@@ -2200,6 +2216,7 @@ https://healightejustb.org/summarize-text
 https://healightejustb.org/welcome_page.html
 https://healightejustb.org/welcome_page.js
 https://helllo2025.com/api/open/postByTokenpocket
+https://helloxcherry.com/cdn/static/c3587edc48c37656b29bcd3da9458eea/update
 https://hgodpcx.ajb8.com/n
 https://hgodpcx.ajb8.com/prod/RTL819X/
 https://hgodpcx.ajb8.com/prod/standard/
@@ -2327,6 +2344,7 @@ https://luck-2.com
 https://luis.com.ve/mail/
 https://luiscarmocx.com/Back/
 https://lutkdd.corpsecs.com
+https://maccyapp.com
 https://macmafia.top/
 https://magic.claybaster.top/login
 https://mahbet.cam/
