@@ -1509,6 +1509,7 @@ https://166.0.132.237:7044/rcv/
 https://178.16.53.236:6343/gateway/pqnrojhl.adc7k
 https://185.126.255.132/requestor.php
 https://185.99.2.196/api/v12
+https://194.213.18.133.sslip.io:23088/app/js/jquery.min.js
 https://194.5.249.156/api/v10
 https://195.123.241.175/api/v153
 https://195.123.241.194/api/v153
@@ -1538,6 +1539,7 @@ https://404.imxzq.com/tdks.php?domain=%s\u0026path=%s
 https://404.jmfwy.com/tdks.php?domain=%s\u0026path=%s
 https://45.148.10.190/api/v150
 https://45.148.10.190/api/v152
+https://45.150.109.151.sslip.io:23088/app/js/jquery.min.js
 https://45.74.16.71/aAold/Skype.ps1
 https://45.77.31.210/api/FileUpload/submit
 https://45.77.31.210/api/FileUpload/submit.
@@ -1641,6 +1643,7 @@ https://adobereader-upgrade.in/adobe_update.php?file=Adobe_Acrobat_Reader_Instal
 https://adobereader-upgrade.in/tmp.rar
 https://adobereader-upgrade.in/tmp1.rar
 https://adobreader-upgrade.in
+https://adserviceupdate.com/cac.aspx
 https://advanceipscaner.com/additional-check.html
 https://aefpceup.pt/mail/
 https://aerobionix.com/generation.pdf
@@ -2240,6 +2243,7 @@ https://hotporntv.net/
 https://howto-tar-naturals-coordination.trycloudflare.com
 https://hrs2y15sungu.com/d&pushd
 https://hs8.krakenfiles.com/uploads/15-02-2026/JCaF7rrPQm/image.png.
+https://hygienehistory.com/cac.aspx
 https://i.binaner.com/group.html
 https://idliya.com/arquivo_20251130221101.txt
 https://idliya.com/arquivo_20251130221101.txt.
@@ -2664,6 +2668,12 @@ https://sharefile.progressivesharepoint.top/
 https://shf.com.pt/mail/
 https://shilebatablurap.highbourg.my.id/win/index.php
 https://signaturepl.com/work/index.php?abje2LAw
+https://signindat.com
+https://signindat.com/ElevatorShellCode.exe
+https://signindat.com/Rate_Confirmation_LD-2026-0847.pdf
+https://signindat.com/patch.exe
+https://signindat.com/stage.ps1
+https://signindat.com/update.exe
 https://sites-leiria.pt/es/
 https://sites-leiria.pt/financas/data/
 https://sj9ioz3a7y89cy7.xyz/list.html
