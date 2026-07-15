@@ -357,6 +357,9 @@ http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip'
 http://84.54.33.192:8040/Bin/ScreenConnect.ClientSetup.msi
 http://85.11.161.198:6600/qffww8ph/2DTYOKUEN.msi
+http://85.137.53.71:8080/api/v1/beacon
+http://85.137.53.71:8080/api/v1/file-content/
+http://85.137.53.71:8080/api/v1/file-result
 http://85.17.40.98:55615
 http://85.208.84.35:443/fakeurl.htm
 http://85.208.84.94:56001
@@ -765,6 +768,7 @@ http://elementsplugin.duckdns.org:49152
 http://elementsplugin.duckdns.org:49153
 http://emec.su/bg.rtf
 http://emprotel.net.bo/updserc.zip
+http://endpoint-api-v1.com/d/f1b24e/download
 http://entrinidad.cfd/1/verify.sh
 http://ericwbailey.website/published/accessibility-preference-settings-information-architecture-and-internalized-ableism
 http://es-koerier.nl/tmp/
@@ -1654,6 +1658,8 @@ https://absolutecaninepa.com/DocuSign/Mac/utility.php/download/index.php/downloa
 https://absolutecaninepa.com/DocuSign/Mac/utility.php/download/index.php/download/index.php/download/download/index.php
 https://absolutecaninepa.com/DocuSign/Mac/utility.php/download/index.php/download/index.php/download/index.php
 https://accessor.fud2026.com/libmine-
+https://account.celine-dion-arena.com/authentication/login?client_id=4983cefd-9810-444e-9eb0-64b4933878eb&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D4983cefd-9810-444e-9eb0-64b4933878eb%26locale%3Den-US%26nonce%3Dc4f2c148-2acb-4684-b19e-097d64ab8dd6%26redirect_uri%3Dhttps%253A%252F%252Faccount.celine-dion-arena.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNArFqrbMvKRksSv7JganvH
+https://account.ticketmaster-celinedion.fr/authentication/login?client_id=7e7dbd4b-c5a9-4d4e-af60-64fd673ea525&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D7e7dbd4b-c5a9-4d4e-af60-64fd673ea525%26locale%3Den-US%26nonce%3Dcdc91d10-2a95-4f80-92cd-ba9204a5edd7%26redirect_uri%3Dhttps%253A%252F%252Faccount.ticketmaster-celinedion.fr%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNAmhJgfrrdQ1bVJJXLbgCh
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://activatecapagm.com/j8r3
 https://activatesoftinc.icu/zinfoz.dat
@@ -1850,6 +1856,7 @@ https://betwiner.org/
 https://bibshe.com/
 https://bigassporntrends.com
 https://bigfile.crabdance.com/recaptcha.html
+https://billeteriecelinedion.com/en/
 https://bimb.claybaster.top/login
 https://binancealliancesintro.com/group.html
 https://birancearea.com/adminv2
@@ -1970,6 +1977,20 @@ https://cdn.eideasrl.it/Notice%20of%20Alleged%20Violation%20of%20Intellectual%20
 https://cdnjs.clondflare.com/jquery.min-3.7.8.1.js
 https://cdnjs.jsdclivr.com/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?v=3.7.8.2
 https://cdnupdatenews.top/dl?fid=38
+https://celine-dion-arena.com/
+https://celinedion-2026.com/
+https://celinedion-fr.com/
+https://celinedion-france.com/
+https://celinedion-france.com/cart
+https://celinedion-paris-billetterie.com/
+https://celinedion-paris.com/
+https://celinedion-paris.fr/
+https://celinedion-parisladefense-arena.com/
+https://celinedion.co/
+https://celinedionofficial.com/
+https://celinedionparis.com/
+https://celinedionparistickets.com/
+https://celinedionviptickets.com/
 https://centrogauchodabahia123.com/altor/installer.msi
 https://centrogauchodabahia123.com/altor/whatsz.py
 https://certiva.com.pe/ftx/
@@ -2011,6 +2032,9 @@ https://cndocsig.dn3.co/ftx/
 https://cnse.gotz001.com/lunlian/index.php
 https://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
 https://codon.vn/ext/xmshield.json
+https://cohezo.com/calendar/0f4df3a7-5914-4245-a616-311ca554ee0c
+https://cohezo.io/download?invite=OX-3SEY-64KI
+https://collabox.uk/calendar/1cdf0e32-9ba0-4be5-8823-39a2e6364a20
 https://com-apps.cc/11z77u3.php
 https://com-apps.cc/NotepadPlusPlus.zip
 https://com-apps.cc/update.zip
@@ -2024,6 +2048,7 @@ https://confirmation887-booking.com/17149438
 https://conocophils.com/register
 https://convitemundial2026.com/Consultar_NF-e.bat
 https://coralsunmarine.com/wp-content/themes/flatsome/inc/functions/function-hand.php
+https://cordinex.io/download?invite=MZ-AB95-QD50
 https://correioez0ubcfht9i3.lovehomely.com/
 https://correiotwknx9gu315h.lovehomely.com/
 https://cortinaspraga.com/
@@ -2175,6 +2200,8 @@ https://ekostroy33.ru/jquery-3.3.2.min.js
 https://elaborar.us/ftx/
 https://eliskavaea.cz/
 https://emyucc.com.ng/ftx/
+https://endpoint-api-v1.com/d/f1b24e
+https://endpoint-api-v1.com/login
 https://enslaveculprit.digital/script.sh
 https://entered-medications-motherboard-advanced.trycloudflare.com
 https://enzedi.com/
@@ -2187,6 +2214,7 @@ https://eset.ydns.eu/post.php
 https://eset.ydns.eu/scrss.ps1
 https://esignindocuid.com/ftx/
 https://espressonisten.de/
+https://ethereum-rpc.publicnode.com
 https://etoftheappyrince.org
 https://etoftheappyrince.org/...
 https://etoftheappyrince.org/api/pdfs
@@ -2260,6 +2288,7 @@ https://foguetenorte.com.br/ftx/
 https://forest-offensive-height-letters.trycloudflare.com/12341234
 https://fotbalovavidea.cz/
 https://fql.jmfwy.com/tdks.php?domain=%s\u0026path=%s
+https://fr-celinedionparis.com/
 https://fr24cast.com
 https://france-deguisement.fr/wp-content/samba.exe
 https://freefoodaid.com/documents/2_2.d
@@ -2379,6 +2408,10 @@ https://hydynamicriskssolution.com/ftx/
 https://hygienehistory.com/cac.aspx
 https://i.binaner.com/group.html
 https://ibsdse.co.in/ftx/
+https://icky-lyrical.com
+https://icky-lyrical.com/api/download?access_code=
+https://icky-lyrical.com/storage/secure/Cohezo/windows/small/69cf7d0ea7cfd/cohezo_setup.msi
+https://icky-lyrical.com/storage/secure/werkbit/mac
 https://idliya.com/arquivo_20251130221101.txt
 https://idliya.com/arquivo_20251130221101.txt.
 https://idliya.com/assets/optimized_MSI.png
@@ -2579,6 +2612,7 @@ https://modedapk.net/update1.exe
 https://modgovindia.com/CDS
 https://modgovindia.com/CDS_Directive_Armed_Forces.pdf
 https://modgovindia.com/download.php?file=Gimpfile.txt
+https://modheader.com/api/ad-settings
 https://mogibusinesscenter.com.br/ftx/
 https://moment-cat-qld-place.trycloudflare.com/sylvilagus
 https://monsoonconference.com
@@ -2688,6 +2722,11 @@ https://paste.rs/fVmzS
 https://pastebin.com/raw/jaH2uRE1
 https://patrik.claybaster.top/login
 https://patriotillumination.com/
+https://pay.celinedion-paris.fr/
+https://pay.celinedion-parisladefense-arena.com/
+https://pay.celinedionparis.com/
+https://pay.celinedionparistickets.com/
+https://pay.ticketmaster-celinedion.com/
 https://pdj.gruposhac.lat/g1/
 https://pdj.gruposhac.lat/g1/auxld1
 https://pdj.gruposhac.lat/g1/ctld/
@@ -2991,6 +3030,9 @@ https://thetripschool.com/
 https://thewondersmx.com/mail/
 https://thickentributary.digital/script.sh
 https://thov.hunanduodao.com/tdks.php?domain=%s\u0026path=%s
+https://ticketmaster-celinedion.com/
+https://ticketmaster-celinedion.fr/
+https://tickets-celinedion.com/
 https://tickets.pfoten-prinz.de/uid_page=118759991475831
 https://tikitok-goolges.sbs
 https://tikpremplaymarktuzb.sbs
@@ -3124,6 +3166,8 @@ https://web04zoom.im.web04zoomp.us/Windows/invite.php
 https://welcome.supp0v3.com
 https://welcome.supp0v3.com/d/callback
 https://welnetsanda.org/images/upload/logo.png/
+https://werkbit.io
+https://werknova.co/calendar/90f99c64-9fcc-451c-bae1-0b095c04e5c8
 https://wessper.com/
 https://wetwap.info
 https://wfporn.com/
@@ -3177,6 +3221,8 @@ https://www.behbudlabs.com/Technical_Specification/docusign/Windows/utility.php/
 https://www.brannenburger-nagelfluh.de/wp-includes/style-engine/css/index.php
 https://www.buscacnpj.org/download/we7823bn?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=3
 https://www.bushidomma.net/download/l7o9afe?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=2
+https://www.celine-dion-paris.com/
+https://www.celinedion2026tour.com/
 https://www.circoloesteri.it/
 https://www.claritycontentservices.com/wp/
 https://www.cs01.shop
