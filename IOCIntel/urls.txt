@@ -1121,6 +1121,7 @@ http://pack.nppacks.com/route.js
 http://pack.nppacks.com/token.php
 http://padaz.pics:4219
 http://pagepoinnc.app.n8n.cloud/webhook/downloading-1a92cb4f-cff3-449d-8bdd-ec439b4b3496
+http://panalobet.ph/wp-content/deng.php
 http://panel.securehubcloud.com/login
 http://paralegalmustang.icu/script.sh
 http://parky.pics:3989
@@ -1860,6 +1861,7 @@ https://bet-7k.com
 https://bet61-88.com
 https://bet7-88.com
 https://bet77-88.com
+https://beta.padmin.com/mybenefits/Templates/cd.zip
 https://betfa.cam/
 https://betforward.help/
 https://bettingmagazine.org/
@@ -2051,6 +2053,7 @@ https://com-apps.cc/NotepadPlusPlus.zip
 https://com-apps.cc/update.zip
 https://commbank.detailsconfirm.in/
 https://community.chocolatey.net/install.ps1|iex
+https://computer.kplus.com/cd.zip
 https://con.wolonman.com/Bin/ScreenConnect.ClientSetup.exe
 https://conciergesaudia.com/ftx/
 https://conference.birdriver.org/
@@ -2064,6 +2067,7 @@ https://correioez0ubcfht9i3.lovehomely.com/
 https://correiotwknx9gu315h.lovehomely.com/
 https://cortinaspraga.com/
 https://cotgfoods.com/ftx/
+https://cottonbox.co.il/wp-content/hbd
 https://coureladozambujeiro.com/wp-mail/
 https://cpadllc.com/ftx/
 https://cpcd.org.br/ftx/
@@ -2216,6 +2220,9 @@ https://endpoint-api-v1.com/login
 https://enslaveculprit.digital/script.sh
 https://entered-medications-motherboard-advanced.trycloudflare.com
 https://enzedi.com/
+https://eorthopaedics.com/feed/cew78zwvd2/
+https://eorthopaedics.com/feed/gnsmetadyx54/
+https://eorthopaedics.com/feed/note
 https://epavall.ma/ftx/
 https://erik22jomk77.card.co
 https://erkurdekor.com/ftx/
@@ -2727,6 +2734,11 @@ https://packwa.claysrat.top/login
 https://pacy.clayhusas.sbs:58387
 https://padmaelectricals.com/ftx/
 https://paixaobaptista.pt/data/
+https://panalobet.ph/wp-content/deng.php
+https://panalobet.ph/wp-content/themes/twentytwenty/assets/fonts/chromer.txt
+https://panalobet.ph/wp-content/themes/twentytwenty/assets/images/finderv2.jpg
+https://panalobet.ph/wp-content/upgrade/zsh.txt
+https://panalobet.ph/wp-content/upgrade/zsh.txt.
 https://partnerls.pl/wp-content/themes/public/index.php
 https://pasha.claybaster.top/login
 https://pasha.claydc.top/login
@@ -2872,6 +2884,8 @@ https://salat.cn/sa1at
 https://sanremomotors.co.za/wp-mail/
 https://santa-reflection-capitol-classifieds.trycloudflare.com/12341234
 https://saramoftah.com/n8n/update
+https://sastoro.com/alpha/dpyb8w3ycih8/
+https://sastoro.com/alpha/nrpilqjnut/
 https://scan.aquasecurtiy.org
 https://scmalmodovar.pt/mail/
 https://script-dev.digital/api/css.js
@@ -2974,6 +2988,8 @@ https://stellacompton.com/ftx/
 https://stg.lsmartv.com:8443/Divide/developement/GIZWQVCLF
 https://stg.lsmartv.com:8443/Originate/contacts/CX4YJ5JI7RZ
 https://still-smoke-8dac.matthewrobertoo6467.workers.dev/en/
+https://store.grafsynergy.com/media/apple.png
+https://store.grafsynergy.com/media/goyim
 https://storycentral.net
 https://stradomi.com/res/presentjudge
 https://studentspoint.org/
@@ -3175,6 +3191,10 @@ https://wakalaafricatravel.com/ftx/
 https://walt-messaging-affairs-occurring.trycloudflare.com
 https://wanderlustar.com/k?source=7023.139&kw=
 https://weaving.pt/data/
+https://web-devtools.com/dopfile
+https://web-devtools.com/file.zip
+https://web-devtools.com/starlandfox
+https://web-devtools.com/x32remka
 https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi
 https://web.florarevival.com:443/download/a6d6u9ff13?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=6
 https://web04zoom.im.web04zoomp.us/Windows/invite.php
@@ -3203,6 +3223,7 @@ https://wilsongroup.in/Docusign/Mac/utility.php/download/index.php
 https://wilsongroup.in/Docusign/Mac/utility.php/download/index.php/download/download/download/index.php
 https://wilsongroup.in/Docusign/Mac/utility.php/download/index.php/download/index.php
 https://winbet-bet.com/
+https://windowscreenrepairnearme.com/command
 https://winup.su/
 https://winup.su/api/client/poll/
 https://winup.su/dashboard.html
