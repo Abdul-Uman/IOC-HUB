@@ -547,6 +547,7 @@ http://as.al/file/KBn1RC.
 http://aspeimoveis342235.online/
 http://audit.checkmarx.cx:443
 http://auth.qgtxtebl.workers.dev
+http://auth.samecloud.o-r.kr/index.php
 http://auth.wizvera.o-r.kr/index.php
 http://avenger-sync.live/api/sync
 http://ax29g9q123.anondns.net
@@ -1504,6 +1505,7 @@ http://www.ibizplus.n-e.kr/download.php?id=30382120
 http://www.ibizplus.n-e.kr/download.php?id=30382121
 http://www.icherryls.com/
 http://www.icherryls.com/1.exe
+http://www.ilskdeid.o-r.kr:8000/
 http://www.iytest.com:5679
 http://www.jiwooeng.co.kr/zb41pl7/bbs/icon/private_name/private.php?name=
 http://www.jsonkeeper.com/b/JNGUQ
@@ -1849,6 +1851,7 @@ https://aufal.filevexcasv.buzz/on7all/index15.php
 https://auth-billing-smp.grupositel.com/simply/mark.php
 https://auth-simply.grupositel.com/simply/mark.php
 https://auth.allcloudindex.com/147/sokcs.exe
+https://auth.samecloud.o-r.kr/index.php
 https://authlobby.site/auth1/css.php?na=fmb
 https://authlobby.site/auth1/css.php?na=fmp
 https://authlobby.site/auth1/demo.php?ccs=cin
@@ -2083,6 +2086,7 @@ https://com-apps.cc/11z77u3.php
 https://com-apps.cc/NotepadPlusPlus.zip
 https://com-apps.cc/update.zip
 https://commbank.detailsconfirm.in/
+https://commit.hanbiro.o-r.kr/index.php
 https://community.chocolatey.net/install.ps1|iex
 https://computer.kplus.com/cd.zip
 https://con.wolonman.com/Bin/ScreenConnect.ClientSetup.exe
@@ -2391,6 +2395,7 @@ https://github.com/malwarebytes-protection
 https://github.com/neymafullstack
 https://github.com/swiftcode1121
 https://global-weekends.net/res/helprecord
+https://global.webjine.o-r.kr/index.php
 https://globalinnovatrix.com/ftx/
 https://globalmelange.co/ftx/
 https://globalsnn3-new.cc/newSide.forester
@@ -2738,6 +2743,7 @@ https://nwphotoblog.com
 https://nziwytu5n.lahuafa.com/10RsW/mw2ZmvXKUEbzI0n
 https://oakwusya.love
 https://oasrchrdr.com?dgd=RD1005461&PCSF=true&q=
+https://oauth.shacloud.o-r.kr:8443
 https://obelnamevalf.org/OaTS7yE9zd/default
 https://odm0.siyangoil.com/TYTmtV8t/JG6T5nvM1AYqAcN
 https://official-teams-storage.com/files_dws_arch/MTSetup_v15.3.71194.msi
@@ -2752,6 +2758,7 @@ https://oob.moika.tech/payload/
 https://oob.moika.tech/payload/linux`
 https://oob.moika.tech/payload/mac`
 https://oob.moika.tech/payload/win`
+https://oobe.webjine.o-r.kr/index.php
 https://openai-pidor-with-ai.com:6343/gateway/pqnrojhl.adc7k
 https://orcanmedikal.com.tr/tool.hta
 https://orcanmedikal.com.tr/tool.htaStage
@@ -3302,6 +3309,7 @@ https://www.dardsaaz.com/docusign/Mac/utility.php
 https://www.desixxxv.net
 https://www.dropbox.com/s/zhp1b06imehwylq/Synaptics.rar?dl=1
 https://www.drs.gov.ua/wp-content/themes/twentytwentyfive/docs.zip
+https://www.dwservice.net/
 https://www.ferienhausdehaanmieten.de/
 https://www.foxmediagency.com/download/qqa36sa0d6fq066?error=interaction_required&error_description=Session+information+is+not+sufficient+for+single-sign-on.&state=o1
 https://www.ghiseul-ro.bond/ghiseul/public/
