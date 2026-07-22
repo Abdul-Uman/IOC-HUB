@@ -73,6 +73,7 @@ http://181.231.253.69:4444
 http://185.118.164.195/c
 http://185.158.113.114:5000/affiliate/builder.
 http://185.183.97.25/protocol/function.php
+http://185.215.113.35/d2VxjasuwS/index.php
 http://185.218.87.28
 http://185.247.224.41:8443
 http://188.127.251.146:8080/sbchost.rar
@@ -111,6 +112,8 @@ http://200.107.207.15/37:
 http://202.144.192.29/audit.php
 http://202.144.192.29/download2/Themes2.zip
 http://207.148.79.178:6608/sys.sh
+http://212.192.241.62/base/api/statistics.php
+http://212.193.30.45/proxies.txt
 http://216.158.232.43:12000/sex.sh
 http://217.156.50.228:8181/nujbOqrNYyLXXLmOhPpY/PNcWncSY.exe'
 http://217.69.3.218/get_arhive_npm/
@@ -617,6 +620,7 @@ http://btrank.top
 http://btrank.top/tuiliu/group.html
 http://buccstanor.pics:28313
 http://buccstanor.pics:48261
+http://bulldrops.ru
 http://butanse.shop/
 http://byliljedahl.com/8anf
 http://byliljedahl.com/lv6q
@@ -669,6 +673,7 @@ http://cloudcenter.top/macos_update_arm
 http://cloudcenter.top/macos_update_x64
 http://cloudcenter.top/sys/update
 http://cloudflare.report/forever/e/
+http://cloudjah.com/77_1.exe
 http://cms.balochistanpolice.gov.pk/client%20scripts/
 http://cms.balochistanpolice.gov.pk/client%20scripts/cms_plugin.exe
 http://cobyrose.com/tmp/
@@ -1035,6 +1040,7 @@ http://load.erasecloud.n-e.kr/login.php
 http://load.serverpit.com/fwrite.php
 http://log.evergreenhostingoptions.de/UO95w/
 http://login.av7551.com/common/oauth2/v2.0/authorize
+http://loopaai.ru
 http://lsnngjyu9x6vcg0.xyz
 http://lumichain.pro/
 http://mail.cbm.gov.mm/
@@ -1080,6 +1086,7 @@ http://mstelemetrycloud.com/agent
 http://mtg-life.net/95126aeb-4120-56b1-8c9e-63fdf0c0b6f9
 http://muckcoding.com/LG-LW/Api-Certificate
 http://myanmar-org-mail.com/cbm/action.php
+http://n.data??[]
 http://n49.top
 http://n49.top/group.html
 http://naintn.com/amazoncdn.com/oeiich37874cj30dkk43885j10vj38h38jd/nrs/opn/ca/
@@ -1102,6 +1109,7 @@ http://news4me.xyz/uac.png
 http://newtdsone.shop/jsrepo?rnd=
 http://nextgen1.net/carrier.broker.agreement.html.
 http://nitroca.biz:6782
+http://noc.social/@menaomi
 http://node22.lunes.host:3258
 http://noreplymail.space/BitJoker/bootservice.php
 http://note1.nz7bn.pro/nnp.mp4
@@ -1190,6 +1198,7 @@ http://qposhgames.com/tasks.exe
 http://quickdocshare.com/DQ
 http://qzjfxy.fun
 http://ravinads.com:443
+http://rcacademy.at/upload/
 http://rebustan.top/gd7djkDveE2/index.php
 http://recaptcha-manual.shop/kangarooing.m4a
 http://recaptcha-verify-4h.pro/kangarooing.m4a
@@ -1473,6 +1482,7 @@ http://wellnesscaremed.com/venezia/Favorites/document.doc.LnK?init=
 http://wellnesscaremed.com/venezia/d/sd
 http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=
 http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
+http://wfsdragon.ru/api/setStats.php
 http://wk.goldeyeuu.io:5188
 http://woodena.biz:7821
 http://worldfashionbd.net/ftx/
@@ -1513,12 +1523,14 @@ http://www.jsonkeeper.com/b/O2QKK
 http://www.jsonkeeper.com/b/RZATI
 http://www.jsonkeeper.com/b/T7Q4V
 http://www.jsonkeeper.com/b/VBFK7
+http://www.loopaai.ru
 http://www.massnetworks.org
 http://www.novel21.co.kr/data/editor/2110/index.php
 http://www.pgaurdroute.me/
 http://www.realdecorralejo.com/cgi-admin/signer.html
 http://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
 http://www.talesseries.com/write.php
+http://www.xn--90aguaqgfu.xn--p1ai
 http://www.zohoapis.com/workdrive/api/v1/files
 http://wylderhotels.sparkaxis.org/personaljflannigan/
 http://x0.at/qOfN.msi
@@ -1530,6 +1542,7 @@ http://xjslbdt9jdijn15.xyz
 http://xkcifgieusr.gu.cc
 http://xmmfrkq9oat1daq.xyz
 http://xmr-sg.kryptex.network:8029
+http://xn--90aguaqgfu.xn--p1ai
 http://xn--e1ajbcejcefx.xn--p1ai/sflopytrgjklhfaseri
 http://xnbscuya.love
 http://xonice.ahb8.com
@@ -1589,6 +1602,7 @@ https://1kickbet1.com/
 https://1win-giris.com.co/
 https://1xbete.org/
 https://1xbetgiris.cam
+https://212.193.30.29/assets/index-CxeLM22L.js
 https://212.22.70.4/api/v12
 https://212.80.7.74/serverscan.ps1
 https://212.80.7.74/stager/mini
@@ -1789,6 +1803,7 @@ https://api.qtss.cc:443/en/about?source=redhat&id=v1.1
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.2
 https://api.ra-backup.com/analytics/submit.php
 https://api.ra-backup.com/analytics/submit.php.
+https://api.russianhackers.online
 https://api.sheetbest.com/sheets/0e2a1336-e971-496f-9eb2-cd8dcd25565c
 https://api.sheetbest.com/sheets/47edba58-31f7-41e6-af18-31c77046dee1
 https://api.sheetbest.com/sheets/578ad828-fc67-4447-9182-197f92c1f302
@@ -2907,6 +2922,7 @@ https://root.iloveanimals.shop/panelping
 https://root.stealituptaded.lol/download/game_cache
 https://root.stealituptaded.lol/download/save_data
 https://root.stealituptaded.lol/download/stats_db
+https://rosetomaz.com.br/it/
 https://round5on.digital/script.sh
 https://rpc.walletconnect.org/v1/?chainId=solana%3A5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp&projectId=730eede4c040eafa7a928a503b6cd650
 https://rti.cargomanbd.com
@@ -3004,6 +3020,8 @@ https://spa-step-hopkins-islands.trycloudflare.com/erfgtrtt
 https://spaincaramoon.com/realestate/wp-content/plugins/gravityforms/forward.php
 https://spareline.ru/wp‑includes/widgets/class‑wp‑widget‑index.html
 https://spb.clayfenrirhuy.top/login
+https://spearbit.com/license/check.php?...
+https://spearbit.com/meshagents?...
 https://speedypdfhub.com/SpeedyPDFHub.exe
 https://spin7.icu/group.html
 https://spinalpaca.com/dropboxdocument/Windows/invite.php
