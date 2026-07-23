@@ -6,6 +6,7 @@ http://103.231.75.101:8888
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
 http://107.172.135.60/96/ibredgoodforbestthingscomingbackform.hta
 http://107.172.235.213/87/img_015059.png
+http://107.189.24.255
 http://110.172.104.95:8000/api/download/windows-tools/amd64
 http://110.185.104.180:8000
 http://110.92.64.17/moo.cgi
@@ -60,6 +61,7 @@ http://172.111.200.133:8090
 http://172.111.200.133:8090/login
 http://172.245.81.135:10196/Geq5P3aFpaSrK3PZtErNgUsVCfqQ9kZ9/
 http://172.86.113.102/localencode
+http://172.86.126.18:443/update_ms.msi
 http://172.86.88.188/api/service/makelog
 http://172.86.88.188/api/service/process/c841b6c4ac4d2e83f16cf7a8bfbec3d7
 http://172.94.9.250/d/xxx10108
