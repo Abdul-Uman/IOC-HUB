@@ -820,6 +820,7 @@ http://forestoaker.com:6290
 http://freefoodaid.com/davwwwroot/2_2.lNk?init=
 http://freefoodaid.com/documents/2_2.lNk?init=
 http://freefoodaid.com/documents/template_2_2.doc
+http://freevpn.win/lps/gbox-lp/index.html
 http://frontier-shops-timothy-cal.trycloudflare.com/DE
 http://frontier-shops-timothy-cal.trycloudflare.com/documents/
 http://frontier-shops-timothy-cal.trycloudflare.com/rec.wsh
@@ -1136,6 +1137,7 @@ http://ombut.com:443
 http://onedrive.azure-app.store/ws
 http://onedrivedownload.zoholandingpage.com/my-workspace/DownloadedOneDrive
 http://openai-pidor-with-ai.com:6343
+http://openshield.canatrace.com/download-free-can/
 http://opi7.com
 http://order.edrennikov.ru/jquery-3.3.1.min.js
 http://ose.668ddf.cc
