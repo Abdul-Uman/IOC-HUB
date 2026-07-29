@@ -1052,6 +1052,7 @@ http://load.erasecloud.n-e.kr/login.php
 http://load.serverpit.com/fwrite.php
 http://log.evergreenhostingoptions.de/UO95w/
 http://login.av7551.com/common/oauth2/v2.0/authorize
+http://login.trees4sale.net:9000
 http://loopaai.ru
 http://lsnngjyu9x6vcg0.xyz
 http://lumichain.pro/
@@ -1799,6 +1800,15 @@ https://anyproductmanual.com/
 https://anythinghere.woremix.icu/Viewfiles/download.php
 https://aobecloudsharefiles.com/ftx/pdf.html
 https://aojdy5ex.dreamwp.com/wp-admin/css/colors/HOooo.php
+https://aone-ai-cli.oss-cn-beijing.aliyuncs.com/app/release/aone-cli
+https://aone-ai-cli.oss-cn-beijing.aliyuncs.com/app/release/aone-cli-deps.tar.gz
+https://aone-ai-cli.oss-cn-beijing.aliyuncs.com/app/release/aone-cli.js
+https://aone-ai-cli.oss-cn-beijing.aliyuncs.com/app/release/aone-cli.zip
+https://aone-cli-next.oss-cn-beijing.aliyuncs.com/config/setting.js
+https://aone-kit.oss-cn-beijing.aliyuncs.com/aone-kit-update/aone-kit-update
+https://aone-kit.oss-cn-beijing.aliyuncs.com/aone-kit-update/aone-kit.js
+https://aone-kit.oss-cn-beijing.aliyuncs.com/aone-kit-update/app.asar
+https://aone-kit.oss-cn-beijing.aliyuncs.com/plugins/crypto.js
 https://api.3n7wj.com
 https://api.clearit.sbs/test
 https://api.clearit.sbs/uploadfiles
