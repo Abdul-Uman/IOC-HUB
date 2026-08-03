@@ -15,12 +15,14 @@ http://124.222.137.114:9999/3yZR31VK
 http://124.222.137.114:9999/api/Info/submit
 http://124.222.137.114:9999/api/updateStatus/v1
 http://130.12.180.43/files/7924412375/upOSLDn.exe
+http://130.94.30.168:8080
 http://130.94.6.228/update.tar.gz
 http://134.0.0.0
 http://135.181.123.177/api/service/makelog
 http://135.181.237.59:443
 http://135947.lachinadragon.com/
 http://137.184.126.86:8080/vmwaretools
+http://139.0.0.0
 http://139.84.156.79/dst-x86.bin
 http://139.99.17.175/test_exe/AdobeReader.exe
 http://139.99.17.175/test_exe/msimg32.dll
@@ -38,6 +40,7 @@ http://144.126.140.33:3000/openapi.json
 http://144.126.140.33:5000
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
+http://149.129.37.105:30005
 http://149.154.167.99:443
 http://149.248.11.71/rest/apisession
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
@@ -417,6 +420,7 @@ http://91.92.242.30/lamq4uerkruo6ssm
 http://91.92.242.30/q0c7ew2ro8l2cfqp
 http://91.92.242.30/x5ki60w1ih838sp7
 http://91.92.243.161:3038
+http://92.38.135.196:8888
 http://93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 http://94.154.35.115/user_profiles_photo/cptchbuild.xn--bin-9o0a
 http://94.159.113.32/service
