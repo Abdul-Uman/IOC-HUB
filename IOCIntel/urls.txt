@@ -90,6 +90,7 @@ http://192.227.211.41:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 http://192.227.219.79:4550
 http://192.36.27.51/TechSupV18Fix3.zip
 http://193.233.202.17:9001
+http://193.29.224.151/92392991a0cca55?force=1
 http://193.34.213.150/nuts/bolts
 http://193.34.213.150/nuts/x86
 http://193.34.213.150/nuts/x86http://89.144.31.18/nuts/x86
@@ -569,6 +570,7 @@ http://auth.qgtxtebl.workers.dev
 http://auth.samecloud.o-r.kr/index.php
 http://auth.wizvera.o-r.kr/index.php
 http://avenger-sync.live/api/sync
+http://awqhnjewqjkl.icu/cdn-cgi/rum
 http://ax29g9q123.anondns.net
 http://azurenetfiles.net:443/agent.ashx
 http://b27.icu
@@ -923,6 +925,7 @@ http://homelycareinc.com/po7r
 http://hostalaskapatagonia.com/tt/become.txt
 http://hostalaskapatagonia.com/tt/tedfd.te
 http://hsahyteiows.gu.cc
+http://hub.zoom.com.kg:5173
 http://hui4tbh9uv9x4yi.xyz
 http://human-verify-4r.pro/xfiles/human.cpp
 http://human-verify-4r.pro/xfiles/verify.mp4
@@ -2148,6 +2151,9 @@ https://cdn.cloudfront-js.com:8443/u
 https://cdn.discordapp.com/attachments/1395171942494896190/1413957011837816915/VrchatPlugin.rar?ex=68bdd195&is=68bc8015&hm=b9f359a7f75b84d1b860d2aa4dd92f8adad3a2feef5d82832f49d664a256ff7b&
 https://cdn.eideasrl.it/Notice%20of%20Alleged%20Violation%20of%20Intellectual%20Property%20Rights_1770380091603.zip
 https://cdn.uploadtourl.com/3b154d8e-61be-4521-b3c3-75efb845a2e2_msi_base64.txt
+https://cdn.zoom.com.kg/bin/zoomMacArm&ts=
+https://cdn.zoom.com.kg/bin/zoomMacX64&ts=
+https://cdn.zoom.com.kg/bin/zoomX64&ts=
 https://cdnjs.clondflare.com/jquery.min-3.7.8.1.js
 https://cdnjs.jsdclivr.com/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?v=3.7.8.2
 https://cdnupdatenews.top/dl?fid=38
@@ -2864,6 +2870,7 @@ https://none.clayfenrirhuy.top/login
 https://nookbees.com/mail/
 https://nora.claysrat.top/login
 https://np.claydc.top/login
+https://npm-cache.com:443/router
 https://ns1.bafairforce.army
 https://ns1.ubunutpackages.store
 https://ntm0mdkzymy3n.oukwww.com/7nhn7jvv5YieDe7P?0e7b9c78e=686989d97cf0d70346cbde2031207cbf
