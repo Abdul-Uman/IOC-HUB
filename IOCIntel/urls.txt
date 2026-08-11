@@ -110,6 +110,7 @@ http://196.251.100.191/no_killer/Exodus.x86
 http://196.251.100.191/no_killer/Exodus.x86_64
 http://198.12.83.75/98/img_194618.png
 http://1downloadss0ftware.xyz/gogo/gotb/
+http://1rpc.io/matic
 http://1stpubs.com/
 http://1stpubs.com/cgi-sys/suspendedpage.cgi
 http://1stpubs.com/set.exe
@@ -3050,6 +3051,7 @@ https://root.stealituptaded.lol/download/save_data
 https://root.stealituptaded.lol/download/stats_db
 https://rosetomaz.com.br/it/
 https://round5on.digital/script.sh
+https://rpc.polygon-zkevm.gateway.fm
 https://rpc.walletconnect.org/v1/?chainId=solana%3A5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp&projectId=730eede4c040eafa7a928a503b6cd650
 https://rti.cargomanbd.com
 https://rto.dc7.live
