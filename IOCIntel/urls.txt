@@ -53,6 +53,7 @@ http://154.91.90.0
 http://154.92.16.22/xz.bin
 http://156.244.28.153/17ABE7F017ABE7F0
 http://157.20.182.49:10443/success
+http://158.94.208.104/x7GkP2mQ9zL4/my_s.bin
 http://158.94.208.168/files/8514679081/DRTjyu7.exe
 http://158.94.211.95/kelly/five/fre.php
 http://162.33.177.16/CFBatFIX/7sjVtn0zPVjMZzkxZ.MOa
@@ -1927,6 +1928,8 @@ https://api.sheetbest.com/sheets/f2958fbe-cdd7-4796-a4e4-19539d759a9f
 https://api.sheetbest.com/sheets/fe9f1e2d-16c9-4d92-9bdf-8425921ac073
 https://api.skycloudcenter.com/a/chat/s/70521ddf-a2ef-4adf-9cf0-6d8e24aaa821
 https://api.solarflevoland.nl/system_web/verification.php
+https://api.studiotikva.com/ac
+https://api.studiotikva.com/api/v1/update/check
 https://api.svix.com/ingest/api/v1/source/src_3387PLMB2uhXOBe3Q8sHu/in/3j2jokvbaF4WWdngv8zBbk
 https://api.sync-master.online/v1
 https://api.sync-master.online/v3
