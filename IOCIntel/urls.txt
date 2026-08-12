@@ -124,6 +124,8 @@ http://207.148.79.178:6608/sys.sh
 http://207.189.11.170/Bin/working_payload.cs
 http://212.192.241.62/base/api/statistics.php
 http://212.193.30.45/proxies.txt
+http://213.145.86.112/cdn/chunks/polyfill-7e2b.min.js
+http://213.145.86.112/t/pixel.gif
 http://216.158.232.43:12000/sex.sh
 http://217.156.50.228:8181/nujbOqrNYyLXXLmOhPpY/PNcWncSY.exe'
 http://217.69.3.218/get_arhive_npm/
