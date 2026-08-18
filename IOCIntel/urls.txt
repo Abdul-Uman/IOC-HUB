@@ -21,6 +21,7 @@ http://134.0.0.0
 http://135.181.123.177/api/service/makelog
 http://135.181.237.59:443
 http://135947.lachinadragon.com/
+http://136.0.213.184:1337/api/kraken-numio
 http://137.184.126.86:8080/vmwaretools
 http://139.0.0.0
 http://139.84.156.79/dst-x86.bin
@@ -558,6 +559,7 @@ http://app.evaluino.com/v86/drvMac-an5r.patch
 http://app.evaluza.com/hbrev1023/drvMac-tk5i.patch
 http://app.miloyannopoulos.com/download
 http://app.miloyannopoulos.com/download?subid1=download
+http://app.mona.co/api/passkeys/verify_option/
 http://app.proficiencycert.com/toolCamV8/drvMac-cb5h.patch
 http://app.zynoracreative.com/updrv8/drv-Arm64.patch
 http://app.zynoracreative.com/updrv8/drv-Intel.patch
@@ -1080,6 +1082,7 @@ http://login.trees4sale.net:9000
 http://loopaai.ru
 http://lsnngjyu9x6vcg0.xyz
 http://lumichain.pro/
+http://macos-claude.com:8000
 http://mail.cbm.gov.mm/
 http://main.sdhomeinspectors.com/modules/wallets
 http://main.southcarolinacounselor.com/modules/wallets
@@ -1948,6 +1951,7 @@ https://api.wiresguard.com/users/system
 https://api.wizzleticks.com/claims/scope-schema.php?4ManBBdA
 https://app-site-association.cdn-apple.info:443/updates.rss
 https://app.kuse.ai/sharednote/
+https://app.mona.co
 https://app.zynoracreative.com/updrv8/drv-Arm64.patch
 https://app.zynoracreative.com/updrv8/drv-Intel.patch
 https://apple-online.shop/ChromeSetup.exe
@@ -2240,6 +2244,7 @@ https://conference.birdriver.org/
 https://confirmation8324-booking.com/17149438
 https://confirmation887-booking.com/17149438
 https://conocophils.com/register
+https://conv.doceditorinc.com/latest/part
 https://convitemundial2026.com/Consultar_NF-e.bat
 https://coralsunmarine.com/wp-content/themes/flatsome/inc/functions/function-hand.php
 https://cordinex.io/download?invite=MZ-AB95-QD50
@@ -2308,6 +2313,9 @@ https://dns-providersa2.com/check
 https://dns-providersa2.com/upload
 https://doc-sign.docsfinder.org/Bin/IRScasedocs5Nhd8fMGaUr0Ts1o6qlE.Client.exe?h=wise.access.ly&p=8041&k=ENCODE&s=7b6d96a8-dcac-4f65-aaec-6e3d4b1ed22f&i=Untitled%20Session&e=Support&y=Guest&r=
 https://doce-88.com
+https://doceditor.in
+https://doceditorinc.com
+https://doceditorinc.com/
 https://docfileaccess.top/Bin/ScreenConnect.Client.application?e=Support&y=Guest
 https://docs.cloudplatform-single-spa.io/platform/svp-baas
 https://docs.dissect.tools/en/stable
@@ -2485,6 +2493,7 @@ https://fleepsterones.fun/media/like
 https://fliesignin.com/ftx/
 https://flipboxstudio.info/exfil
 https://flipboxstudio.info/payload
+https://flipformatpdf.com/
 https://floresdecasa.cl/ftx/
 https://foguetenorte.com.br/ftx/
 https://fonts.chrorne.com/dist/js/12.qgfvjzvs.chunk.js
@@ -2699,6 +2708,7 @@ https://kashiboatbooking.in/ftx/
 https://kazitradebd.com/wp-content/themes/hello-elementor/includes/customizer/customizer-hand.php
 https://kdsuyrse.live
 https://khemacharya.com.np/ftx/
+https://kitchen-canvas.com/
 https://kkkhhhnnn.com/api/open/postByTokenpocket
 https://kleinschnitg.com/F3bebOag/?id=email
 https://kollabmi.se/
@@ -2779,6 +2789,7 @@ https://mcaluminios.pt/refresh/
 https://mcnn.ru:8443/jquery-3.3.1.slim.min.js
 https://mconnectsz.nsocumentzs.com/Bin/ZOOM.ClientSetup.exe?e=Access&y=Guest
 https://mdsspares.co.za/ftx/
+https://meal-formula.com/
 https://mechiraz.com/cart/checkout/files/update_info.aspx
 https://medicit-y.ch/
 https://mediostresbarbas.com.ar/php_scrip/banahosting/index.php
@@ -2950,6 +2961,7 @@ https://pay.celinedion-parisladefense-arena.com/
 https://pay.celinedionparis.com/
 https://pay.celinedionparistickets.com/
 https://pay.ticketmaster-celinedion.com/
+https://pdfgrip.com/
 https://pdj.gruposhac.lat/g1/
 https://pdj.gruposhac.lat/g1/auxld1
 https://pdj.gruposhac.lat/g1/ctld/
