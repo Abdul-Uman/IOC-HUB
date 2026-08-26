@@ -356,6 +356,7 @@ http://82.115.223.78/private/spoolsvc.exe
 http://82.115.223.78/private/svchost.exe
 http://82.115.223.78/private/sysmgmt.exe
 http://82.118.16.173:443
+http://83.138.53.110/service/save.php
 http://83.142.209.203:8080/hangup.wav
 http://83.142.209.203:8080/ringtone.wav
 http://83.217.208.130/xfiles/Ohio.mp4
@@ -1982,6 +1983,7 @@ https://api.flashstore.sbs/uploadfiles
 https://api.githubcopilot.com
 https://api.hellknight.xyz/js
 https://api.jz-aws.info/public/images/
+https://api.keyval.org
 https://api.live-updates.online/v1
 https://api.live-updates.online/v2
 https://api.mywalletsss.store/api/validate/files
@@ -3574,6 +3576,7 @@ https://www.celinedion2026tour.com/
 https://www.circoloesteri.it/
 https://www.claritycontentservices.com/wp/
 https://www.cs01.shop
+https://www.cyberarmor.tech/blog/threat-insight-cybercriminals-abusing-vercel-to-deliver-remote-access-malware
 https://www.dardsaaz.com/docusign/Mac/utility.php
 https://www.desixxxv.net
 https://www.dropbox.com/s/zhp1b06imehwylq/Synaptics.rar?dl=1
