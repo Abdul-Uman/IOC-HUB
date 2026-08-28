@@ -175,6 +175,8 @@ http://38.162.114.0
 http://38.165.44.205/1
 http://38.165.44.205/k
 http://38.180.83.166/6CDF0FC26CDF0FC2
+http://38.207.178.192:50813/EasyConnectUpdata_Log.txt
+http://38.207.178.192:50813/MySQL_LOG.txt
 http://38.255.43.60:8081////clients/payloads/kxe.py'
 http://38.255.43.60:8081////clients/stagers/kxe.py'
 http://39.97.229.220:8006/httd
