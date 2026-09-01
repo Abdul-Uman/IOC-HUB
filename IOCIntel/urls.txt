@@ -144,6 +144,8 @@ http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://222.222.254.165:8090/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://23.164.48.21:55615
+http://23.225.48.20:4466/vip/index.php
+http://23.225.52.67:4466/vip344.html
 http://23.227.202.244:1224/brow/14/144
 http://23.227.202.244:1224/client/14/144
 http://23.227.202.244:1224/payload/14/144
@@ -694,6 +696,7 @@ http://cbmelipilla.cl/te/test1.html!x-usc:http://cbmelipilla.cl/te/test1.html
 http://cclresources.com/
 http://cdn-cookie.com/recorder.js
 http://cdn-static.okendo.io/reviews-widget-plus/js/okendo-reviews.js
+http://cdn.data-2920.com/app.vue.js
 http://cdn.erpsaz.com/admin.php
 http://cdn.jsdelivr.vip/jquery.min-3.7.0.js
 http://cdn.uacounter.com
@@ -727,6 +730,7 @@ http://cloudcenter.top/macosUpdate.plist
 http://cloudcenter.top/macos_update_arm
 http://cloudcenter.top/macos_update_x64
 http://cloudcenter.top/sys/update
+http://cloudfareintcdn.com/wd-status.html
 http://cloudflare.report/forever/e/
 http://cloudjah.com/77_1.exe
 http://cms.balochistanpolice.gov.pk/client%20scripts/
@@ -758,6 +762,7 @@ http://cpxxw.vip/
 http://cquopymaiqna.com/bomla
 http://creainovada.xyz/instructions/
 http://creainovada.xyz/instructions/Wscript.txt
+http://credeb.gov.gn/r.zip
 http://cryptocurrencyworld.top
 http://cryptocurrencyworld.top/details/group.html
 http://cs.pyhycy.com/index.php
@@ -898,6 +903,9 @@ http://fxrhcnfwxes90q.xyz/group.html
 http://fyvw2oiv.top/1.php?s=63e95be1-92e0-45c1-a928-65d63b17cd1c
 http://galusa.ac.mz/pdf
 http://game.7p.game
+http://gcm.setelagoas.mg.gov.br/files/notepadd.exe
+http://gcm.setelagoas.mg.gov.br/files/tes.exe
+http://gcm.setelagoas.mg.gov.br/files/ti.zip
 http://gdvynopz3pa0tik.xyz
 http://gem88.ac
 http://gemme-cotti.ru/cotti.docx
@@ -1440,6 +1448,9 @@ http://stillpaving.com:1411
 http://storage3d.com/storage/2009.11
 http://suoguan.vip/
 http://superminecraft.net.br:3000/sex.sh
+http://suporte.ourinhos.sp.gov.br/files/a.exe
+http://suporte.ourinhos.sp.gov.br/files/s.zip
+http://suporte.ourinhos.sp.gov.br:443/files/s.exe
 http://svclsc.com/ms/index.php
 http://svuatwea.love
 http://syfiaydytea.live
@@ -1548,6 +1559,7 @@ http://tz.suucx.com/jump/ov.js
 http://uawwydy3qas6ykv.xyz
 http://udlg.nl/tmp/
 http://unicredit-tme.shop/
+http://union.macoms.la/jquery.min-3.6.8.js
 http://union.macoms.la/jquery.min-4.0.2.js
 http://update-teams.live/teams
 http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
@@ -1626,6 +1638,7 @@ http://woodena.biz:7821
 http://worldfashionbd.net/ftx/
 http://www.billplz.com/bills/6e88393d1b82ede9
 http://www.christmasscheercash.com/?id=5FfbxodhySi_D1TNJ-PpNRzZGFRGN7K_peJxXJjmuIA.&subId=ce474wg53d927Hxxps://go.thepersonalfinanceguide.com/https://webr-db.global.ssl.fastly.net/qi/exc.htmlSender
+http://www.cloudfareintcdn.com/in-static.js
 http://www.donate.melissarelieffundtojamaicans.online/
 http://www.donate.melissarelieffundtojamaicans.online/donate10000.html.
 http://www.dpswebsafe.com/rd/
@@ -1739,6 +1752,7 @@ http://xfal48cf0ies7ew.xyz
 http://xittgveqaufogve.xyz
 http://xjslbdt9jdijn15.xyz
 http://xkcifgieusr.gu.cc
+http://xl0ph4qz.vip:7740
 http://xmmfrkq9oat1daq.xyz
 http://xmr-sg.kryptex.network:8029
 http://xn--90aguaqgfu.xn--p1ai
@@ -2327,6 +2341,7 @@ https://cloudcraftshub.com/api
 https://cloudflare.report/forever/e/
 https://cloudmeri.com/comm.php
 https://cloudy.pk/
+https://cmgovernadorluizrocha.ma.gov.br/Comprovantepdf.exe
 https://cn.gotz001.com/lunlian/index.php
 https://cn.gotz001.com/lunlian/indexgov.php
 https://cn.jbtz001.com/lunlian/index.php
@@ -2351,6 +2366,8 @@ https://conference.birdriver.org/
 https://confirmation8324-booking.com/17149438
 https://confirmation887-booking.com/17149438
 https://conocophils.com/register
+https://conseg.ssp.go.gov.br/COAF-POLICIAFEDERAL.exe
+https://conseg.ssp.go.gov.br/ComprovanteBBpix.exe
 https://conv.doceditorinc.com/latest/part
 https://convitemundial2026.com/Consultar_NF-e.bat
 https://coralsunmarine.com/wp-content/themes/flatsome/inc/functions/function-hand.php
@@ -2757,6 +2774,7 @@ https://iloveanimals.shop/
 https://iloveanimals.shop/user/login
 https://ilustremotivo.com/data/
 https://ilustremotivo.com/mail/
+https://im.ue8im.com/wg-2023440066/640-100-1.gif'
 https://img.spoolsv.cc/555.mp5
 https://img.spoolsv.cc/seed.php
 https://img.spoolsv.cc/sss.mp5
@@ -2808,6 +2826,7 @@ https://javclips.mobi/
 https://jcibj.com/pcl.php
 https://jimmy.clayratnik.top/login
 https://jjf.life/OpenSSL/ZoomClientSetup.exe
+https://jmcov.gov.py/cxv.exe
 https://jnsi.xyz
 https://jnsi.xyz/IT/
 https://john-bet.com
@@ -2941,6 +2960,7 @@ https://mikelmak.com/ftx/
 https://mikro.pt/kund/
 https://mil-by.info/#/i?id=[REDACTED]
 https://milleniumrat.online
+https://minacu.go.gov.br/ComprovantePDF.exe
 https://minhalojapronta.com.br/ftx/
 https://miraclebiomagnets.com/ftx/
 https://mkkku.com/static/analytics.html
@@ -3141,6 +3161,7 @@ https://postprocesser.com/.well-known/pki-validation/go/python3.zip
 https://povporntrends.com
 https://powercat.dog/cool
 https://powercat.dog/watermelon5
+https://procon.go.gov.br/ComprovantePDF.exe
 https://prosearium.net/setting.pdf
 https://psychicvisionsbygina.com/ftx/
 https://pub-motorola-viking-charger.trycloudflare.com/12341234
@@ -3254,6 +3275,7 @@ https://serpromedic.com/ftx/
 https://serverseistemasatu.com/data.php?recebe
 https://service-interbancaire.page.dev
 https://services.templatesearch-svc.org/search/
+https://servicos.salto.sp.gov.br/j.jar
 https://setseta.com/
 https://setseta.com//set.exe
 https://setseta.com//taskis.exe
@@ -3277,6 +3299,7 @@ https://simplet5.2bd.net/
 https://simplet5.2bd.net/download.php?file=drop_[1:300].js&name=Document-ID-[RANDOM
 https://simpmit.co/
 https://sirprintpackaging.com/ftx/
+https://sit.baer.gob.ve/r.exe
 https://sites-leiria.pt/es/
 https://sites-leiria.pt/financas/data/
 https://sj9ioz3a7y89cy7.xyz/list.html
@@ -3356,6 +3379,8 @@ https://sunlightfriends.tech/weather/news
 https://sunlightfriends.tech/weekly/forecast
 https://sunlightfriends.tech/world/library
 https://superluckbet.com/bonus/
+https://suporte.camaratunapolis.sc.gov.br/ti/1.exe
+https://suporte.camaratunapolis.sc.gov.br/ti/attvpn.zip
 https://support.ms-live.us/301631/check
 https://support.ms-live.us/register/22989524464UcX2b5w52
 https://support.ms-live.us/update/02583235891M49FYUN57
@@ -3421,6 +3446,7 @@ https://tikpremplaymarktuzb.sbs
 https://tiktoki-goolge.sbs
 https://timetrakr.cloud/sp.ps1'
 https://tiresdoc.com/
+https://tisup.camaratunapolis.sc.gov.br/SoftEther.exe
 https://tnvs.de/e4gUVc
 https://today-88.com
 https://tonapi.io/v2/blockchain/accounts/
@@ -3650,6 +3676,7 @@ https://www.mediafire.com/file/9ni7pgjxuw8pc6h/ShaderSetup.rar/file
 https://www.minklinkaps.com/
 https://www.mnmathleague.org/ckeditor/adapters/index.php
 https://www.movsmo.net/
+https://www.mrtb.gov.ng/apps/attvpn.vip
 https://www.murlauncher.com/fenrir-launcher
 https://www.onworks.net/software/windows/app-hardware-visualizer
 https://www.pathfindertravels.se/tickets/
