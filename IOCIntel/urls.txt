@@ -5,6 +5,9 @@ http://103.177.110.202/bot_x64.exe
 http://103.231.75.101:8888
 http://103.249.117.183/receive.php
 http://103.77.242.187/receive.php
+http://103.86.86.244:800/Gateway/deploy_silent1.Ps1
+http://103.86.86.244:800/Gateway/r.Zip
+http://103.86.86.244:800/V/deploy.Ps1
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
 http://107.172.135.60/96/ibredgoodforbestthingscomingbackform.hta
 http://107.172.235.213/87/img_015059.png
@@ -16,6 +19,7 @@ http://117.175.185.81:8003/
 http://124.222.137.114:9999/3yZR31VK
 http://124.222.137.114:9999/api/Info/submit
 http://124.222.137.114:9999/api/updateStatus/v1
+http://129.211.184.149:8443/999b4e8c/public/dnc/a6d28ebe?os=
 http://130.12.180.43/files/7924412375/upOSLDn.exe
 http://130.94.30.168:8080
 http://130.94.6.228/update.tar.gz
@@ -43,6 +47,7 @@ http://144.126.140.33:3000/openapi.json
 http://144.126.140.33:5000
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
+http://147.124.202.205/api/service/makelog
 http://149.129.37.105:30005
 http://149.154.167.99:443
 http://149.248.11.71/rest/apisession
@@ -65,6 +70,8 @@ http://160.187.147.119/any/bimage.vmd
 http://160.187.147.119/any/mnfst.vmd
 http://160.187.147.119/any/sch.vmd
 http://160.187.147.119/any/vpost.vmd
+http://162.0.239.85:3000/task/package.json
+http://162.0.239.85:3000/task/tokenlinux?token=30621301&st=eyJhbGciOiJIUzI1NiIs...
 http://162.33.177.16/CFBatFIX/7sjVtn0zPVjMZzkxZ.MOa
 http://162.33.177.16/CFBatFIX/install.pyc
 http://164.68.120.30:550/99/Skype.ps1
@@ -1023,6 +1030,7 @@ http://img.spoolsv.cc/seed.php
 http://img.spoolsv.cc/snn50.txt
 http://img.spoolsv.net/seed.php
 http://imhfamily.com:1414
+http://imported-concerns-listening-typing.trycloudflare.com:443
 http://indeed-jobs.net/leyts.php
 http://indeedhiring.com/leyts.php
 http://inerna1.site/xb/runner.zip
@@ -1172,6 +1180,7 @@ http://mansfieldpediatrics.com/curl/b2955c54eb0c047463993b379e015e737aabed37b456
 http://mansfieldpediatrics.com/dynamic?txd=b2955c54eb0c047463993b379e015e737aabed
 http://mansfieldpediatrics.com/gate?buildtxd=b2955c54eb0c047463993b379e015e737aab
 http://mapid.e-wl.com:9000/hook/mapid
+http://marriage-step-wave-heavy.trycloudflare.com:443
 http://marshmellowflowerscar.info
 http://media.modecoin.xyz/2Million%20Dollars%20Fraud%20At%20Zenith%20Bank
 http://mediumblog.online:4443
@@ -1648,6 +1657,7 @@ http://wellnesscaremed.com/venezia/d/sd
 http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=
 http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
 http://wfsdragon.ru/api/setStats.php
+http://wins-say-charm-social.trycloudflare.com/c2
 http://wk.goldeyeuu.io:5188
 http://woodena.biz:7821
 http://worldfashionbd.net/ftx/
@@ -2345,6 +2355,7 @@ https://circoloesteri.elezioni.idnet.it/admin-election/riepilogo.php
 https://ciudadcucuta.com/ftx/
 https://cl.distritovagas.com/hte.hta
 https://classic-offensive.com/Installer.zip
+https://claude.niestools.com
 https://claude.update-version.com/claude
 https://clawdex.koi.security
 https://cld.pt/dl/download/0f58f6f3-e3bb-4cbd-a4fb-d9ddfd4e56bf/sapotransfer-640a2b919605fph/Orcamento%20para%20avalicaco%20.zip?download=true
@@ -2442,6 +2453,8 @@ https://dd9l7e6ghme8pbk.xyz/group.html
 https://dealwatchdogs.net/
 https://decodecybercrime.com/mapping-defhost-an-investigation-into-femo-it-solutions-limited-as214351/
 https://deepdive.hypernas.com/hypernas/api/page.php?uid=
+https://deepseek.niestools.com/anthropic
+https://deepseek.niestools.com/v1
 https://defenceprodindia.site/server.php?file=Reader_en_install
 https://desisexy.org/
 https://devwrapi.washrocks.com/auth/en/verification.php
@@ -2709,6 +2722,7 @@ https://globalmelange.co/ftx/
 https://globalsnn3-new.cc/newSide.forester
 https://glot.io/snippets/hfd3x9ueu5
 https://glot.io/snippets/hfdxv8uyaf
+https://glutton.niestools.com
 https://gmapsistemas.com.br/ftx/
 https://go-shorty.killcod3.com/OkkxCrq
 https://go-shorty.killcod3.com/OkkxCrq.
