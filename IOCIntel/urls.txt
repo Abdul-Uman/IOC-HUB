@@ -194,6 +194,7 @@ http://38.207.178.192:50813/EasyConnectUpdata_Log.txt
 http://38.207.178.192:50813/MySQL_LOG.txt
 http://38.255.43.60:8081////clients/payloads/kxe.py'
 http://38.255.43.60:8081////clients/stagers/kxe.py'
+http://38.45.65.159:2034
 http://39.97.229.220:8006/httd
 http://3eueu.com/
 http://3eueu.com/set.exe
@@ -258,6 +259,7 @@ http://43.228.157.68:80/api/github-heartbeat
 http://43.228.157.68:80/api/github-results
 http://45.129.199.214/vodeo/wg01ck01
 http://45.129.199.214/vodeo/wg01ck01.
+http://45.142.193.132:8000/lsa_collect.exe
 http://45.144.165.65/BUIEFuiHFUEIuioKLWENFUoi878UIESf/MUEWGHui897hjkhsjdkHfjegfdh/67jksaebyut8seuhfjgfdgdfhet4SEDGF/Tools/getlogindataedge.exe
 http://45.159.248.110
 http://45.159.248.110/brow/xyz2
@@ -484,6 +486,7 @@ http://95.179.213.0/update/update.exe.
 http://95.181.161.81/i100dfknzphd5k
 http://95.181.161.81/mm57aayn230
 http://95.181.161.81:443/main.exe
+http://96.9.212.22:2034
 http://98a.online
 http://98a.online/group.html
 http://9990as7tle.com/DTDs/PropertyList-1.0.dtd
@@ -510,6 +513,8 @@ http://activatecapagm.com/j8r3
 http://admhr.execsuccessmetrics.de/HOngH/
 http://adobe-acrobat.in/ninevmc987.php?file=bncoeeav34564cvv94adfavc3354334dfsf
 http://adobe.safest.org/
+http://adoube.vu/2a8ed9baefcd
+http://adoube.vu/filedocacess/file.html
 http://ads.green-pickle-jo.shop/1.m4a
 http://advanceorthocenter.com/wp-includes/editor.php
 http://adveryx.biz:6573
@@ -778,6 +783,7 @@ http://cquopymaiqna.com/bomla
 http://creainovada.xyz/instructions/
 http://creainovada.xyz/instructions/Wscript.txt
 http://credeb.gov.gn/r.zip
+http://cromwell.danzzichosting.my.id:62114
 http://cryptocurrencyworld.top
 http://cryptocurrencyworld.top/details/group.html
 http://cs.pyhycy.com/index.php
@@ -1247,6 +1253,7 @@ http://ngdance.fun/vote
 http://nitroca.biz:6782
 http://noc.social/@menaomi
 http://node22.lunes.host:3258
+http://nodemyayun.otax.store
 http://noreplymail.space/BitJoker/bootservice.php
 http://note1.nz7bn.pro/nnp.mp4
 http://notely.fun/login
@@ -1410,6 +1417,7 @@ http://sedaliarealty.net/ebd417db-979c-51f8-aedf-88a2bf8aa6c3
 http://seeconnectionalive.website:8080/login
 http://seeconnectionalive.website:8080/ws
 http://seedsuccesspath.com/6m8a
+http://selectstructure.com.au/freedom/adobedocument.html
 http://sentinelonepro.com:443
 http://serialmenot.com/mv2/
 http://serverseistemasatu.com/data.php?recebe
@@ -1668,6 +1676,7 @@ http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
 http://wfsdragon.ru/api/setStats.php
 http://windwsecurity.run:443
 http://wins-say-charm-social.trycloudflare.com/c2
+http://wir.consultingics.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=GOODVIBE&c=&c=&c=&c=&c=&c=&c=
 http://wk.goldeyeuu.io:5188
 http://woodena.biz:7821
 http://worldfashionbd.net/ftx/
@@ -2110,6 +2119,8 @@ https://api.wiresguard.com/api/getInfo/v1
 https://api.wiresguard.com/update/v1
 https://api.wiresguard.com/users/system
 https://api.wizzleticks.com/claims/scope-schema.php?4ManBBdA
+https://apimantax.otax.fun
+https://apixnxx.otax.fun
 https://app-site-association.cdn-apple.info:443/updates.rss
 https://app.kuse.ai/sharednote/
 https://app.mona.co
@@ -2382,6 +2393,7 @@ https://clo4shara.xyz/11z77u3.php
 https://cloud-server.store/update
 https://cloud-verificate.com/NodeServer-Setup-Full.msi
 https://cloud-verification.com/update.zip
+https://cloud.shinewrist.net/
 https://cloudcraftshub.com/api
 https://cloudflare.report/forever/e/
 https://cloudmeri.com/comm.php
@@ -3113,6 +3125,7 @@ https://oakwusya.love
 https://oasrchrdr.com?dgd=RD1005461&PCSF=true&q=
 https://oauth.shacloud.o-r.kr:8443
 https://obelnamevalf.org/OaTS7yE9zd/default
+https://ocr.opusaccel.top
 https://oculus-app.com/
 https://odm0.siyangoil.com/TYTmtV8t/JG6T5nvM1AYqAcN
 https://official-teams-storage.com/files_dws_arch/MTSetup_v15.3.71194.msi
@@ -3186,6 +3199,8 @@ https://phillips66-carros.site/
 https://phillips66-carros.site/.
 https://phillips66lubricants.ru/
 https://phones-pichunter-businesses-drop.trycloudflare.com/12341234
+https://photos.msbenefit.com/fa/t3
+https://photos.msbenefit.com/fb/w3z
 https://phpthemes.net/images/upload/
 https://phpthemes.net/images/upload/eu.png/
 https://phys.stunned-amniotic.com/hub.log
@@ -3225,6 +3240,7 @@ https://powercat.dog/cool
 https://powercat.dog/watermelon5
 https://procon.go.gov.br/ComprovantePDF.exe
 https://project.secboxes.com/ChromeUpdate.exe
+https://proof.gitprogram.com/a4/j8
 https://prosearium.net/setting.pdf
 https://psychicvisionsbygina.com/ftx/
 https://pub-motorola-viking-charger.trycloudflare.com/12341234
@@ -3791,6 +3807,7 @@ https://x0.at/qOfN.msi
 https://xosix.clay.rest/login
 https://xunira.cloud/C.GRE'
 https://xxxmorritas.com/
+https://xyz0102.gitprogram.com/a001
 https://xz.apps-store.im/CqDq?key=646R563V6F6Y465K313J737G343C3352383R336O35
 https://xz.apps-store.im/DjZH?key=646B563L6F6N4657313B737U3436335E3833331737
 https://xz.apps-store.im/s/dDan?key=646756376F6A465D313L737J333993473233038L39&c=
