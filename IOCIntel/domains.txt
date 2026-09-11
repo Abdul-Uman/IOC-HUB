@@ -23429,6 +23429,7 @@ admin.instagram.com-accounts.website
 admin.meeting-central.online
 admin.meeting-zone.online
 admin.nexcloudinfo.com
+admin.rshiahub.com
 admin.shcpa.co.kr
 admin.support.general-meet.site
 admina.freeddns.org
@@ -26174,6 +26175,7 @@ amytanathorn.com
 amyuvfpq.info
 amywears.store
 amywilkinson.online
+amzaonaws.org
 amzcan123.site
 amzex.online
 amzex.site
@@ -30010,6 +30012,7 @@ aws.orgserv.dnsnet.cloud.anondns.net
 aws.us-east-prod.com
 aws.us-west-login.com
 awscloudpartner.online
+awsclouds.awspull.com
 awscrypto.com
 awsggkelaode.xyz
 awsind.site
@@ -34693,6 +34696,7 @@ blockzmagazine.com
 blocom.com.br
 blocs.umanresa.cat
 bloemfpxrt.site
+blog-en.itochuci.co.jp
 blog-topic.online
 blog-vcnews.site
 blog.aryuacademy.com
@@ -34704,6 +34708,7 @@ blog.cloudsecure.space
 blog.delivermytune.com
 blog.derrspecial-onlinedmin.live
 blog.evalonboard.com
+blog.exatrack.com
 blog.falconxsecurity.com
 blog.helloparalegal.com
 blog.israkey.com
@@ -47640,6 +47645,7 @@ dali.house
 dalia.work
 daliacleaningsvcs.online
 daliuliang.top
+dallasbackstage.com
 dallasdental.com.au
 dallasirrigationservices.com
 dallasoverheaddoors.com
@@ -50344,6 +50350,7 @@ document.shared-link.line.pm
 document.sharedrive.ink
 document.skandiafastigheter.cc
 document24acces.com
+documentation.stormshield.eu
 documentodigital.cloud
 documentos-online.com
 documentos.xyz
@@ -50459,6 +50466,7 @@ domainederonchinne.world
 domainescrow.one
 domainforgermanclient.online
 domainhost.dynamic-dns.net
+domainlify.net
 domainmurah.xyz
 domainqueen.top
 domains888.xyz
@@ -60337,6 +60345,7 @@ gemnailstickers.online
 gemnara.store
 gemperts.com
 gemprofit.site
+gemscocl.com
 gemsdashboard.xyz
 gemstonedesign.online
 gemstoneliving.online
@@ -78756,6 +78765,7 @@ mail.totallyreferral.com
 mail.trimnt.com
 mail.trustwavecybersecurity.info
 mail.tttseo.com
+mail.uaiubifas.top
 mail.undangandigital.cyou
 mail.usengineergroup.com
 mail.vestcast.co
@@ -81275,6 +81285,7 @@ microsoftsupportdesk.com
 microsoftt0nline.com
 microsoftteamsbooking.com
 microsofttechnology.com
+microsoftupdates.top
 microsoftupdateswin.com
 microsonic.xyz
 microsonline.site
@@ -81292,6 +81303,8 @@ microtech.quest
 microtech.sbs
 microtechs.xyz
 microtechtune.xyz
+microupdate.me
+microupdate.top
 microuptime.com
 microuserconsulting.com
 microwaverepairsnorwich.com
@@ -85774,6 +85787,7 @@ nofeelings.shop
 noflyzone.ru
 nofqoj3183.top
 noggs.ru
+noht1ng.top
 nohu90-nohu.top
 noiaygwsr.biz
 noidret.com
@@ -101787,6 +101801,7 @@ service-helpes.com
 service-hunter.com
 service-interbancaire.page.dev
 service-leader.com
+service-nowinc.com
 service-orange-reunion.com
 service-updateer.com
 service-updater.com
@@ -114103,6 +114118,7 @@ update.learnstore.vip
 update.maccms.la
 update.maxintora.com
 update.microsoft-edges.com
+update.miss-soft.com
 update.myrnicrosoft.com
 update.ntporg.com
 update.opentls2.com
@@ -114110,6 +114126,7 @@ update.sevrz.com
 update.team-c2.com
 update.toythieves.com
 update.update-fall.com
+update.wwwubuntu.com
 update.youcreadio.cfd
 update19.upldf.online
 updateaprilinfobnb.com
@@ -120313,6 +120330,7 @@ winbyfirst.online
 wincdn.ru
 wincorpupdates.com
 windefenceinfo.com
+windefender.net
 windefens.com
 windersyf.com
 windjoyarena.xyz
@@ -120382,6 +120400,7 @@ windowscreenrepairnearme.com
 windowsk-cdn.com
 windowsmp.ru
 windowsupdate-cdn.com
+windowsupdates.us
 windowupgrade.online
 windowwashwizards.site
 windsecure.ru
@@ -122203,6 +122222,7 @@ www.papurn.com
 www.paradoxprotein.com
 www.pariya.com.au
 www.parkpharma.net
+www.partow.net
 www.pasony.com
 www.patchworkdigital.co.uk
 www.pathfindertravels.se
@@ -122502,6 +122522,7 @@ www.weddingcarsshrewsbury.co.uk
 www.wgqpw.com
 www.whatsappcenter.com
 www.wholefoodplantbasedrd.com
+www.windefender.net
 www.woodentec.de
 www.worldsecure.nl
 www.worldwealthbuilders.com

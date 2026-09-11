@@ -511,6 +511,7 @@ http://account.romnor.ca/go
 http://actedsda.cfd/assets/ACTED
 http://activatecapagm.com/j8r3
 http://admhr.execsuccessmetrics.de/HOngH/
+http://admin.rshiahub.com/Bin/ScreenConnect.ClientSetup.msi.
 http://adobe-acrobat.in/ninevmc987.php?file=bncoeeav34564cvv94adfavc3354334dfsf
 http://adobe.safest.org/
 http://adoube.vu/2a8ed9baefcd
@@ -1676,6 +1677,8 @@ http://wellnesscaremed.com/venezia/d/sd
 http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=
 http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
 http://wfsdragon.ru/api/setStats.php
+http://windefender.net:443
+http://windowsupdates.us:80
 http://windwsecurity.run:443
 http://wins-say-charm-social.trycloudflare.com/c2
 http://wir.consultingics.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=GOODVIBE&c=&c=&c=&c=&c=&c=&c=
@@ -1787,6 +1790,7 @@ http://www.wangmengsb.com/GetRoutes
 http://www.wangmengsb.com/GetServers
 http://www.wangmengsb.com/GetVips
 http://www.wangmengsb.com/GetWorkers
+http://www.windefender.net:443
 http://www.xn--90aguaqgfu.xn--p1ai
 http://www.yonelco.com/icon.png
 http://www.zohoapis.com/workdrive/api/v1/files
