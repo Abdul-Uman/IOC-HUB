@@ -1169,6 +1169,7 @@ http://load.auraria.org/index.php
 http://load.erasecloud.n-e.kr/login.php
 http://load.serverpit.com/fwrite.php
 http://log.evergreenhostingoptions.de/UO95w/
+http://log.gitclone.org:45678/smtp
 http://login.av7551.com/common/oauth2/v2.0/authorize
 http://login.trees4sale.net:9000
 http://loopaai.ru
@@ -1452,6 +1453,7 @@ http://siltsoh.biz:7481
 http://sinjim.net/95126aeb-4120-56b1-8c9e-63fdf0c0b6f9
 http://sj9ioz3a7y89cy7.xyz
 http://sj9ioz3a7y89cy7.xyz/list.html
+http://skipraid.com/dsVGmQTrzX/default2
 http://sktv.3n7wj.com/ws/device?menberId=
 http://slmgr.win/photoshop
 http://smallmartdirectintense.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest=
