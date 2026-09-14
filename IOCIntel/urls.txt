@@ -563,6 +563,7 @@ http://api.active-enable-right-click.top/?uuid=
 http://api.bdustatic.com/jquery.min-4.0.12.js
 http://api.cloudapi.stream:8443/Register
 http://api.cloudapi.stream:8443/Translation
+http://api.jeetbot.cc/api/v2/public/extension_helper/
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
 http://api.keensie.com:5198
@@ -872,6 +873,7 @@ http://elementsplugin.duckdns.org:49153
 http://emec.su/bg.rtf
 http://emprotel.net.bo/updserc.zip
 http://endpoint-api-v1.com/d/f1b24e/download
+http://enhanced.jeetbot.cc/set-token
 http://entrinidad.cfd/1/verify.sh
 http://ericwbailey.website/published/accessibility-preference-settings-information-architecture-and-internalized-ableism
 http://es-koerier.nl/tmp/
@@ -884,6 +886,8 @@ http://everything-teach-pearl-eat.trycloudflare.com/DE
 http://evs.grupotuis.buzz/0capcha17/DMEENLIGGB.hta
 http://ewo7pdwau5.memorablemark.de/l/iHZ_59v2_0U
 http://exposqw.su/casc
+http://ext-styles.jeetbot.cc/api/v1/forced-proxy
+http://ext-styles.jeetbot.cc/api/v1/proxies
 http://ezQrvkFgEJWCTDNc.pNuiSCKMhwAgZvdyjrlBEFT.softwarE/111111?sub=d
 http://ezc5510min.temp.swtest.ru
 http://faeytrdeaw.gu.cc
@@ -1342,6 +1346,7 @@ http://privatunis.cfd/1/verify.sh
 http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
 http://protocolovirtual.org
 http://proxy.hideiqxshlgvjk.com:5050
+http://proxy.thebeholder.deno.net/set-token
 http://pusykakimao.com:443
 http://putuartana.com/cleangpt
 http://q.startimes.me/
@@ -1554,6 +1559,7 @@ http://tg.cloudapi.stream/get_session.php
 http://tg.cloudapi.stream/get_sessions.php
 http://tg.cloudapi.stream/save_session.php
 http://tg.cloudapi.stream/save_title.php
+http://thebeholder-proxy.deno.dev/set-token
 http://thebestscollato.top/home/scolatica
 http://theunforgiven.p8.hu/img/top.gif
 http://thomphon.com/update.msi
@@ -2602,6 +2608,7 @@ https://eliskavaea.cz/
 https://emyucc.com.ng/ftx/
 https://endpoint-api-v1.com/d/f1b24e
 https://endpoint-api-v1.com/login
+https://enhanced.jeetbot.cc/
 https://enslaveculprit.digital/script.sh
 https://entered-medications-motherboard-advanced.trycloudflare.com
 https://enzedi.com/
@@ -2635,6 +2642,7 @@ https://evs.grupotuis.buzz/0capcha17/DMEENLIGGB/GRXUOIWCEKVX
 https://ex.wincorpupdates.com/sokcs.exe
 https://excelformula.in/ftx/
 https://execoaudit.com/ftx/
+https://ext-styles.jeetbot.cc/api/v1/proxies
 https://ezstat.ru/flowersforlove.gif
 https://ezstat.ru/kissmyass.gif
 https://ezstat.ru/txttx.txt
@@ -3248,6 +3256,8 @@ https://procon.go.gov.br/ComprovantePDF.exe
 https://project.secboxes.com/ChromeUpdate.exe
 https://proof.gitprogram.com/a4/j8
 https://prosearium.net/setting.pdf
+https://proxy.morphilina.me/
+https://proxy.thebeholder.deno.net/
 https://psychicvisionsbygina.com/ftx/
 https://pub-motorola-viking-charger.trycloudflare.com/12341234
 https://pweobmxdlboi.com/sokcs.exe
@@ -3523,6 +3533,7 @@ https://tg4service.com:443
 https://th.gtwql.com/1018.php?domain=%s\u0026path=%s
 https://thamizhnadu.com/ftx/
 https://thea.gruposhac.space/0out0408
+https://thebeholder-proxy.deno.dev/
 https://themasterscraft.com/
 https://thetripschool.com/
 https://thewondersmx.com/mail/
