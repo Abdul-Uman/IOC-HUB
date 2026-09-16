@@ -602,6 +602,7 @@ http://api.twmoc.info/ws
 http://api.wiresguard.com/api/FileUpload/submit
 http://api.wiresguard.com/update/v1
 http://api.wiresguard.com/users/admin
+http://api80.c2iznja.com/Windows_Defender/Malwarebytes/
 http://app.bytevista.cloud/wfree
 http://app.compassidea.org/vcamv8/drvMac-an5r.patch
 http://app.evaluino.com/v86/drvMac-an5r.patch
@@ -1084,6 +1085,7 @@ http://japanroom.com/board/DATA/1288247428101.jpg
 http://jdiazmemory.com/4/verify.sh
 http://jjf.life/OpenSSL/build.exe
 http://josegza.biz:8521
+http://js.cache-mcp.com/layer.js.
 http://jsiruytrawey.gu.cc
 http://jsonkeeper.com/b/4NAKK
 http://jsonkeeper.com/b/6OCFY
@@ -2396,6 +2398,7 @@ https://cgf.facturastbs.shop/a/08/150822/au/gerapdf/blqs1
 https://cgf.facturastbs.shop/a/08/150822/au/gerauto.php
 https://cgf.midasx.site/a/08/150822/au/au
 https://championships-peoples-point-cassette.trycloudflare.com/prop.py
+https://chartered.flipbookonlinevault.com/scanna/200e61bfe54c92fb720c77c3a1661bc0/b5ea87c2ddac3aa141bc6794b8993d1e43bd064eaae591719612becea0d106d7
 https://check.git-service.com/rope.pyz
 https://chissema.com/backup/
 https://chkactive.online/update
@@ -2603,6 +2606,7 @@ https://doyu.digital/us05Zoom4JqpH8/Windows/invite.php
 https://dpcuments.com
 https://dpcuments.com/download.php?file=drop_[1:300].js&name=Document-ID-[RANDOM
 https://dpd-de.eyo-copter.com/pdpde/verification.php
+https://dragobet.net/
 https://driverservices.store/visiodrive/arm64-fixer
 https://driverservices.store/visiodrive/arm64-fixernew
 https://driverservices.store/visiodrive/nvidiaRelease.zip
