@@ -45,6 +45,7 @@ http://144.126.140.33:3000/admin
 http://144.126.140.33:3000/api/users
 http://144.126.140.33:3000/openapi.json
 http://144.126.140.33:5000
+http://144.172.112.239:4782
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
 http://147.124.202.205/api/service/makelog
@@ -91,12 +92,15 @@ http://178.236.252.133/html/continue.php
 http://178.236.252.161/html/continue.php
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/gcvvPu2KXdqEbDpJQ33/
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/rrvvPu2KXdqEbDpJQ33/
+http://178.92.162.38:443
 http://181.231.253.69:4444
 http://185.118.164.195/c
 http://185.158.113.114:5000/affiliate/builder.
 http://185.183.97.25/protocol/function.php
 http://185.215.113.35/d2VxjasuwS/index.php
 http://185.218.87.28
+http://185.221.23.133:443
+http://185.221.23.133:4782
 http://185.247.224.41:8443
 http://185.62.1.8/mon/mon.zip'
 http://188.127.251.146:8080/sbchost.rar
@@ -186,6 +190,8 @@ http://31.172.71.5:8008/TCP
 http://31.56.27.76/n2/x86
 http://31.56.27.97/scripts/4thepool_miner.sh
 http://35.246.189.253/gate/log.php
+http://37.16.74.100:443
+http://37.16.74.34:443
 http://38.162.114.0
 http://38.165.44.205/1
 http://38.165.44.205/k
@@ -278,6 +284,7 @@ http://45.76.155.202/update/update.exe
 http://45.76.155.202/update/update.exe.
 http://45.77.31.210/users/admin
 http://45.89.53.54
+http://45.90.13.210:443
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
 http://47.238.107.83:81/app/minibrowser11_rpl.zip
 http://47.80.0.0
@@ -2009,6 +2016,9 @@ https://accessor.fud2026.com/libmine-
 https://account.celine-dion-arena.com/authentication/login?client_id=4983cefd-9810-444e-9eb0-64b4933878eb&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D4983cefd-9810-444e-9eb0-64b4933878eb%26locale%3Den-US%26nonce%3Dc4f2c148-2acb-4684-b19e-097d64ab8dd6%26redirect_uri%3Dhttps%253A%252F%252Faccount.celine-dion-arena.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNArFqrbMvKRksSv7JganvH
 https://account.ticketmaster-celinedion.fr/authentication/login?client_id=7e7dbd4b-c5a9-4d4e-af60-64fd673ea525&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D7e7dbd4b-c5a9-4d4e-af60-64fd673ea525%26locale%3Den-US%26nonce%3Dcdc91d10-2a95-4f80-92cd-ba9204a5edd7%26redirect_uri%3Dhttps%253A%252F%252Faccount.ticketmaster-celinedion.fr%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNAmhJgfrrdQ1bVJJXLbgCh
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
+https://acrobat-updater.com/5f109e7bb3df4dea81946f2f853da288
+https://acrobat-updater.com/api/v2/acrobat/latest
+https://acrobat-updater.com/generate
 https://activatecapagm.com/j8r3
 https://activatesoftinc.icu/zinfoz.dat
 https://adm-govuz.com/rev.rar
@@ -2417,6 +2427,12 @@ https://cn.jbtz001.com/lunlian/index.php
 https://cn404.gotz001.com/lunlian/index.php
 https://cndocsig.dn3.co/ftx/
 https://cnse.gotz001.com/lunlian/index.php
+https://codecaudiog.site/87b76a60ba7c474dbf8f689df2808e1a?payload=f1d7b074-b81f-11ef-a763-1402ec3d56f0
+https://codecaudiog.site/generate?domain=codecvideowin.online&payload=991589b0-4cc9-11f0-b9f4-1402ec3d56f0&prefix=NF&prefix_count=10&output=base64
+https://codecaudiog.site/generate?domain=codecvideowin.online&payload=f1d7b074-b81f-11ef-a763-1402ec3d56f0&prefix=NF&prefix_count=10&output=base64
+https://codecvideowin.online/af15d5f?p=991589b0-4cc9-11f0-b9f4-1402ec3d56f0
+https://codecvideowin.online/af15d5f?p=f1d7b074-b81f-11ef-a763-1402ec3d56f0
+https://codecvideowin.online/f9e95a1e1fa3f3aebfc802c6c8e6a2eb
 https://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
 https://codon.vn/ext/xmshield.json
 https://cohezo.com/calendar/0f4df3a7-5914-4245-a616-311ca554ee0c
@@ -2455,6 +2471,13 @@ https://crazybubble.pt/data/
 https://crazybubble.pt/mail/
 https://creativetrendwatcher.be/mail/
 https://crediadvisor.pt/inicio/
+https://cremeb.com/af15d5f?p=48502c50-a504-4811-aab8-ba978aeae237
+https://cremeb.com/b216890758c64daa8ad01e251df36f36.jpg
+https://cremeb.com/kremlin?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
+https://cremeb.com/kremlin?p=cholecalciferol&prefix=NF&prefix_count=10&output=base64
+https://cremeb.com/qrcode/api/v1/read?domain=
+https://cremeb.com/update-codec-browser/48502c50-a504-4811-aab8-ba978aeae237
+https://cremeb.com/update-codec-browser/cholecalciferol
 https://criamoda.com/mail/
 https://crypto-stroe.cc/
 https://csc.biologii.net/sooc
@@ -2534,6 +2557,12 @@ https://dodod.lat/
 https://dodod.lat/darwin/i/_
 https://dodod.lat/linux/i/_
 https://dodod.lat/win32/i/_
+https://donalurdesconfeitos.site/b216890758c64daa8ad01e251df36f36.jpg
+https://donalurdesconfeitos.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
+https://donalurdesconfeitos.site/blazerzinha?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
+https://donalurdesconfeitos.site/kremlin?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
+https://donalurdesconfeitos.site/update-codec-browser/48502c50-a504-4811-aab8-ba978aeae237
+https://donalurdesconfeitos.site/update-codec-browser/cholecalciferol
 https://dorenzaa.com/
 https://down.temp-xy.com/code/k.txt
 https://down.temp-xy.com/code/s.txt
@@ -2801,6 +2830,7 @@ https://hailmeinc.com/bkmsiqop.zip'
 https://halsoftsoftsite.com
 https://hapich.clayfenrirhuy.top/login
 https://hareandhosta.com/95xh
+https://harialurdes.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
 https://hasthaglobal.com/ftx/
 https://headedforspace.com/
 https://headkickscountry.com/lz1y
@@ -3003,6 +3033,7 @@ https://makeup-us.shop
 https://mansfieldpediatrics.com/ledger/b2955c54eb0c047463993b379e015e737aabed37b4
 https://mansfieldpediatrics.com/ledger/live/b2955c54eb0c047463993b379e015e737aabe
 https://marcioimoveis.pt/mit/
+https://marialurdes.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
 https://markatuna.com/docusign/docusign/Mac/utility.php
 https://markatuna.com/docusign/docusign/Windows/utility.php
 https://markatuna.com/docusign/docusign/Windows/utility.php/download/index.php
