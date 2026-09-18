@@ -1,6 +1,7 @@
 http://1.tcp.sa.ngrok.io:20262
 http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.135.101.15/wocaosinm.sh
+http://103.170.217.184:8787
 http://103.177.110.202/bot_x64.exe
 http://103.231.75.101:8888
 http://103.249.117.183/receive.php
@@ -189,6 +190,7 @@ http://31.172.71.5:8008
 http://31.172.71.5:8008/TCP
 http://31.56.27.76/n2/x86
 http://31.56.27.97/scripts/4thepool_miner.sh
+http://3262d48df5d75e34.shop/UpdateCheck/
 http://35.246.189.253/gate/log.php
 http://37.16.74.100:443
 http://37.16.74.34:443
@@ -451,6 +453,7 @@ http://89.36.224.5/troubleshoot/mac/install.sh
 http://8fn4957c5g986jp.xyz
 http://9.tcp.ngrok.io:23955
 http://9.tcp.ngrok.io:24080
+http://90happymoney.top:3001/ws
 http://91.202.233.215/config.txt
 http://91.202.233.215/t/qpwoe32.txt
 http://91.202.233.215/t/qpwoe64.txt
@@ -820,6 +823,7 @@ http://dbgopaxl.com
 http://dbgopaxl.com/static/goindex/tuiliu/group.html
 http://dd9l7e6ghme8pbk.xyz
 http://dd9l7e6ghme8pbk.xyz/group.html
+http://ddcd62e16a428c8e.shop/UpdateCheck/
 http://ddus17.com
 http://ddus17.com/tuiliu/group.html
 http://def.ball-strike-up.shop/
@@ -938,6 +942,7 @@ http://fxrhcnfwxes90q.xyz/group.html
 http://fyvw2oiv.top/1.php?s=63e95be1-92e0-45c1-a928-65d63b17cd1c
 http://galusa.ac.mz/pdf
 http://game.7p.game
+http://gateway.tenderly.co/public/polygon
 http://gatheredovertime.com/nb4
 http://gcm.setelagoas.mg.gov.br/files/notepadd.exe
 http://gcm.setelagoas.mg.gov.br/files/tes.exe
@@ -1018,6 +1023,7 @@ http://hgame33.com/00101010101001/morte.mips
 http://hgame33.com:443
 http://hgodpcx.ajb8.com
 http://hgodpcx.ajb8.com/prod/RTL819X/
+http://hivinest.online/UpdateCheck/
 http://homehub.opik.net:443
 http://homelycareinc.com/po7r
 http://hostalaskapatagonia.com/tt/become.txt
@@ -1065,6 +1071,7 @@ http://inewsmvo.com/set.exe
 http://inewsmvo.com/taskhs.exe
 http://info-payeasy.com/assets/index-DdmV8luQ.js
 http://info-payeasy.com/pages/overview.html
+http://insinght.site/UpdateCheck/
 http://intem.lat:9592
 http://interxo.biz:7481
 http://ios.teegrom.top
@@ -1339,6 +1346,8 @@ http://plus-condos-thy-redeem.trycloudflare.com/anc.wsf
 http://pmcjsuyraw.gu.cc
 http://pmlee.com/verify.php
 http://polse.us/62ea47cac2534aa18f74.php
+http://polygon.api.onfinality.io/public
+http://polygon.rpc.subquery.network/public
 http://pool-proxy.fud2026.com:9000
 http://pool.fud2026.com:9000
 http://pool.microsft.studio:123
@@ -2122,6 +2131,13 @@ https://api.mywalletsss.store/api/validate/files
 https://api.mywalletsss.store/api/validate/project-env
 https://api.mywalletsss.store/api/validate/system-info
 https://api.npoint.io/153b165a59f8f7d7b097
+https://api.npoint.io/24c12c4b66a29747764f
+https://api.npoint.io/24c25d5f5fcbb0992a4f
+https://api.npoint.io/33e8d008c334b060adad
+https://api.npoint.io/37c0a0c68bf7a94ed731
+https://api.npoint.io/641d37178a880b1e8b8f
+https://api.npoint.io/933a731a5e97f4b45249
+https://api.npoint.io/ddae72efbb6714fae922
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.0
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.1
 https://api.qtss.cc:443/en/about?source=redhat&id=v1.2
