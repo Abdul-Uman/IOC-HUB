@@ -886,6 +886,8 @@ http://eg2bjo5x5r8yjb5.xyz
 http://eixfi.ajb8.com
 http://elementsplugin.duckdns.org:49152
 http://elementsplugin.duckdns.org:49153
+http://elxxvvx.xyz/f
+http://elxxvvx.xyz/f'
 http://emec.su/bg.rtf
 http://emprotel.net.bo/updserc.zip
 http://endpoint-api-v1.com/d/f1b24e/download
@@ -1595,6 +1597,8 @@ http://theprints.org/gsheets
 http://theprints.org/mau
 http://theprints.org/msheets
 http://theunforgiven.p8.hu/img/top.gif
+http://third-party.com/token
+http://third-party.com/widget.js
 http://thomphon.com/update.msi
 http://tidalcoastapparel.com/s.mp4
 http://tidalcoastapparel.com/s.mp4Type:
@@ -2581,6 +2585,10 @@ https://docs.cloudplatform-single-spa.io/platform/svp-baas
 https://docs.dissect.tools/en/stable
 https://docs.dissect.tools/en/stable/
 https://docs.google.com/uc?id=0BxsMXGfPIZfSVzUyaHFYVkQxeFk&export=download
+https://docsend.appstore.com.mx
+https://docsend.appstore.com.mx/dcc737d157ef4271/CoreUpdate.pkg.enc
+https://docsend.appstore.com.mx/dcc737d157ef4271/Helper.pkg.enc
+https://docsend.appstore.com.mx/dcc737d157ef4271/stage2.enc
 https://docsend.online/download/drivers
 https://docsend.web12api.com/api/launcher/start
 https://docsign.dn3.co/ftx/
@@ -3489,6 +3497,7 @@ https://sites-leiria.pt/es/
 https://sites-leiria.pt/financas/data/
 https://sj9ioz3a7y89cy7.xyz/list.html
 https://sl.008php.com/kt.html
+https://slack.apple03cloudstore.com/installer.sh
 https://slim.claysrat.top/login
 https://smtaxconsultant.com/ftx/
 https://snapshare.chat/
@@ -3549,6 +3558,7 @@ https://store.grafsynergy.com/media/apple.png
 https://store.grafsynergy.com/media/goyim
 https://storycentral.net
 https://stradomi.com/res/presentjudge
+https://streamyard.appstore.com.mx/installer.sh
 https://studentspoint.org/
 https://studioaqp.com/ftx/
 https://sudarshanimport.com/ftx/
@@ -3641,6 +3651,9 @@ https://today-88.com
 https://tonapi.io/v2/blockchain/accounts/
 https://tonapi.io/v2/blockchain/accounts/0:c66119f0e5635c4380441d7a79baf0c02a0ab7ea6cd78de06507fc5dc2c1a5d9/methods/get_domain
 https://tonapi.io/v2/blockchain/accounts/0:c66119f0e5635c4380441d7a79baf0c02a0ab7ea6cd78de06507fc5dc2c1a5d9/transactions
+https://toria.apple03cloudstore.com
+https://toria.apple03cloudstore.com/
+https://toria.apple03cloudstore.com/e3c1a6b00bc31e14/stage2.enc
 https://toruma.com.mx/ftx/
 https://torvi.pt/Backup/
 https://trackpipe.dev
@@ -3758,9 +3771,11 @@ https://vsilex.com/docusign/Windows/utility.php/download/index.php/download/inde
 https://vsilex.com/docusign/Windows/utility.php/download/index.php/download/index.php/download/index.php
 https://vy.ijnggpi.com/ftx/
 https://w2a315.tubeluck.com/static/goindex/tuiliu/group.html
+https://waaako.appstore.com.mx/installer.sh
 https://wakalaafricatravel.com/ftx/
 https://walt-messaging-affairs-occurring.trycloudflare.com
 https://wanderlustar.com/k?source=7023.139&kw=
+https://warpcast.asia/Toria.dmg
 https://wayaya.vip/
 https://weaving.pt/data/
 https://web-devtools.com/dopfile
