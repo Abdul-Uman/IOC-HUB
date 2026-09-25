@@ -12,6 +12,7 @@ http://103.86.86.244:800/V/deploy.Ps1
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
 http://107.172.135.60/96/ibredgoodforbestthingscomingbackform.hta
 http://107.172.235.213/87/img_015059.png
+http://107.175.82.242:9000/wilow/psychedeliclove.exe
 http://107.189.24.255
 http://110.172.104.95:8000/api/download/windows-tools/amd64
 http://110.185.104.180:8000
@@ -129,6 +130,7 @@ http://194.156.79.122:55615
 http://194.69.203.32:81/hiddenbink/colonna.arc
 http://194.69.203.32:81/hiddenbink/colonna.i686
 http://194.69.203.32:81/hiddenbink/react.sh
+http://194.87.89.30:8899/anydesk.exe
 http://195.2.79.245/firefox.exe
 http://195.2.79.245/service.exe
 http://195.2.79.245/winload.exe
@@ -497,6 +499,8 @@ http://95.181.161.81/i100dfknzphd5k
 http://95.181.161.81/mm57aayn230
 http://95.181.161.81:443/main.exe
 http://96.9.212.22:2034
+http://98.142.252.140:15847
+http://98.142.252.140:9000/wmglb
 http://98a.online
 http://98a.online/group.html
 http://9990as7tle.com/DTDs/PropertyList-1.0.dtd
@@ -2339,6 +2343,14 @@ https://brproxy.868id.com/tz_base64.php
 https://brproxy.868id.com/url/index_base64.php
 https://bruceketta.space/posts/nova-script-251110/
 https://brwin-88.com
+https://bsc-dataseed1.defibit.io/
+https://bsc-dataseed1.ninicoin.io/
+https://bsc-dataseed2.defibit.io/
+https://bsc-dataseed2.ninicoin.io/
+https://bsc-dataseed3.defibit.io/
+https://bsc-dataseed3.ninicoin.io/
+https://bsc-dataseed4.defibit.io/
+https://bsc-dataseed4.ninicoin.io/
 https://bsn.halsoftsoftsite.com
 https://bsprofi.ru/min.hta
 https://bsprofi.ru/profit.hta
@@ -3680,6 +3692,8 @@ https://twmoi2002.tos-cn-shanghai.volces.com/E-Invoice.rar
 https://twtaxgo.cn/uploads/20260129/taxIs_RX3001.7z
 https://twtaxgo.cn/uploads/20260129/taxIs_RX3001.7z.
 https://tyler.clayratnik.top/login
+https://uasputnik.com/elita.msi
+https://uasputnik.com/sputnik.html
 https://unica.md/
 https://unityprogressall.org/imagecontent/getimgcontent.php?id=
 https://unlockk.play-google-store.ru
