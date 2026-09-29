@@ -22909,6 +22909,7 @@ account-helpdesk.icu
 account-helpdesk.info
 account-helpdesk.top
 account-issues.com
+account-sams-club.com
 account-security-googie.my-board.org
 account-security-googie.rf.gd
 account-settings-shsvchx.wuaze.com
@@ -26966,6 +26967,7 @@ api-app.uppercrafteroom.com
 api-configuard.com
 api-dev.learnstore.vip
 api-gateway-softupdate.io
+api-goo-drivehosting.com
 api-metrics-5453.com
 api-notification-centeriones.com
 api-prod.secboxes.com
@@ -27188,6 +27190,14 @@ api.zoomsdk.us
 api.zxg4jy1ssoynji24po.com
 api00000012.site
 api06.chat5188.tk
+api0709.azuravenue.com
+api0714.babilkuruyemis.com
+api0727.banvanchuyen.com
+api0728.baoholaodongbaoanh.com
+api0728.baptizedinchrist.com
+api0728.baqtalanaqh.com
+api0730.bartonaussies.com
+api0731.bayraqaleud.com
 api08.chat5188.tk
 api2.annoyingremote.com
 api288-oke.click
@@ -27823,6 +27833,7 @@ appliancesx.xyz
 appliancevista.shop
 appliancews.com
 applibslist.xyz
+applicability.security
 applicarte.com
 applicationformsubmit.me
 applicationnetwork.xyz
@@ -30483,6 +30494,7 @@ azstatefoe.com
 aztec88x5000.site
 aztpkw5650.top
 azttzukeax.xyz
+azuravenue.com
 azure-app.store
 azure-defender.cloud
 azure-drive.com
@@ -30753,6 +30765,7 @@ babble888.xyz
 babe181go.online
 babervipstylist.online
 babi5599ss.ddnsgeek.com
+babiesolutions.com
 babigomes.fun
 babindaelectrics.online
 bablo-wow29.online
@@ -30976,6 +30989,7 @@ bagin-systems.online
 bagn.xyz
 bagonamaditrohds.com
 bags-luggage.info
+bagsdar.com
 bagsonlines.shop
 bagspeed.site
 baguesthouse.pt
@@ -31326,6 +31340,7 @@ bankruptaf.xyz
 bankruptcyandinsolvency.online
 bankruptcyhk.com
 banksampahdigitaldlhmadiunkota.online
+banksgreenanimals.com
 bankshome.xyz
 banksiadesign.online
 banksiahealing.online
@@ -31372,12 +31387,15 @@ baobo-888.bar
 baodingqianxu.top
 baofu88888.cyou
 baohkgpwemaur.store
+baoholaodongbaoanh.com
 baomaikeji.com
+baoquocgiavn.com
 baotgm.net
 baoxinviec.shop
 baoxis.cc
 baoyujidicss.lat
 bapeev3080.top
+baqtalanaqh.com
 baquskreen.top
 bar-bartackle.com
 baraanduliaptti.org
@@ -31531,6 +31549,7 @@ barsukotvsesezonyuqn.online
 barter777.xyz
 barterings.shop
 barterxxx.xyz
+bartonaussies.com
 bartsen284.online
 bartsthechemist.online
 barubahsgs777.online
@@ -31715,6 +31734,7 @@ bayan-escort-olgun.online
 bayan-olgun-escort.online
 bayangolhotel.mn
 bayar4dmeledak8.site
+bayareakajabe.com
 baybay888.top
 baybedrooms.online
 baybeginners.online
@@ -34983,6 +35003,7 @@ bluesovereignfencesandgates.online
 bluesparksynths.online
 bluestacks.site
 bluesymdev1.work
+blueteam.cool
 bluetickrecruiting.site
 bluetouchstaging.site
 bluetrans.de
@@ -36229,6 +36250,7 @@ brevantweuijdis.com
 brevardchurches.com
 brevis888.xyz
 brevity360.xyz
+brevo20.badgersweeteners.com
 brew.lat
 brewag.space
 brewmacos.com
@@ -41867,6 +41889,7 @@ cloudfiles.top
 cloudfilez.online
 cloudfish.xyz
 cloudflare.bonto.run
+cloudflare.carriernetworks.top
 cloudflare.hcaphcha.com
 cloudflare.report
 cloudfly.org
@@ -47024,9 +47047,11 @@ customdesigncollective.online
 customdomains.xyz
 customeditor.xyz
 customerpeak.online
+customerreviewproduct.com
 customers-cryptocom.com
 customerse11hhg3n.online
 customersforsale.online
+customersrespondedpositively.com
 customerupdate.us
 customeverything.online
 customforex.xyz
@@ -50492,6 +50517,7 @@ document.sharedrive.ink
 document.skandiafastigheter.cc
 document24acces.com
 documentation.stormshield.eu
+documentcloudlink.com
 documentodigital.cloud
 documentos-online.com
 documentos.xyz
@@ -51097,6 +51123,7 @@ draximenarosero.com
 drbconstruction.site
 drbennyzhang.online
 drbiancadenny.online
+drbox.august-brokers.co.nz
 drcathyandronis.online
 drcoffee2.shop
 drct-flowers-canyo.space
@@ -51203,6 +51230,7 @@ drivara.shop
 drive-access.site
 drive-nepal-gov.com
 drive-release.cloud
+drive.careernetwork.co.nz
 drive.chrome-browser.cloud
 drive.cloudplus.one
 drive.easyboxsync.com
@@ -53694,6 +53722,7 @@ enriched.ie
 enrichedmaintenance.online
 enriqe1cupcoffee.site
 enriquegamboa.xyz
+enroll.azuredevice.cloud
 enrollcrux.com
 enrollms.com
 enrollpasskey.com
@@ -54474,6 +54503,7 @@ eurohotelbooking.com
 euroinnovations.site
 euromarketsignal.de
 euronautica.com.br
+europaeinblick.click
 europcar-es.xyz
 europenews2025.online
 europesignaltrust.de
@@ -55669,6 +55699,7 @@ fastclouds.xyz
 fastcluster.site
 fastcryptominings.com
 fastdeliveryservice.online
+fastdltrk.com
 fastdown.site
 fastdvyexpress.online
 faster888.xyz
@@ -55956,6 +55987,7 @@ federalhotelmaryborough.online
 fedex-update01.help
 fedexca-orderstatus.link
 fedexdelivery.ca
+fedexsupportverification.com
 fedl6q7jw2.cyou
 fedor.clayratnik.top
 fedoraforums.net
@@ -56616,6 +56648,7 @@ financementure.com
 financeo.site
 financeok.xyz
 financeorbit.xyz
+financeprotips.site
 financer.ae
 financerules.online
 finances-coinbase.com
@@ -61409,6 +61442,7 @@ globalcrystalelektronik.site
 globaldailiesnews.site
 globaldailynews.online
 globaldesign.site
+globaldocumentsharingcenter.com
 globaldomain.online
 globaldystopia.cloud
 globalelitehire.com
@@ -67317,6 +67351,7 @@ ibpjnu4220.top
 ibpohx4071.top
 ibqdns4190.top
 ibrahimaslan.online
+ibraq-perfumes.com
 ibs-express.com
 ibsdse.co.in
 ibshopping.store
@@ -67914,6 +67949,7 @@ igosa5564da94fd6.top
 igplaychat.online
 igqchh3180.top
 igra-prestolov-smotret.online
+igreenfaturas.com
 igreensoft.com
 igrovoj-rul.site
 igrovoj-stul.site
@@ -77037,6 +77073,7 @@ lnsrc.org
 lnstagram.biz
 lnstagram.com
 lntcrnctdrlve.com
+lnterac-transfer-login.com
 lnterbank-seguridad.online
 lnufc55orl0xohskamjgwepcu9tvp.ar
 lnuhjo4205.top
@@ -77256,6 +77293,7 @@ logosports.net
 logs.bestsaleshoppingday.com
 logs.bestshopingday.com
 logs.temp-xy.com
+logs.uvexio.com
 logsmanagementsystem.xyz
 lohosfetighemtinu.site
 loiflix.shop
@@ -81471,6 +81509,7 @@ microsoft-account.online
 microsoft-ads-bing.com
 microsoft-azure-loadbalance.com
 microsoft-clipchamp.com
+microsoft-entra.net
 microsoft-files.infinityfreeapp.com
 microsoft-flash.com
 microsoft-iplcloud.com
@@ -84361,6 +84400,7 @@ namesakestore.online
 nameshield.site
 nameyou.pics
 namnao.phetchabun.police.go.th
+namshi-uae.com
 namsioc.shop
 namthipbong.org
 namybxc688.top
@@ -86865,8 +86905,10 @@ nuuuppp.sbs
 nuvebrand.shop
 nuvemcriativa.site
 nuvemshops.online
+nuvenergia.com.br
 nuvessahealth.online
 nuvetar.store
+nuvfaturas.com
 nuviabridge.online
 nuvine.shop
 nuvrendavis.xyz
@@ -93981,6 +94023,7 @@ prosaham.inashtech.com
 prosearium.net
 prosec.ink
 prosecure.xyz
+prosecutoralliance.com
 proserviceappliancerepair.com
 prosetoothbrush.xyz
 proshow-fx.com
@@ -94431,6 +94474,7 @@ puravidaremedies.site
 puravitaloja.site
 purdentix.site
 pure-exploration.site
+pure26.myftp.org
 pureairductservices.site
 pureatlasworks.online
 pureaura.shop
@@ -95956,6 +96000,7 @@ qr3t4y5tj.xyz
 qracepu66.top
 qrcc.io
 qrcezpso.com
+qrcode.a55scd.com.br
 qrcodespoweredbygs1.com
 qrcoin.fun
 qrgg4804xctcvzjujncbut4711ld8.ee
@@ -101370,6 +101415,7 @@ scorpioncc.site
 scospe.ws
 scosy.store
 scotaibank.com
+scotiabank-secure.info
 scotiabankverify.com
 scottarboretum.online
 scottedrington.online
@@ -102516,10 +102562,12 @@ shared.drop-box.cloud
 shared.dropbox-docsend.cloud
 shared.dropbox-docsend.online
 sharedairdrop.xyz
+shareddocumentdrivehub.com
 sharedfolders.org
 sharedfuturetech.com
 sharedinformationsquare.site
 sharedocs.xyz
+sharedocumentsystem.com
 sharedreferencedepot.site
 sharedresourcecenter.site
 sharedrive.cloud
@@ -108500,6 +108548,7 @@ tdxlgfq.com
 tdz98help2.top
 te-development.online
 te46tl3j66r-cmtx.top
+tea.vexexo.com
 teabc.xyz
 teacakeremedied.site
 teach.mysmartpros.com
@@ -108579,6 +108628,7 @@ teamsvoicehub.com
 teamsvoicepremium.com
 teamszv.com
 teamvetavirtual.site
+teamwork-recover-password.com
 teamy.online
 tears-litre.click
 teaseup.cfd
@@ -110913,6 +110963,7 @@ tiquetesibaratos.online
 tiquetesibaratos.xyz
 tiraitoto333.site
 tiraitoto666.site
+tirakian.com
 tiramisu.it
 tiranga-max.online
 tirbinance.online
@@ -112597,6 +112648,7 @@ trulybeauty-vi.online
 trulyescencias.store
 trulynaturalproducts.online
 trummer-engineering.online
+trump2.1368.lol
 trumpalert.store
 trumpcards.xyz
 trumpertonster.icu
@@ -113461,6 +113513,7 @@ uang199hoki.online
 uapdaz4546.top
 uapnhh2019.top
 uasecho.com
+uasputnik.com
 uaszdz2203.top
 uaszdz6129.top
 uatrei.de
@@ -119240,6 +119293,7 @@ waterylkmf.xyz
 wathershop.online
 watitoto889.online
 watsonpark.online
+wattiofaturas.com
 wattsapple.com
 waugh-holidays.online
 wave7exam.online
@@ -120240,6 +120294,7 @@ whatsappautomation.online
 whatsappbrasil.com
 whatsappbulkmessagesender.com
 whatsappbusines.news
+whatsappbusineses.com
 whatsappce.com
 whatsappcenter.com
 whatsappclonador.online
@@ -120811,6 +120866,7 @@ winkytalks.site
 winland168x.site
 winlive445.online
 winlose888.xyz
+winmanage-me.network
 winn855jp.online
 winn889jp.online
 winn889pro.online
@@ -127584,6 +127640,7 @@ youngwithpurposelearningresourcecentre.online
 youniqueelc.online
 younrsss.net
 youonlydieonce.online
+your-app.com
 your-bigprofit.top
 your-hotflix.site
 your-ip.getmyip.com
