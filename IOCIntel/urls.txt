@@ -326,6 +326,8 @@ http://60.30.147.18:8091/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://62.113.115.89/homepage/infile.php
 http://64.7.198.66/resosk443.exe
 http://64.7.199.177:18899/93.187.56.19
+http://64.94.85.67:443/update_c08937.pl
+http://64.94.85.67:443/update_result_3567cs.tgz
 http://64.95.13.238/payload.php'
 http://65.109.25.6:6000/api/polymarket-copytrading-bot-api-key/validate
 http://65sse.668ddf.cc
@@ -1389,6 +1391,7 @@ http://proficiencycert.com/apply/o5s3x9e7i4w1mwie3h6j3ygf
 http://protocolovirtual.org
 http://proxy.hideiqxshlgvjk.com:5050
 http://proxy.thebeholder.deno.net/set-token
+http://psk1zim.abrdns.com/agentws
 http://pusykakimao.com:443
 http://putuartana.com/cleangpt
 http://q.startimes.me/
@@ -2252,6 +2255,7 @@ https://avanzaringenieriaysalud.com/wp-content/d0cs/Windows/utility.php
 https://avenger-sync.live/api/sync
 https://avipstudios.com/contact
 https://avrasyaproje.com.tr/backup/
+https://aware-cr1.com/api/beacon
 https://awladlktoccyat.ortomanalessia.com/ppl-it/mark.php
 https://az-blob.110.nz/update/init
 https://az-blob.110.nz/update/s1
