@@ -499,6 +499,12 @@ http://94.26.83.190:6600/t36umsn9/DataRescueCommunity
 http://94.26.90.112/dl-callback/6dkcdpd7-4jacbuf9-prutgux4-2ybssc8v/traffic1.exe/1390903f57b21f346193aefbbfd36759
 http://95.163.152.190/linguist.zip
 http://95.164.53.100/private/yarsap_80541.php
+http://95.164.53.76/new/log/048466C5/startCrypt
+http://95.164.53.76/new/log/29A5FDA7/failed/1769331221
+http://95.164.53.76/new/log/29A5FDA7/startLoader/1769331211
+http://95.164.53.76/new/log/8320E1A4/success/1767499039
+http://95.164.53.76/new/log/8320e1a4/startloader/1767499038
+http://95.164.53.76/new/log/D9D278DD/success/1696492954
 http://95.179.213.0
 http://95.179.213.0/update/AutoUpdater.exe
 http://95.179.213.0/update/AutoUpdater.exe.
@@ -1709,6 +1715,9 @@ http://w2a315.tubeluck.com
 http://w2a315.tubeluck.com/static/goindex/tuiliu/group.html
 http://wallets-gate.io/api/injection
 http://wallpapermacos.com/download/
+http://wavel.apple03cloudstore.com/4e7a12e1c294f377/CoreUpdate.pkg.enc
+http://wavel.apple03cloudstore.com/pkgunpack
+http://wavel.apple03cloudstore.com/v1/asset/1789753519-10913-1182
 http://wayaya.vip/
 http://weatherdataai.theworkpc.com/ws
 http://web.commoncome.online:8080/client
@@ -2698,6 +2707,7 @@ https://dynpyads.com/backup/
 https://dywwl.vip/
 https://earth3d.net/admin/public/link?q=
 https://earthapp.net/admin/public/link?q=
+https://easybooters.com/newlog.php'
 https://eblizboutique.com/ftx/
 https://ebox.amltrust.cash/?code=
 https://ebox.csam-trust.xyz/?code=
@@ -3819,6 +3829,12 @@ https://wakalaafricatravel.com/ftx/
 https://walt-messaging-affairs-occurring.trycloudflare.com
 https://wanderlustar.com/k?source=7023.139&kw=
 https://warpcast.asia/Toria.dmg
+https://wavel.apple03cloudstore.com/4e7a12e1c294f377/CoreUpdate.pkg.enc
+https://wavel.apple03cloudstore.com/pkgunpack
+https://wavel.apple03cloudstore.com/v1/asset
+https://wavel.apple03cloudstore.com/v1/asset/$
+https://wavel.apple03cloudstore.com/v1/loader/dek
+https://wavel.apple03cloudstore.com/v1/loader/log
 https://wayaya.vip/
 https://weaving.pt/data/
 https://web-devtools.com/dopfile
@@ -3982,6 +3998,7 @@ https://xzs.868id.com/EfsNetAutoUser_br.exe
 https://xzs.868id.com/iis/IISAgentDLL.dll
 https://xzs.868id.com/iis/br/ManagedEngine64_v2.dll
 https://xzs.868id.com/link.exe
+https://y32me8.com/Wavel.dmg
 https://y4w.icu/group.html
 https://yard.claybaster.top/login
 https://yekbet.cam/
