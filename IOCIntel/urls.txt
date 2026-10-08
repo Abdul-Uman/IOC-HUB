@@ -313,6 +313,8 @@ http://4u.game/group.html
 http://5.199.133.149/jznkmustntblvmdvgcwbvqb
 http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
+http://5.78.73.122:81/private/bins.sh
+http://5.78.73.122:81/private/python3.6
 http://5.tcp.ngrok.io:22934
 http://51.81.104.115/nuts/bolts
 http://51.81.104.115/nuts/x86
@@ -2927,6 +2929,7 @@ https://goanalytics.xyz/88k4ez/group.html
 https://goggllemmeettiingnc.com/meett/invite.php
 https://goodcryptocurrency.top/details/group.html
 https://googlemeetme.us/
+https://gotenberg.dev/docs/getting-started/installation
 https://govt-filesharing.site/a9.rar
 https://govt-filesharing.site/hpc5985.php?key=xvnd54&info=Hello
 https://govt-filesharing.site/svchost.rar
