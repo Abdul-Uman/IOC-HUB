@@ -2193,6 +2193,7 @@ https://api.live-updates.online/v2
 https://api.mywalletsss.store/api/validate/files
 https://api.mywalletsss.store/api/validate/project-env
 https://api.mywalletsss.store/api/validate/system-info
+https://api.nebulaai.dev/v2
 https://api.npoint.io/153b165a59f8f7d7b097
 https://api.npoint.io/24c12c4b66a29747764f
 https://api.npoint.io/24c25d5f5fcbb0992a4f
@@ -2257,6 +2258,7 @@ https://arkanix.pw/stealer.py
 https://arkanix.pw/upload_dropper.py
 https://arkypc.com/curl/
 https://arkypc.com/n8n/update
+https://arusupport-region1-webhook.online/statics/cache/v11/abicfjej
 https://as.al/file/KBn1RC
 https://aset.homelinuxserver.org/ftx/
 https://asnepglobal.mw/ftx/
@@ -2632,6 +2634,7 @@ https://devwrapi.washrocks.com/auth/en/verification.php
 https://devwrapi.washrocks.com/home/verification.php
 https://dewa-ae.mandegroupeinternational.org/gov/verification.php
 https://dhvault.com/
+https://diagnose.hashicorp-terraform.io/plugins/grpc/v6/schema/metrics/333afe63-c5a2-43f0-b046-7cbaa7797e8a
 https://diff-beats-belize-chapter.trycloudflare.com/12341234
 https://digital-magicians.com/photo295825092412.zip?_r=ea623202
 https://directorio-porno.com/
@@ -3661,6 +3664,7 @@ https://suporte.camaratunapolis.sc.gov.br/ti/attvpn.zip
 https://support.ms-live.us/301631/check
 https://support.ms-live.us/register/22989524464UcX2b5w52
 https://support.ms-live.us/update/02583235891M49FYUN57
+https://supportaru.serveftp.com/statics/cache/v11/
 https://sv-management.aaltink.com/wix/verification.php
 https://sv-management.eco-fin-service.it/wix/verification.php
 https://sv-management.firstresponder.nl/wix/verification.php
