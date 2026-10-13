@@ -212,6 +212,7 @@ http://38.207.178.192:50813/MySQL_LOG.txt
 http://38.255.43.60:8081////clients/payloads/kxe.py'
 http://38.255.43.60:8081////clients/stagers/kxe.py'
 http://38.45.65.159:2034
+http://39.96.8.180:9008/ssc/rprt/bug
 http://39.97.229.220:8006/httd
 http://3eueu.com/
 http://3eueu.com/set.exe
@@ -315,6 +316,7 @@ http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
 http://5.78.73.122:81/private/bins.sh
 http://5.78.73.122:81/private/python3.6
+http://5.ahd187.com/thirdsdk/flowcashpack/
 http://5.tcp.ngrok.io:22934
 http://51.81.104.115/nuts/bolts
 http://51.81.104.115/nuts/x86
@@ -533,6 +535,8 @@ http://K0j8h7f6d5s4.com/set.exe
 http://Kaiwachis.ug/NShnObEA4XwtlDCC/gate.php
 http://LsyPdQGXrEDfPx.MSwInSofTUpDloAd.dESign/111111?sub=s
 http://Maper.info/XGu48
+http://OeawmFEDPClEAiH9.apple.0aa0cf0637d66c0d.com:6000
+http://OeawmFEDPClEAiH9.apple.442fe7151fb1e9b5.com:6000
 http://Qposhgames.com/set.exe
 http://Setseta.com/set.exe
 http://a.insgly.net/api/trk?id=emailclick&i=660735&eid=156538024&url=hXXps://abramge.com.br/drive/itpresented
@@ -625,6 +629,8 @@ http://api.reverserecruiting.io/v1/profile/sync
 http://api.sync-master.online/v1
 http://api.sync-master.online/v3
 http://api.twmoc.info/ws
+http://api.weatherlive.world/br_upgrade/upgradeV2/getConfigs
+http://api.weatherlive.world/odborwer_dot/cm
 http://api.wiresguard.com/api/FileUpload/submit
 http://api.wiresguard.com/update/v1
 http://api.wiresguard.com/users/admin
@@ -1737,6 +1743,7 @@ http://wavel.apple03cloudstore.com/pkgunpack
 http://wavel.apple03cloudstore.com/v1/asset/1789753519-10913-1182
 http://wayaya.vip/
 http://weatherdataai.theworkpc.com/ws
+http://weatherlive.world/odborwer_dot/cm.
 http://web.commoncome.online:8080/client
 http://web02message.com/web02message.mp4
 http://web02message.com/web02message.mp4Type:
@@ -2223,6 +2230,7 @@ https://api.svix.com/ingest/api/v1/source/src_3387PLMB2uhXOBe3Q8sHu/in/3j2jokvba
 https://api.sync-master.online/v1
 https://api.sync-master.online/v3
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://api.weatherlive.world/br_upgrade/upgradeV2/getConfigs
 https://api.wigetticks.com/logout/private-response.php?8D1V4th3
 https://api.wiresguard.com/api/FileUpload/submit
 https://api.wiresguard.com/api/Info/submit
@@ -3331,6 +3339,11 @@ https://orglli.com/ftx/
 https://ose.668ddf.cc/tuiliu/group.html
 https://osec2.668ddf.cc/tuiliu/group.html
 https://oslik.clayhusas.sbs:4793/
+https://oss.showtimetool.com/...png
+https://oss.showtimetool.com/ssc/2025/12-07/[REDACTED].png
+https://oss.showtimetool.com/ssc/2026/03-09/[REDACTED].png
+https://oss.showtimetool.com/ssc/2026/07-04/[REDACTED].png
+https://oss.showtimetool.com/ssc/2026/08-13/[REDACTED].png
 https://ostmarketing.com/
 https://ototaikfffkf.com/fffa.js
 https://ouilov.com/zxc/kito
