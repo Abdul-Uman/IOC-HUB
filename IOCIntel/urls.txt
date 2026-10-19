@@ -10,6 +10,7 @@ http://103.86.86.244:800/Gateway/deploy_silent1.Ps1
 http://103.86.86.244:800/Gateway/r.Zip
 http://103.86.86.244:800/V/deploy.Ps1
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
+http://104.248.17.222:80/linux-update-repos.elf
 http://107.172.135.60/96/ibredgoodforbestthingscomingbackform.hta
 http://107.172.235.213/87/img_015059.png
 http://107.175.82.242:9000/wilow/psychedeliclove.exe
@@ -58,6 +59,7 @@ http://149.154.167.99:443
 http://149.248.11.71/rest/apisession
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
 http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
+http://154.205.145.179:8000/ligolo-mp_linux_amd64
 http://154.58.204.15
 http://154.82.81.205/YD20251001143052.zip
 http://154.82.81.205/YD20251001143052.zip'
@@ -160,6 +162,7 @@ http://202.144.192.29/download2/Themes2.zip
 http://206.82.6.22/
 http://207.148.79.178:6608/sys.sh
 http://207.189.11.170/Bin/working_payload.cs
+http://209.141.43.95/files/kw2-freebsd-x64-s11;chmod$
 http://209.99.186.235:8443/api/agent/full?arch=amd64
 http://212.192.241.62/base/api/statistics.php
 http://212.193.30.45/proxies.txt
@@ -329,6 +332,12 @@ http://59.7.217.245:7070/app2
 http://59.7.217.245:7070/c.sh
 http://60.30.147.18:8091/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://62.113.115.89/homepage/infile.php
+http://62.113.66.137/WindowsUpdateService.ps1
+http://62.113.66.137/WindowsUpdateService.vbs
+http://62.113.66.137/comhost.exe
+http://62.113.66.137/libcrypto-3.dll
+http://62.113.66.137/libssl-3.dll
+http://62.113.66.137/ssdpdrv.exe
 http://64.7.198.66/resosk443.exe
 http://64.7.199.177:18899/93.187.56.19
 http://64.94.85.67:443/update_c08937.pl
@@ -1714,6 +1723,8 @@ http://union.macoms.la/jquery.min-4.0.2.js
 http://update-teams.live/teams
 http://update.dubbedmuch.cc/
 http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
+http://updates-check-microsoft.ddns.net/1.pdf
+http://updates-check-microsoft.ddns.net/MicrosoftOfficeUpdate.zip
 http://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf
 http://urutyka.com/xxx/viewer32
 http://usersecuritycheck.com/12.mp4
@@ -3137,6 +3148,7 @@ https://ksdkgsdkgkgmgm.pro/ofofo.js
 https://ksfldfklskdmbxcvb.com/-
 https://ksfldfklskdmbxcvb.com/admin/
 https://ksfldfklskdmbxcvb.com/gigi?ts=1765169670
+https://ktxapp.com
 https://kvrnjr30.apexharvestor.digital
 https://kyverr.clayfenrirhuy.top/login
 https://kzagniw.es/LI6vGlx7@1wPztdy
