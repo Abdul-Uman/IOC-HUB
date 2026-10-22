@@ -81,8 +81,10 @@ http://162.0.239.85:3000/task/package.json
 http://162.0.239.85:3000/task/tokenlinux?token=30621301&st=eyJhbGciOiJIUzI1NiIs...
 http://162.33.177.16/CFBatFIX/7sjVtn0zPVjMZzkxZ.MOa
 http://162.33.177.16/CFBatFIX/install.pyc
+http://162.33.178.213:8888/clear-thinking_61.92.4_INSTALL.exe
 http://164.68.120.30:550/99/Skype.ps1
 http://166.88.11.10/upload/check.asp
+http://167.148.201.106:725/fakeurl.htm
 http://172.111.200.133:8080/admin/
 http://172.111.200.133:8090
 http://172.111.200.133:8090/login
@@ -668,11 +670,14 @@ http://aquacomplect.ru/aqua.docx
 http://aquacomplect.ru/complex.hta
 http://ardt.info/tmp/
 http://as.al/file/KBn1RC.
+http://ashevilleroofingcontractor.com/curl/bc9e2dac08fb4f83dddb44f89bf7082bb4134697fbf6a99ad8ce30c634e9fe8a
 http://aspeimoveis342235.online/
 http://audit.checkmarx.cx:443
 http://auth.qgtxtebl.workers.dev
 http://auth.samecloud.o-r.kr/index.php
 http://auth.wizvera.o-r.kr/index.php
+http://auto.c3pool.org:80
+http://auto.skypool.xyz:6666
 http://avenger-sync.live/api/sync
 http://awqhnjewqjkl.icu/cdn-cgi/rum
 http://ax29g9q123.anondns.net
@@ -1051,6 +1056,7 @@ http://govtop.one/incometax
 http://gqjs3ra34lyuvzb.xyz
 http://grasmertal.com/live/
 http://greotipu.com.es/pee/livepanel
+http://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/timer6
 http://grinvan.com/vims/browser/
 http://gsbauwu1hsa.legalaro.com/nmasn/
 http://guest03442-booking.com/17149438
@@ -1298,6 +1304,7 @@ http://metakit.fireant.vn/Software/setup.exe
 http://metakit.fireant.vn/Software/version.xml
 http://mewo.oceanic-node.su:3443
 http://microsoft-telemetry.at/cvdfnaFJBmC0/index.php
+http://mine.c3pool.com:13333
 http://minemine.gleeze.com:8443/ws
 http://mines.cloudapi.stream/auth_google
 http://mines.cloudapi.stream/slot_test/
@@ -1379,6 +1386,7 @@ http://openpediatrics.site/S/main.html
 http://openshield.canatrace.com/download-free-can/
 http://opi7.com
 http://order.edrennikov.ru/jquery-3.3.1.min.js
+http://orders-amazon-com.advancedfences.com/?gadsource=1&gadcampaignid=24300910299&gbraid=0AAAAAB5-hUQ67k8UWBU5316Kpe0DHQvLm&gclid=Cj0KCQjw5vLVBhCiARIsAD56SFKcNIrijpItFZHromjAHhVv8sQjArpaK4rTubr7G3kENmeATgbev2QaAs7pEALw_wcB
 http://ose.668ddf.cc
 http://ose.668ddf.cc/tuiliu/group.html
 http://osec2.668ddf.cc
@@ -1867,6 +1875,7 @@ http://www.jsonkeeper.com/b/RZATI
 http://www.jsonkeeper.com/b/T7Q4V
 http://www.jsonkeeper.com/b/VBFK7
 http://www.keewoom.co.kr/prod_img/201409/prod.php
+http://www.litellm.dev/healthcheck
 http://www.loopaai.ru
 http://www.massnetworks.org
 http://www.murlauncher.com/fenrir-launcher
@@ -2174,6 +2183,7 @@ https://aesthetic-donut-1af43s2.netlify.app/index/file/A_Introduction_Docs_v0054
 https://af-itsolutions.pt/mail/
 https://afford-effect-construct-tricks.trycloudflare.com
 https://afpsat.pt/cbb/
+https://agent.afahimsa.top/meshagents?id=4&meshid=DSZSDHzU1YSP83eNnHzSUfPPt5MFUC3UadztK7UJWbWttVfTo$auq8StiVu0p6ND&installflags=0
 https://agenticsora.com/ledger/
 https://agenticsora.com/loader/agent/
 https://agenticsora.com/loader/capture-agent/
@@ -3002,6 +3012,7 @@ https://greatstartapp.com/serp.php?v=1.0.1&id=mccmkaicbneobeclkbloeoopcfeipmio&q
 https://greenporn.mobi
 https://greenwayauto.sale/
 https://greenxeonsr.info/Jsdfwejhrg.rko
+https://grillmasterchef.com/90e4a147-1234-505c-a024-062e543b5df8/v6
 https://grumhit.com/z/report
 https://grupo-sk.com/mail/
 https://guest03442-booking.com/17149438
@@ -3155,6 +3166,7 @@ https://kejiwei.vip/
 https://kenandy.shop/paidy/ubmisionsjp/
 https://kerstpakketten.horesca-meppel.nl/wp-content/plugins/woocommerce/lib.php
 https://khemacharya.com.np/ftx/
+https://kiriosyka.com/KsxmmKiN5N0j/sqr-viewertr6
 https://kitchen-canvas.com/
 https://kittimasszazs.hu/images/virag.php
 https://kkkhhhnnn.com/api/open/postByTokenpocket
@@ -3196,6 +3208,7 @@ https://link.storjshare.io/raw/jv5uebuqwzfpmtahj34q753ptykq/node/BATPackageBulde
 https://link.storjshare.io/raw/jvsmdybqmvwep2oawbobp6ub7aza/node/node-v24.15.0-x64-86.exe
 https://link.trustwallet.com/open_url?coin_id=60&url=https://swift-wallat-usdt-send.netlify.app
 https://linked-log.com/
+https://liokida.com/KsxmmKiN5N0j/sqr-viewertr6z
 https://listsoft-update.site/
 https://lite.trustnik.sbs/login
 https://litter.catbox.moe/zqqxb3.txt
@@ -3716,6 +3729,8 @@ https://stats.us3.org/matomo.php
 https://stellacompton.com/ftx/
 https://stg.lsmartv.com:8443/Divide/developement/GIZWQVCLF
 https://stg.lsmartv.com:8443/Originate/contacts/CX4YJ5JI7RZ
+https://sthyjk.com:8443/
+https://sthyjk.com:8443/clear-thinking_61.92.4_INSTALL.exe
 https://still-smoke-8dac.matthewrobertoo6467.workers.dev/en/
 https://store.grafsynergy.com/media/apple.png
 https://store.grafsynergy.com/media/goyim
