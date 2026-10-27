@@ -157,6 +157,7 @@ http://1stpubs.com/cgi-sys/suspendedpage.cgi
 http://1stpubs.com/set.exe
 http://1stpubs.com/taskhs.exe
 http://1stpubs.com/tasks.exe
+http://1x0.is/ws
 http://2.59.133.147:31338/ins.txt
 http://2.59.133.147:31338/sm.json
 http://200.107.207.15/37:
@@ -234,6 +235,7 @@ http://3pubss.com/taskhs.exe
 http://3pubss.com/tasks.exe
 http://3v5w1km5gv.xyz
 http://3v5w1km5gv.xyz/group.html
+http://3zciedc3enu4muwc5adxciyk6u3juhvhvbv6bfrk2arawlvb7k7ovxad.onion:443
 http://404.008php.com/
 http://404.008php.com/zz/u.php
 http://404.300bt.com/index.php
@@ -974,6 +976,19 @@ http://enhanced.jeetbot.cc/set-token
 http://entrinidad.cfd/1/verify.sh
 http://ericwbailey.website/published/accessibility-preference-settings-information-architecture-and-internalized-ableism
 http://es-koerier.nl/tmp/
+http://escapeai.live/ICMacOs?arch=
+http://escapeai.live/ICMacOs?arch=amd64
+http://escapeai.live/ICMacOs?arch=arm64
+http://escapeai.live/api/build_config
+http://escapeai.live/api/build_config.
+http://escapeai.live/icmacos_run_v2.command
+http://escapeai.live/icmacos_run_v2.command?t=
+http://escapeai.live/loader_v2.sh?build=
+http://escapeai.live/payload.py
+http://escapeai.live/payload.py.
+http://escapeai.live/upload
+http://escapeai.live/upload.
+http://escapeai.live/ws?mac_id=
 http://eshareflies.im/ad/
 http://essaywritingservice.site/S/main.html
 http://eu03hub.com/get_file?file=2Ec6QYynajHw
@@ -2098,6 +2113,8 @@ https://1kickbet1.com/
 https://1rpc.io/sepolia
 https://1rpc.io/sepolia'
 https://1win-giris.com.co/
+https://1x0.is/ws
+https://1x0.is/ws/
 https://1xbete.org/
 https://1xbetgiris.cam
 https://212.193.30.29/assets/index-CxeLM22L.js
@@ -2297,6 +2314,7 @@ https://amepiequipamentos.com.br/ftx/
 https://americanmovingco.org/ftx/
 https://americanprgoress.top/chrome_cleanup.exe
 https://ams1.vultrobjects.com/micbucket/Temp/0412.mp4
+https://analytics.convertr.app.br/js/script.pageview-props.tagged-events.js
 https://andrefelipedonascime1778799406970.2241107.meusitehostgator.com.br/GpazlLUWIJ_14_05_Meus_ArquivosDeTexto/02.txt
 https://anygg.liquorfight.com/88k4ez/group.html
 https://anyproductmanual.com/
@@ -3653,6 +3671,8 @@ https://refundonex.com/cloud/
 https://reminders.trahum.org/Scheduled_Internet_Outages.doc
 https://res54allb.xn--xkrsa0078bd6d.com/group.html
 https://resilientlimb.icu/script.sh
+https://resolvecenprot.com/pdf
+https://resolvecenprot.com/pdfatt/agent777.msi
 https://restaurantchezhenri.ca/
 https://restaurantefialho.pt/mail/
 https://resumeacceptable.com
@@ -3967,6 +3987,7 @@ https://unica.md/
 https://unityprogressall.org/imagecontent/getimgcontent.php?id=
 https://unlockk.play-google-store.ru
 https://update-check.com/m/7d8df27d95d9
+https://update.cdnlinks.org/ReportPDFReader.exe
 https://update.ecols.ru:8443/jquery-3.3.1.slim.min.js
 https://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf
 https://upstar.pics/a/08/150822/up/up
