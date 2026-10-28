@@ -347,6 +347,8 @@ http://62.113.66.137/libssl-3.dll
 http://62.113.66.137/ssdpdrv.exe
 http://64.7.198.66/resosk443.exe
 http://64.7.199.177:18899/93.187.56.19
+http://64.89.163.3/idfc/1/api/`
+http://64.89.163.3/pnb/1/api/`.
 http://64.94.85.67:443/update_c08937.pl
 http://64.94.85.67:443/update_result_3567cs.tgz
 http://64.95.13.238/payload.php'
@@ -677,6 +679,7 @@ http://approvalrequest-api.com/55555555.mp4Type:
 http://appstoreconn.com
 http://appstoreconn.com/xmweb/group.html
 http://appview.imagetemplate.com/gateless_icon
+http://aptabase.fud2026.xyz:8443
 http://aquacomplect.ru/aqua.docx
 http://aquacomplect.ru/complex.hta
 http://ardt.info/tmp/
@@ -1536,7 +1539,9 @@ http://recaptcha-verify-4h.pro/xfiles/kangarooing.vsdx
 http://recaptcha-verify-4h.pro/xfiles/verify.mp4
 http://redhouserecords.info/
 http://refundonex.com/cloud/
+http://relay.bobdthjau.com:8041
 http://relay.eurofin.digital:8041
+http://relay.pronconetydesire.online:8041
 http://remnane.biz:5692
 http://rengular11.today/
 http://res2erch-sl0ut.com/debug/payload.applescript
@@ -3925,6 +3930,9 @@ https://tdk.jmfwy.com/tdk.php?domain=%s\u0026path=%s
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamidcrz/
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamsid.php
 https://teamlogin.esanojinjasvc.com/teamesano/drivers/teamzid.php
+https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com
+https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com/teams/14/enroll14.php
+https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com/teams/?c4ca4238a0b923820dcc509a6f75849b
 https://teams.manitosdemailen.cl/Interview/peer/invite.php
 https://tecnofrancoaccesorios.com/ftx/
 https://tecnoproj.eng.br/ftx/
@@ -4118,6 +4126,7 @@ https://web-devtools.com/x32remka
 https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi
 https://web.florarevival.com:443/download/a6d6u9ff13?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=6
 https://web04zoom.im.web04zoomp.us/Windows/invite.php
+https://webdocusign.viewportal.es/Windows/download/index.php
 https://welcome.supp0v3.com
 https://welcome.supp0v3.com/d/callback
 https://welnetsanda.org/images/upload/logo.png/
