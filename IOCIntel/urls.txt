@@ -1485,6 +1485,7 @@ http://perfectlinestarter.com/scripts
 http://perplexity-ai.online/
 http://perplexity-ai.online/*
 http://perplexity-ai.online/search/
+http://phantom.bonto.io/config
 http://phillips66shop.com/
 http://pipeline.embeddedonline.org/check.php?x-csrf-token=gateless
 http://pipeline.embeddedonline.org/download3.php?sessid=54126&user-token=gateless
@@ -1914,6 +1915,7 @@ http://wellnesscaremed.com/venezia/d/sd
 http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=
 http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
 http://wfsdragon.ru/api/setStats.php
+http://wikileaks2.site/
 http://windefender.net:443
 http://windowsupdates.us:80
 http://windwsecurity.run:443
@@ -2501,6 +2503,7 @@ https://billeteriecelinedion.com/en/
 https://bimb.claybaster.top/login
 https://binancealliancesintro.com/group.html
 https://birancearea.com/adminv2
+https://bitget.bonto.io/
 https://bjsffsj.sbs
 https://bkngpropadm.com/bomla
 https://bkngssercise.com/bomla
@@ -3272,6 +3275,8 @@ https://jp.jbtz001.com/lunlian/index.php
 https://jsonapi.biz
 https://juneuk25.cfd/personalfoxypdf.msi
 https://jungutah.com/
+https://jupiter.bonto.io
+https://jupiter.bonto.io/
 https://justsstop.ru/
 https://k-wbc.co.kr/skin/social/social_view.php
 https://k96.icu/group.html
@@ -3593,6 +3598,8 @@ https://persistancejs.store/work/original.js
 https://petricgreen.info/BWN9ZAP.xn--rko;-ib7a
 https://petricgreen.info/RPXFD38WAPR7.xn--rko;$j=$env:tmp-0y9h
 https://pgwin-88.com
+https://phantom.bonto.io/
+https://phantom.bonto.io/config
 https://pharmahubbd.com/ftx/
 https://phillips66-carros.site/
 https://phillips66-carros.site/.
