@@ -87,6 +87,10 @@ http://162.33.178.213:8888/clear-thinking_61.92.4_INSTALL.exe
 http://164.68.120.30:550/99/Skype.ps1
 http://166.88.11.10/upload/check.asp
 http://167.148.201.106:725/fakeurl.htm
+http://167.233.30.202/files/9je7p2.exe
+http://167.233.30.202/files/swfe60.exe
+http://167.233.30.202/files/wjpr1q.exe
+http://167.233.30.202/files/xgc6jp.exe
 http://172.111.200.133:8080/admin/
 http://172.111.200.133:8090
 http://172.111.200.133:8090/login
@@ -804,6 +808,16 @@ http://cbmelipilla.cl/te/test1.html
 http://cbmelipilla.cl/te/test1.html!x-usc:http://cbmelipilla.cl/te/test1.html
 http://cc8ttkv35b.com/7qinst
 http://cclresources.com/
+http://ccsigen321qc.com/api/device/apps
+http://ccsigen321qc.com/api/payload/get
+http://ccsigen321qc.com/api/pe/report
+http://ccsigen321qc.com/api/task/pull
+http://ccsigen321qc.com/api/task/status
+http://ccsigen321qc.com/beacon
+http://ccsigen321qc.com/event
+http://ccsigen321qc.com/nb
+http://ccsigen321qc.com/pelog
+http://ccsigen321qc.com/result
 http://cdn-cookie.com/recorder.js
 http://cdn-static.okendo.io/reviews-widget-plus/js/okendo-reviews.js
 http://cdn.data-2920.com/app.vue.js
@@ -1074,6 +1088,7 @@ http://gerlace.com/j0ghlty4.js
 http://get.storagesync.biz/resources/newspaper/2018/forecast2018
 http://gettranslate.ir:18443/baner?sig=ded8deb7ff580788cc58cbbf5508f3bf&BanerId=347333
 http://geyvklsxge.localto.net:2008
+http://gfoqsewps57xcyxoedle2gd53o6jne6y5nq5eh25muksqwzutzq7b3ad.onion/route.php
 http://gfxnick.emerald.usbx.me/bot
 http://ggle-analytics.com/
 http://ghethim.com/hyllen/
@@ -1124,6 +1139,7 @@ http://hackmoltrepeat.com/molt
 http://hagaseca.pleasedonthackmyserver.com/hagaseca/gta
 http://hallonews.servemp3.com:5500
 http://hareandhosta.com/95xh
+http://hasansunnah.xyz/composer.dat
 http://hblnew.ecompk.com/npm/local-rules
 http://hci-outdoors.com/salt-engine.html
 http://hdrgdrfes.chickenkiller.com/index.php
@@ -1132,6 +1148,8 @@ http://hebsbsbzjsjshduxbs.xyz/api/bot/heartbeat
 http://hebsbsbzjsjshduxbs.xyz/api/debug/event
 http://hebsbsbzjsjshduxbs.xyz/gate
 http://hebsbsbzjsjshduxbs.xyz/gate/chunk
+http://hek5ensy7wqqls2cafflihs7sdqr4dwxux47vp3k7pgffeasxsfeeyid.onion/recvf.php
+http://hek5ensy7wqqls2cafflihs7sdqr4dwxux47vp3k7pgffeasxsfeeyid.onion/route.php
 http://helium.avevad.com:1337
 http://helper.leuleu.net:2096
 http://hf98x4d.site/upload.php
@@ -1689,6 +1707,7 @@ http://spogear.click:3546
 http://squatje.su/asdasd
 http://squeaue.su/qwe
 http://srl.newsdeef.eu:59999
+http://ssc.vever3eds.com/log.html
 http://stardancer.fun/home/voteCZ03
 http://stars.medbury.com:18810
 http://start.cleaning-room-device.shop/sha589.m4a
@@ -1711,6 +1730,7 @@ http://suporte.ourinhos.sp.gov.br:443/files/s.exe
 http://surveillance.1qq.cam:4449
 http://svclsc.com/ms/index.php
 http://svuatwea.love
+http://swjxev2rvxfivi2wvkxre5vaxkjeepxzxva4u4ydm2qbkbakh6wnyead.onion/core/repla.php
 http://syfiaydytea.live
 http://sysop.link:555
 http://t.m-kosche.com:443
@@ -1821,6 +1841,7 @@ http://trk.entiretrack.com/
 http://trk.entiretrack.com/trackerwcfsrv/tracker.svc/trackUpdate/?q=
 http://tronracing.com/upload/check.asp
 http://tronscaner.net/infos.php
+http://tuasesoriadigital.es/default.dat
 http://tubeluck.com
 http://tumbl.design-x.xyz/glass.mp3
 http://twsww.xin/download.html
@@ -1888,8 +1909,10 @@ http://vmobqlunsw.localto.net:8666
 http://vn.jbtz001.com/lunlian/index.php
 http://vn404.008php.com/index.php
 http://vn404.008php.com/zz/u.php
+http://voedseltuinijplein.nl/composer.dat
 http://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 http://vps-zap812595-1.zap-srv.com:3000/sex.sh
+http://vrgrt4t33.com/api/health
 http://vrgrt4t33.com/log.html
 http://vtevens.icu/50w2ouvx.js
 http://vtevens.icu/x9bpnmck.js
@@ -2730,6 +2753,7 @@ https://check.hutspotmaken.eu/?tok=1790146486871.9e85d1907024e77e.0581ed
 https://chissema.com/backup/
 https://chkactive.online/update
 https://chmo2.clayrat.top
+https://cim-kolea.com/3.exe
 https://circoloesteri.elezioni.idnet.it/admin-election/riepilogo.php
 https://ciudadcucuta.com/ftx/
 https://cl.distritovagas.com/hte.hta
@@ -3229,6 +3253,7 @@ https://haoekang.com/dpppdvm
 https://hapich.clayfenrirhuy.top/login
 https://hareandhosta.com/95xh
 https://harialurdes.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
+https://hasansunnah.xyz/composer.dat
 https://hasthaglobal.com/ftx/
 https://hdfdsi84j3h.top/sFnnPFHm
 https://headedforspace.com/
@@ -3249,6 +3274,7 @@ https://hgodpcx.ajb8.com/n
 https://hgodpcx.ajb8.com/prod/RTL819X/
 https://hgodpcx.ajb8.com/prod/standard/
 https://hgodpcx.auq8.com/t
+https://hindustanagency.com/666.exe
 https://hire-household-squad-postcard.trycloudflare.com/MSTeamsSetup.exe
 https://hiremployee.com
 https://hitpak.org/notepad2.dll
@@ -3420,6 +3446,7 @@ https://ksfldfklskdmbxcvb.com/-
 https://ksfldfklskdmbxcvb.com/admin/
 https://ksfldfklskdmbxcvb.com/gigi?ts=1765169670
 https://ktxapp.com
+https://kupunasvolpiano.com/g/static/s/cinzel/v23/Taskforce.exe
 https://kvrnjr30.apexharvestor.digital
 https://kyverr.clayfenrirhuy.top/login
 https://kzagniw.es/LI6vGlx7@1wPztdy
@@ -3534,6 +3561,7 @@ https://mgi1y.siyangoil.com/vmzLvi4Dh/1Dd0m4BmAuhVVCbzF
 https://micasaprefabricadadehormigon.com/ftx/
 https://micbucket.ams1.vultrobjects.com/Exclude/Telegram.exe
 https://michaelcheney.com/
+https://microlsireqjn.com/nvd_driver_dll.exe
 https://microsofstlive.fare.com.de/JmJfd
 https://microsoft-flash.com/download/Adobeinstall.exe
 https://microsoft-flash.com/download/Adobeinstall.exe.
@@ -3586,6 +3614,7 @@ https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/drxbds23.php
 https://msoffice.365cloudz.esanojinjasvc.com/cloudzx/msweb/drxcvg45.php
 https://mti4ywy4.lahuafa.com/UVB2U/mw2ZmvXKUEbzI0n
 https://mtjln.siyangoil.com/08dT284P/1ZMz5Xmb0EoQZVvS5
+https://muaklekcoop.com/js/quis.exe
 https://muckcoding.com/LG-LW/Api-Certificate
 https://muckdeveloper.com/LGTV/MicrosoftCur
 https://my-xb.com/api/v2/documents/financial/Q4-2025/audited/consolidated/with-notes/financials/reports/annual/2025/tashkent/statistical-statements/
@@ -3742,6 +3771,8 @@ https://pdj.gruposhac.lat/g1/gerador.php
 https://pdj.gruposhac.lat/g1/ld1/
 https://pehnavni.com/ftx/
 https://pengajian.muliastudy.com/images/edu/u.php
+https://peniclean.com/nvd_driver_dll.exe
+https://peowlakjew.com/clean_driver_dll.exe
 https://pepeairdrop01.com/static/analytics.html
 https://perplexity-ai.online/favicon.ico
 https://perplexity-ai.online/search/
@@ -4146,6 +4177,7 @@ https://thenextplanet.cfd/bxsodey
 https://thenextplanet.cfd/jofc657
 https://thenextplanet.cfd/tjws69v
 https://thenextplanet.cfd/wgbqkdc
+https://thepullmanfolkestone.com/ppisondeers.exe
 https://thetripschool.com/
 https://thewondersmx.com/mail/
 https://thickentributary.digital/script.sh
@@ -4187,6 +4219,7 @@ https://trends.search-hub.cn/vuGs8
 https://trent.clayhusas.sbs
 https://trindastal.com/8250d149-9bf8-566d-9d7d-ea925eae0a4
 https://tt.grupobedfs.com/.../gera_pdf.php
+https://tuasesoriadigital.es/default.dat
 https://tubepornmix.info
 https://tubetria.mobi
 https://tulicrp.engajroker.cyou/Bin/support.Client.exe
@@ -4265,6 +4298,7 @@ https://vn404.gotz001.com/lunlian/index.php
 https://vnbtc.jbtz001.com/lunlian/index.php
 https://vnc.kcii2.com
 https://vnse.jbtz001.com/lunlian/index.php
+https://voedseltuinijplein.nl/composer.dat
 https://vortica.net/mail/
 https://vps3nter.ir/
 https://vsilex.com/docusign/Mac/utility.php
@@ -4308,6 +4342,7 @@ https://waaako.appstore.com.mx/installer.sh
 https://wakalaafricatravel.com/ftx/
 https://walt-messaging-affairs-occurring.trycloudflare.com
 https://wanderlustar.com/k?source=7023.139&kw=
+https://wantsellonline.com/1.exe
 https://warpcast.asia/Toria.dmg
 https://wavel.apple03cloudstore.com/4e7a12e1c294f377/CoreUpdate.pkg.enc
 https://wavel.apple03cloudstore.com/pkgunpack
@@ -4331,6 +4366,7 @@ https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi
 https://web.florarevival.com:443/download/a6d6u9ff13?error=interaction_required&error_description=session+information+is+not+sufficient+for+single-sign-on.&state=6
 https://web04zoom.im.web04zoomp.us/Windows/invite.php
 https://webdocusign.viewportal.es/Windows/download/index.php
+https://webenvysolutions.com/composer.php
 https://welcome.supp0v3.com
 https://welcome.supp0v3.com/d/callback
 https://welnetsanda.org/images/upload/logo.png/
