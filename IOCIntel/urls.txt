@@ -84,6 +84,7 @@ http://162.0.239.85:3000/task/tokenlinux?token=30621301&st=eyJhbGciOiJIUzI1NiIs.
 http://162.33.177.16/CFBatFIX/7sjVtn0zPVjMZzkxZ.MOa
 http://162.33.177.16/CFBatFIX/install.pyc
 http://162.33.178.213:8888/clear-thinking_61.92.4_INSTALL.exe
+http://162.35.99.94:8090/metabase-rce-139.162.86.33'
 http://164.68.120.30:550/99/Skype.ps1
 http://166.88.11.10/upload/check.asp
 http://167.148.201.106:725/fakeurl.htm
@@ -619,6 +620,7 @@ http://amormc.com/index.php?ndv5f1
 http://analytics.freshdatainsights.org/display/2025/uid_8oQRkgpvMSgmBFt9/WondershareApplicationManual.pdf
 http://anukitax.com/forminw9/
 http://anydeesk.ink/download/anydesk.html
+http://anyevonline.com:8000
 http://anygg.liquorfight.com
 http://anygg.liquorfight.com/88k4ez/group.html
 http://anywherehost.site/xb/runner.zip
@@ -1374,6 +1376,7 @@ http://mantis.quick.net.pl/library/securimage/index.php
 http://mapid.e-wl.com:9000/hook/mapid
 http://marriage-step-wave-heavy.trycloudflare.com:443
 http://marshmellowflowerscar.info
+http://mcstb.anyevonline.com:8000
 http://md.kleenghjah.com:4449
 http://media.modecoin.xyz/2Million%20Dollars%20Fraud%20At%20Zenith%20Bank
 http://mediumblog.online:4443
