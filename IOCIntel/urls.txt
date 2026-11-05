@@ -33,6 +33,9 @@ http://134.0.0.0
 http://135.181.123.177/api/service/makelog
 http://135.181.237.59:443
 http://135947.lachinadragon.com/
+http://136.0.141.71/static/cwpsrv_1.15.10
+http://136.0.141.71/static/cwpsrv_1.24.0
+http://136.0.141.71/static/cwpsrv_update.sh
 http://136.0.213.184:1337/api/kraken-numio
 http://137.184.126.86:8080/vmwaretools
 http://139.0.0.0
@@ -881,6 +884,7 @@ http://cobyrose.com/tmp/
 http://code.jquecy.com/jquery.min-3.6.8.js
 http://codegiant.io/dd/dd/dd.git/download/main/middleware.ts
 http://codon.vn/ext/xmshield.json
+http://coeuzgoq.bahisbiz.com//update.sh`
 http://cokakina.com/check/update.ps1
 http://com.apple.preference.security?Privacy_AllFiles
 http://comet.kickcharge.com/assets/images/in/?emp=
@@ -1367,6 +1371,8 @@ http://live.easyboxsync.com/resources/gup/notepad
 http://livemicrosft.com/meet/89035563931?p=9jXK14VFM8fObdKxfkake8tD7rPhzs.1
 http://lk4x6x2ejxaw2br.xyz
 http://lnstagram.com/wlsperrrrr/
+http://lo1yaizaeghaevarooD1ahtaichootae.nofrillsdns.com/script.sh
+http://lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com/$
 http://load.auraria.org/index.php
 http://load.erasecloud.n-e.kr/login.php
 http://load.serverpit.com/fwrite.php
@@ -1952,6 +1958,7 @@ http://vmobqlunsw.localto.net:5037
 http://vmobqlunsw.localto.net:5044
 http://vmobqlunsw.localto.net:6514
 http://vmobqlunsw.localto.net:8666
+http://vmware-timecheck-api.nofrillsdns.com:443
 http://vn.jbtz001.com/lunlian/index.php
 http://vn404.008php.com/index.php
 http://vn404.008php.com/zz/u.php
@@ -3572,6 +3579,8 @@ https://liva-fit.net/bc97hx8
 https://liva-fit.net/wh52t56
 https://liva-fit.net/xns3mg2
 https://livesocially.co/ftx/page.html
+https://lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com/$
+https://lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com/update
 https://load.erasecloud.n-e.kr/login.php
 https://load.serverpit.com/fwrite.php
 https://logger.powerium.net/register_event?user=dbdt&user_id=test2&bundle=&domain=&user_sha1=&exc=&name=test2&bt=&ai=&referer=&devicemodel=
