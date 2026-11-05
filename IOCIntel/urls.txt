@@ -699,6 +699,7 @@ http://aptabase.fud2026.xyz:8443
 http://aquacomplect.ru/aqua.docx
 http://aquacomplect.ru/complex.hta
 http://ardt.info/tmp/
+http://arusupport-region1-webhook.online/
 http://as.al/file/KBn1RC.
 http://ashevilleroofingcontractor.com/curl/bc9e2dac08fb4f83dddb44f89bf7082bb4134697fbf6a99ad8ce30c634e9fe8a
 http://aspeimoveis342235.online/
@@ -1236,6 +1237,7 @@ http://inewsmvo.com/set.exe
 http://inewsmvo.com/taskhs.exe
 http://info-payeasy.com/assets/index-DdmV8luQ.js
 http://info-payeasy.com/pages/overview.html
+http://insightjs.com/
 http://insinght.site/UpdateCheck/
 http://intem.lat:9592
 http://interxo.biz:7481
@@ -2427,6 +2429,9 @@ https://americanmovingco.org/ftx/
 https://americanprgoress.top/chrome_cleanup.exe
 https://ams1.vultrobjects.com/micbucket/Temp/0412.mp4
 https://analytics.convertr.app.br/js/script.pageview-props.tagged-events.js
+https://analytics.insightjs.com/
+https://analytics.insightjs.com/comm/assets/insight.bundle
+https://analytics.insightjs.com/px/
 https://andrefelipedonascime1778799406970.2241107.meusitehostgator.com.br/GpazlLUWIJ_14_05_Meus_ArquivosDeTexto/02.txt
 https://antaiyimin.com/cvx2mym
 https://anygg.liquorfight.com/88k4ez/group.html
@@ -2536,6 +2541,7 @@ https://arkanix.pw/stealer.py
 https://arkanix.pw/upload_dropper.py
 https://arkypc.com/curl/
 https://arkypc.com/n8n/update
+https://arusupport-region1-webhook.online
 https://arusupport-region1-webhook.online/statics/cache/v11/abicfjej
 https://as.al/file/KBn1RC
 https://aset.homelinuxserver.org/ftx/
@@ -3423,6 +3429,12 @@ https://innovizeltd.com/rxtzznr
 https://innovizeltd.com/vqrqyrj
 https://innovizeltd.net/89a665f9e5
 https://insight-sweet-drainage-appreciated.trycloudflare.com/log
+https://insightjs.com/
+https://insightjs.com/l.js
+https://insightjs.com/l.js?f=aegis
+https://insightjs.com/l.js?f=feedlist
+https://insightjs.com/l.js?f=images
+https://insightjs.com/l.js?f=vue
 https://install.app-distribution.net/setup/
 https://insureongo.net/ftx/
 https://intgflow.mypi.co/accept/docusign/Windows/utility.php
@@ -3707,6 +3719,10 @@ https://mysql.vecedoo.online/JB5ow79@fKst02/#EMAIL_ADDRESS
 https://myvideolibrary.info/search.php?q=
 https://mziyytm5ytk.ahroar.com/kAN2pIEaariFb8Yc
 https://n49.top/group.html
+https://na-webassets.playerinfinite.com/comm/assets/lib/vue-bucket.min.js
+https://na-webassets.playerinfinite.com/comm/nikke_launcher/assets/FeedList.feb647c9.js
+https://na-webassets.playerinfinite.com/comm/nikke_launcher/assets/images.7fec4c32.js
+https://na.fleetlogd.com/fleet.repo.game.ReportGather/GuestReport
 https://nama-belakang.nebao.icu/statistics/discover.txt
 https://naprakeszingatlan.hu/wp-mail/
 https://naryncity.kg/minjust.gov.kg/kgnotary.rar
@@ -3897,6 +3913,7 @@ https://pkg-metrics.official334.workers.dev/drain
 https://pkg-metrics.official334.workers.dev/exfil
 https://planer7.online/vnpwr6n
 https://platecrumbs.com/11z77u3.php
+https://playerinfinite.com/
 https://players1.clayhusas.sbs
 https://playgoogle-gpttrade.com/GPT%20Trade.apk
 https://plist.ztyfv.com/d/4F48MCiqtsjDCS7QOWs3KU.plist
@@ -4065,6 +4082,10 @@ https://setseta.com/
 https://setseta.com//set.exe
 https://setseta.com//taskis.exe
 https://seven7.vip/group.html
+https://sg-gpts.playerinfinite.com/comm/assets/lib/aegis-fix.min.js
+https://sg-gpts.playerinfinite.com/comm/assets/lib/vue-bucket.min.js
+https://sg-gpts.playerinfinite.com/comm/nikke_launcher/assets/FeedList.feb647c9.js
+https://sg-gpts.playerinfinite.com/comm/nikke_launcher/assets/images.7fec4c32.js
 https://sgp1.vultrobjects.com/downloads/pictory/Pictory_premium_ver9.0.4.exe
 https://sgp1.vultrobjects.com/jttrepijgdb/Artificial%20intelligence.pptx
 https://sgp1.vultrobjects.com/jttrepijgdb/efg_d4.zip
@@ -4194,6 +4215,7 @@ https://suporte.camaratunapolis.sc.gov.br/ti/attvpn.zip
 https://support.ms-live.us/301631/check
 https://support.ms-live.us/register/22989524464UcX2b5w52
 https://support.ms-live.us/update/02583235891M49FYUN57
+https://supportaru.serveftp.com/statics/cache/v11
 https://supportaru.serveftp.com/statics/cache/v11/
 https://sv-management.aaltink.com/wix/verification.php
 https://sv-management.eco-fin-service.it/wix/verification.php
@@ -4548,6 +4570,8 @@ https://www.incofar.it/js/jquery/plugins/ajaxfileupload/mag.txt
 https://www.iru.com/blog/atomic-stealer-amos-returns
 https://www.iru.com/blog/minirat
 https://www.jsonkeeper.com/b/QJZCG
+https://www.jupiterlauncher.com/
+https://www.jupiterlauncher.com/api/v1/fleet.repo.game.RepoSVC/GetVersion
 https://www.keep-porn.com/
 https://www.ksog.org/insert_file/handle.php
 https://www.letsdiskuss.com/user/dhuahsd12d2752
@@ -4562,6 +4586,7 @@ https://www.mnmathleague.org/ckeditor/adapters/index.php
 https://www.movsmo.net/
 https://www.mrtb.gov.ng/apps/attvpn.vip
 https://www.murlauncher.com/fenrir-launcher
+https://www.nikkelauncher.com
 https://www.onworks.net/software/windows/app-hardware-visualizer
 https://www.pathfindertravels.se/tickets/
 https://www.pbfenergy.com/
