@@ -580,6 +580,7 @@ http://a111.life/guard.html
 http://aab.sportsontheweb.net/x.php
 http://abramge.com.br/drive/itpresented//
 http://account.romnor.ca/go
+http://accurasofthire.com/notification-settings-win?download=1
 http://actedsda.cfd/assets/ACTED
 http://activatecapagm.com/j8r3
 http://ad.starx-net.com:8881/telemetry/v12
@@ -2358,6 +2359,11 @@ https://absolutecaninepa.com/DocuSign/Mac/utility.php/download/index.php/downloa
 https://accessor.fud2026.com/libmine-
 https://account.celine-dion-arena.com/authentication/login?client_id=4983cefd-9810-444e-9eb0-64b4933878eb&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D4983cefd-9810-444e-9eb0-64b4933878eb%26locale%3Den-US%26nonce%3Dc4f2c148-2acb-4684-b19e-097d64ab8dd6%26redirect_uri%3Dhttps%253A%252F%252Faccount.celine-dion-arena.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNArFqrbMvKRksSv7JganvH
 https://account.ticketmaster-celinedion.fr/authentication/login?client_id=7e7dbd4b-c5a9-4d4e-af60-64fd673ea525&locale=en-US&redirect_uri=%2Fauthentication%2Foauth%2Fauthorize%3Fclient_id%3D7e7dbd4b-c5a9-4d4e-af60-64fd673ea525%26locale%3Den-US%26nonce%3Dcdc91d10-2a95-4f80-92cd-ba9204a5edd7%26redirect_uri%3Dhttps%253A%252F%252Faccount.ticketmaster-celinedion.fr%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNAmhJgfrrdQ1bVJJXLbgCh
+https://accurasofthire.com
+https://accurasofthire.com/camera-driver/ack
+https://accurasofthire.com/camera-driver/setup-linux
+https://accurasofthire.com/camera-driver/setup-mac
+https://accurasofthire.com/camera-driver/setup-win
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://acrobat-updater.com/5f109e7bb3df4dea81946f2f853da288
 https://acrobat-updater.com/api/v2/acrobat/latest
@@ -2462,12 +2468,16 @@ https://api-prod.secboxes.com:443/download
 https://api.3n7wj.com
 https://api.clearit.sbs/test
 https://api.clearit.sbs/uploadfiles
+https://api.cloudfareproxy2618.xyz
 https://api.dc1637.xyz
 https://api.dgjm.online/analysis/init
 https://api.dgjm.online/lib?pageNumber=1&pageSize=10000&status=1
 https://api.dgjm.online/lib?pageNumber=1&pageSize=10000&status=1&channel=sp003
 https://api.flashstore.sbs/test
 https://api.flashstore.sbs/uploadfiles
+https://api.frameworkmetrics.xyz/v1/analytics
+https://api.frameworkmetrics.xyz/v1/electron
+https://api.frameworkmetrics.xyz/v1/swarm/report
 https://api.githubcopilot.com
 https://api.hellknight.xyz/js
 https://api.ipapi.is
@@ -2508,6 +2518,7 @@ https://api.svix.com/ingest/api/v1/source/src_3387PLMB2uhXOBe3Q8sHu/in/3j2jokvba
 https://api.sync-master.online/v1
 https://api.sync-master.online/v3
 https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://api.testylhg24.online
 https://api.weatherlive.world/br_upgrade/upgradeV2/getConfigs
 https://api.wigetticks.com/logout/private-response.php?8D1V4th3
 https://api.wiresguard.com/api/FileUpload/submit
@@ -2909,6 +2920,7 @@ https://crazybubble.pt/data/
 https://crazybubble.pt/mail/
 https://creativetrendwatcher.be/mail/
 https://crediadvisor.pt/inicio/
+https://creepexplosiondarknight.com/d
 https://cremeb.com/af15d5f?p=48502c50-a504-4811-aab8-ba978aeae237
 https://cremeb.com/b216890758c64daa8ad01e251df36f36.jpg
 https://cremeb.com/kremlin?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
@@ -3386,6 +3398,7 @@ https://howto-tar-naturals-coordination.trycloudflare.com
 https://hrs2y15sungu.com/d&pushd
 https://hs8.krakenfiles.com/uploads/15-02-2026/JCaF7rrPQm/image.png.
 https://hsauyeet.live
+https://hsreg.youkureg510.xyz
 https://hurmadll.com/twenty.mp4
 https://hurmadll.com/twenty.mp4Type:
 https://hurricanepub.com/include/include.php
@@ -3569,6 +3582,7 @@ https://leqdger.click/ssl/
 https://lifecoachshefali.com/ftx/
 https://lifespotify.com/api/users/b879746e-fed9-4211-a6da-4d8223681267/otp/validate
 https://likeporn.mobi
+https://line.yongli250627linecfg.xyz
 https://link.storjshare.io/raw/jv5uebuqwzfpmtahj34q753ptykq/node/BATPackageBulderSetup.bat
 https://link.storjshare.io/raw/jvsmdybqmvwep2oawbobp6ub7aza/node/node-v24.15.0-x64-86.exe
 https://link.trustwallet.com/open_url?coin_id=60&url=https://swift-wallat-usdt-send.netlify.app
@@ -3995,6 +4009,12 @@ https://redoc.dn3.co/ftx/
 https://redronic.com/
 https://refundonex.com/admin/
 https://refundonex.com/cloud/
+https://reg.alibabareg0303.com
+https://reg.baidureg0621.xyz
+https://reg.baidureg0627.xyz
+https://reg.gitshreg611.xyz/device/register
+https://reg.gitshreg611.xyz/device/register|bydbikeend
+https://reg.gptreg0706.xyz
 https://reminders.trahum.org/Scheduled_Internet_Outages.doc
 https://res54allb.xn--xkrsa0078bd6d.com/group.html
 https://resilientlimb.icu/script.sh
@@ -4367,6 +4387,8 @@ https://unitedkrew.com/zcwr5uu
 https://unityprogressall.org/imagecontent/getimgcontent.php?id=
 https://unlockk.play-google-store.ru
 https://uouso.net/139083e063d4a160
+https://up.logupload0628.xyz/app/log/raw/report
+https://up.logupload0628.xyz/app/log/raw/report.
 https://update-check.com/m/7d8df27d95d9
 https://update.cdnlinks.org/ReportPDFReader.exe
 https://update.ecols.ru:8443/jquery-3.3.1.slim.min.js
@@ -4568,6 +4590,7 @@ https://www.dwservice.net/
 https://www.f1ash.org.cn/flashcenter_pp_ax_install_cn.exe
 https://www.ferienhausdehaanmieten.de/
 https://www.foxmediagency.com/download/qqa36sa0d6fq066?error=interaction_required&error_description=Session+information+is+not+sufficient+for+single-sign-on.&state=o1
+https://www.game250522linecfg.xyz
 https://www.gehie246.com/712down
 https://www.ghiseul-ro.bond/ghiseul/public/
 https://www.ghiseul-ro.cfd/ghiseul/public/
@@ -4625,6 +4648,7 @@ https://www.supremesovietoflove.com/wp/
 https://www.teleseryeone.com/
 https://www.thesnapchatmodapk.com/update1.exe
 https://www.tikitok-playgoolge.sbs
+https://www.tt250627linecfg.xyz
 https://www.upsystems.one/Alex.exe
 https://www.us.registration.fcaministers.com/
 https://www.wagenbaugrabs.ch/
@@ -4636,6 +4660,7 @@ https://www.ww-fifa.com/cart`
 https://www.xt24.com/install/update.ps1
 https://www.yesexyporn.com/
 https://www.yespp.co.kr/common/include/code/out.php
+https://www.ylhg250627linecfg.xyz
 https://www.younghentai.net/
 https://www1.zonewebmaster.eu/news/
 https://www2.pelisyseries.net/
@@ -4681,6 +4706,8 @@ https://zakosta.info/dtxa8wa
 https://zakosta.info/kugyrj5
 https://zam.claydc.top
 https://zamok.claysrat.top/
+https://zc.nationbj.com
+https://zc.nationbj.com/device/register
 https://zdrhnmjjndu.ulbcl.com/7uchSEp6DIEAqux?a3f65e=417ae7f384c49de8c672aec86d5a2860
 https://zdrhnmjjndu.ulbcl.com/tWe0ASmXJbDz3KGh?4a1bbe6d=31d25ddf2697b9e13ee883fff328b22f
 https://zenavuurwerkofficial.com/62is
