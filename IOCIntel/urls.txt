@@ -487,6 +487,8 @@ http://88.214.25.249:443/netexit.rar
 http://89.110.98.234/winload.exe
 http://89.110.98.234/winload.rar
 http://89.124.81.216:9000/wbinjget?q=B2E581C85432BD4DF6A59A00CBDA1CB3
+http://89.125.213.123:8080/P.ps1
+http://89.125.213.123:8080/decoy.pdf
 http://89.144.31.18/nuts/bolts
 http://89.144.31.18/nuts/x86
 http://89.169.12.160/api/NTEsN2QsN2UsNTgsNWIsNjAsNjIsNjcsYyw3OSw=
