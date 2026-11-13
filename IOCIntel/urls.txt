@@ -648,6 +648,7 @@ http://api.active-enable-right-click.top/?uuid=
 http://api.bdustatic.com/jquery.min-4.0.12.js
 http://api.cloudapi.stream:8443/Register
 http://api.cloudapi.stream:8443/Translation
+http://api.cloudvflare.com:443
 http://api.jeetbot.cc/api/v2/public/extension_helper/
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
@@ -2068,6 +2069,7 @@ http://www.dpswebsafe.com/rd/
 http://www.dpswebsafe.com/rd/?q=
 http://www.drivelivelime.com/pw
 http://www.drivelivelime.com/x
+http://www.dumbsplash.com/ilto/
 http://www.e-kflower.com/_prozn/_skin_mbl/home/KApp.rar
 http://www.e-kflower.com/_prozn/_skin_mbl/home/KAppl.rar
 http://www.gehie246.com/712down
