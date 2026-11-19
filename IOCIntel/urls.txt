@@ -6,6 +6,7 @@ http://103.170.217.184:8787
 http://103.177.110.202/bot_x64.exe
 http://103.231.75.101:8888
 http://103.249.117.183/receive.php
+http://103.249.201.108:9882/trigger/benign:latest
 http://103.77.242.187/receive.php
 http://103.86.86.244:800/Gateway/deploy_silent1.Ps1
 http://103.86.86.244:800/Gateway/r.Zip
@@ -50,6 +51,7 @@ http://14.103.145.202/rondo.
 http://140.206.161.227:443
 http://141.98.11.175/fakeurl.htm
 http://142.250.151.94:80
+http://143.20.50.71/eclipse.x86_64
 http://144.126.140.33:3000
 http://144.126.140.33:3000/admin
 http://144.126.140.33:3000/api/users
@@ -93,10 +95,12 @@ http://164.68.120.30:550/99/Skype.ps1
 http://166.0.25.106/filemanager.asp
 http://166.88.11.10/upload/check.asp
 http://167.148.201.106:725/fakeurl.htm
+http://167.148.201.224/app/5dbd80d34839/ClipboardFusion.msi
 http://167.233.30.202/files/9je7p2.exe
 http://167.233.30.202/files/swfe60.exe
 http://167.233.30.202/files/wjpr1q.exe
 http://167.233.30.202/files/xgc6jp.exe
+http://167.76.44.160/app/5dbd80d34839/ClipboardFusion.msi
 http://172.111.200.133:8080/admin/
 http://172.111.200.133:8090
 http://172.111.200.133:8090/login
@@ -415,6 +419,12 @@ http://77.110.122.58:23205/cons_1.0.1.msi
 http://77.110.122.58:23205/lQhEQui9a4lZ.exe
 http://77.110.122.58:23205/lQhEQui9a4lZ.exe'
 http://77.110.122.58:44479/bjxxUmG8K3uy.ps1
+http://77.239.124.170/e
+http://77.239.124.170/eclipse.arm5
+http://77.239.124.170/eclipse.arm7
+http://77.239.124.170/eclipse.mips
+http://77.239.124.170/eclipse.mpsl
+http://77.239.124.170/eclipse.x86_64
 http://77.83.207.106:56001
 http://77.90.153.136/ss/armv4l
 http://77.91.100.175/html/app.php
@@ -469,6 +479,7 @@ http://83.252.42.112/rondo.powerpc-440fp
 http://83.252.42.112/rondo.sh4
 http://83.252.42.112/rondo.sparc
 http://83.252.42.112/rondo.x86_64
+http://84.200.205.145:55557/junk50k.bin
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip
 http://84.200.80.252/SAgentInstaller_16.7.10368.56560.zip'
 http://84.54.33.192:8040/Bin/ScreenConnect.ClientSetup.msi
@@ -633,6 +644,7 @@ http://alt.e-wl.com:9000/hook/alt
 http://amandabennette.freeddns.org:4400
 http://amormc.com/index.php?3xmvgr
 http://amormc.com/index.php?ndv5f1
+http://an-east.androidannotations.com/vanilla/B67j96dg.php
 http://analytics.freshdatainsights.org/display/2025/uid_8oQRkgpvMSgmBFt9/WondershareApplicationManual.pdf
 http://anukitax.com/forminw9/
 http://anydeesk.ink/download/anydesk.html
@@ -647,6 +659,8 @@ http://anywherehost.site/xms/kill2.sh
 http://anywherehost.site/xms/su
 http://anywherehost.site/xms/t1.ps1
 http://api.active-enable-right-click.top/?uuid=
+http://api.androiddevpool.com/mike/B67j96dg.php
+http://api.androidwebsys.com/delta/X25r87Nf.php
 http://api.bdustatic.com/jquery.min-4.0.12.js
 http://api.cloudapi.stream:8443/Register
 http://api.cloudapi.stream:8443/Translation
@@ -903,6 +917,7 @@ http://comet.kickcharge.com/assets/images/in/?emp=
 http://concursal.macquet.de/uid_page=244739642061129
 http://confirmation8324-booking.com/17149438
 http://confirmation887-booking.com/17149438
+http://connectivity.androidstaticserve.com/blue/B67j96dg.php
 http://conocophillips.live/
 http://conocophillips.live/app/index.html
 http://conocophils.com/index.html
@@ -1441,6 +1456,7 @@ http://megadencer.top/home/eng10
 http://memphiswawu.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 http://meomeoli.mooo.com:8820/CLoadPXP/lix.exe?pass=PXPa9682775lckbitXPRopGIXPIL
 http://message.zoo-ciry.shop/
+http://meta.androidasynclib.com/azure/H54F257gd4.php
 http://metakit.fireant.vn/Software/setup.exe
 http://metakit.fireant.vn/Software/version.xml
 http://mewo.oceanic-node.su:3443
@@ -1807,6 +1823,7 @@ http://stardancer.fun/home/voteCZ03
 http://stars.medbury.com:18810
 http://start.cleaning-room-device.shop/sha589.m4a
 http://stat.bluetroniq.vip/
+http://static.androidufslib.com/hotel/H28j75Ft.php
 http://static.bytedauce.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css
 http://static.eigbox.ne
 http://stats.us3.org/matomo.php
@@ -1942,6 +1959,7 @@ http://trk.entiretrack.com/
 http://trk.entiretrack.com/trackerwcfsrv/tracker.svc/trackUpdate/?q=
 http://tronracing.com/upload/check.asp
 http://tronscaner.net/infos.php
+http://trycloudflare.com/read/x5fa4534:b1
 http://tuasesoriadigital.es/default.dat
 http://tubeluck.com
 http://tumbl.design-x.xyz/glass.mp3
@@ -2255,6 +2273,7 @@ http://zhuangshi.pproxy.top/proxy
 http://ztvnhmhm4zj95w3.xyz
 https://0x0.st/8WBr.py
 https://0xrpc.io/sep
+https://1.116.130.98:91
 https://107.155.137.18/api/v150
 https://107.155.137.18/api/v152
 https://136.0.141.138:8406/rcv/
@@ -4125,6 +4144,7 @@ https://rzt.clayfenrirhuy.top/login
 https://s.fusebase-search.com/search?q=
 https://s.wwwhotsalebooks.ru/
 https://s.xn--90ahaa0atead2a.xn--p1ai/
+https://s3.buckets.ninja
 https://s3.ru-3.storage.selcloud.ru
 https://saaadnesss.shop/check'
 https://sadjd.mijieqi.cn/group.html
