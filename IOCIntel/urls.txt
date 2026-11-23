@@ -64,6 +64,10 @@ http://147.124.202.205/api/service/makelog
 http://149.129.37.105:30005
 http://149.154.167.99:443
 http://149.248.11.71/rest/apisession
+http://151.244.30.176/194ff485-5d31-4a51-912e-b138e98ff750
+http://151.244.30.176/194ff485-5d31-4a51-912e-b138e98ff750.
+http://151.244.30.176:80/505a3c0c-3cf2-4f5d-83b7-f6637ca3209f
+http://151.244.30.176:80/505a3c0c-3cf2-4f5d-83b7-f6637ca3209f.
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
 http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
 http://154.205.145.179:8000/ligolo-mp_linux_amd64
@@ -328,6 +332,9 @@ http://45.76.155.202/update/update.exe.
 http://45.77.31.210/users/admin
 http://45.89.53.54
 http://45.90.13.210:443
+http://45.92.111.116:8443
+http://45.92.111.116:8889
+http://45.92.111.116:8890
 http://45.95.147.178/hima_data/index.php
 http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md5=&proxyPassword=&proxyUsername=&userId=
 http://47.106.197.183:8802
@@ -382,6 +389,7 @@ http://65sse.668ddf.cc/tuiliu/group.html
 http://66.179.94.117/157/fsf090g90dfg090asdfxcv0sdf09sdf90200002f0sf0df09f0s9f0sdf0sf00ds.vbe
 http://66.179.94.117/157/w/w.doc
 http://6612271478.sbs/google.php
+http://67.215.227.138:3000/nano/ios_script.git
 http://67.217.57.240:666/files/netsh
 http://68.142.129.4:8277/download/c.sh
 http://6esygx.space
@@ -3573,6 +3581,8 @@ https://islapickis.com/ftx/
 https://itencrypted.co/816c04559c
 https://itencrypted.com/64d32dx
 https://itrexmssl.com/jasmin/altor/receptor.php
+https://iyegjb.cc/
+https://iyegjb.cc/assets/js/m.js
 https://jackson-portfolio.vercel.app
 https://jalwat.com/static/uploads/campaigns/6/update.zip
 https://jamerimprovementsllc.com/ao9o
