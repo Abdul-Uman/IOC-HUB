@@ -50,6 +50,7 @@ http://139.99.17.175/test_exe/version.dll
 http://14.103.145.202/rondo.
 http://140.206.161.227:443
 http://141.98.11.175/fakeurl.htm
+http://142.11.210.231/bins/packets.mipe
 http://142.250.151.94:80
 http://143.20.50.71/eclipse.x86_64
 http://144.126.140.33:3000
@@ -124,6 +125,7 @@ http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/gcvvPu2KXdqEbDpJQ33/
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/rrvvPu2KXdqEbDpJQ33/
 http://178.92.162.38:443
 http://181.231.253.69:4444
+http://185.106.102.70:8080/HK5PpjU6I9ug0zmNZqAFdIPa9wayXl2RZ
 http://185.118.164.195/c
 http://185.158.113.114:5000/affiliate/builder.
 http://185.183.97.25/protocol/function.php
@@ -539,6 +541,7 @@ http://91.202.233.215/t/qpwoe64.txt
 http://91.202.233.215/win64.vbs
 http://91.215.85.103/pay_or_leak/instructure_affected_schools_list.txt
 http://91.92.240.190/fbfde0da45a9450b.php
+http://91.92.242.236/files-129312398/files/file_583f8856851a870c.exe
 http://91.92.242.30/1v07y9e1m6v7thl6
 http://91.92.242.30/6wioz8285kcbax6v
 http://91.92.242.30/6x8c0trkp4l9uugo
@@ -1494,6 +1497,9 @@ http://mnjk-jk.bsdfg-zmp-q-n.shop/1.mp4
 http://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083/
 http://mofagovnp-bm46fjwo.b4a.run/
 http://monicasue.app.n8n.cloud/webhook/download-file-92684bb4-ee1d-4806-a264-50bfeb750dab
+http://monkeysholder.info/api.php
+http://monkeysholder.info/api.php?d5758ec1
+http://monkeysholder.info/index.php
 http://moonscan.live/7w2NU3Z-.php
 http://moreultras.store/2r3a/
 http://mos3.biz/?webcal=me2tanrymi5gi3bpgu4tmna&u=230c9837-23ee-4208-8df0-1fa854490c90&l=24&t=1620652575&g=3&al=ar&sub1=&sub2=&sub3=&sub4=b0690ftho9zwh124
@@ -1604,6 +1610,7 @@ http://panelbalonxfs.xyz/admin/api/api/rest
 http://panelbalonxfs.xyz/admin/api/api/token
 http://paralegalmustang.icu/script.sh
 http://parky.pics:3989
+http://pastebin.com/raw/swqSMxYs
 http://pbfenergy.cc/
 http://pbfenergy.cc/.
 http://pch.e-wl.com:9000/hook/pch
@@ -2076,6 +2083,7 @@ http://web071zoom.us/fix/audio-fv/7217417464
 http://web071zoom.us/fix/audio-tr/7217417464
 http://web071zoom.us/fix/audio/4542828056
 http://webhook.site/22b6b8c8-2e07-4878-a681-b772e569aa6a
+http://webhook.site/72f421ea-5576-4a4a-8c55-a2a79c19c8b8
 http://webmensagens4bb7.com/
 http://webrat.in/login/
 http://webservermail-g2689far.b4a.run/login
@@ -2955,6 +2963,8 @@ https://cloudcraftshub.com/api
 https://cloudflare.carriernetworks.top/?sharingcenterDelivery_Unboxing_Verification.MP4
 https://cloudflare.report/forever/e/
 https://cloudmeri.com/comm.php
+https://cloudservicebase.ddns.net/update/CVE-2026-44747_patch.dat
+https://cloudservicebase.ddns.net/update/CVE-2026-44747_patch.dat'
 https://cloudy.pk/
 https://cmfbadminton.com/sigaa3f
 https://cmgovernadorluizrocha.ma.gov.br/Comprovantepdf.exe
@@ -4119,6 +4129,7 @@ https://reg.gitshreg611.xyz/device/register
 https://reg.gitshreg611.xyz/device/register|bydbikeend
 https://reg.gptreg0706.xyz
 https://reminders.trahum.org/Scheduled_Internet_Outages.doc
+https://remote.medochomie.com/api/ClientDownloads/WindowsInstaller/0f3db892-22d4-4479-a7ec-e54a375bd19c'
 https://res54allb.xn--xkrsa0078bd6d.com/group.html
 https://resilientlimb.icu/script.sh
 https://resolvecenprot.com/pdf
@@ -4217,6 +4228,8 @@ https://sessivesnet.us/4veszc4
 https://setseta.com/
 https://setseta.com//set.exe
 https://setseta.com//taskis.exe
+https://setup-assistant.com/api/collect
+https://setup-assistant.com/api/config
 https://seven7.vip/group.html
 https://sg-gpts.playerinfinite.com/comm/assets/lib/aegis-fix.min.js
 https://sg-gpts.playerinfinite.com/comm/assets/lib/vue-bucket.min.js
